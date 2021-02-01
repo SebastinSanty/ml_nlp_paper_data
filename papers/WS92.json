@@ -1,0 +1,195 @@
+[
+    {
+        "authors": [
+            "Kjell Morland",
+            "Kari Sørstrømmen"
+        ],
+        "title": "Proceedings of the 8th Nordic Conference of Computational Linguistics (NODALIDA 1991)",
+        "url": "https://www.aclweb.org/anthology/W91-0300/",
+        "source_type": "WS",
+        "year": "1992",
+        "source": "WS92",
+        "id": "WS92-0"
+    },
+    {
+        "authors": [
+            "Lars Ahrenberg",
+            "Stefan Svenberg"
+        ],
+        "title": "Conceptual text representation for multi-lingual generation and translation",
+        "url": "https://www.aclweb.org/anthology/W91-0301/",
+        "source_type": "WS",
+        "year": "1992",
+        "source": "WS92",
+        "id": "WS92-1"
+    },
+    {
+        "authors": [
+            "Magnar Brekke",
+            "Roald Skarsten"
+        ],
+        "title": "Operasjonell maskinomsetjing: Kvar møter vi veggen? (Operational machine translation: Where is the limit?) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W91-0302/",
+        "source_type": "WS",
+        "year": "1992",
+        "source": "WS92",
+        "id": "WS92-2"
+    },
+    {
+        "authors": [
+            "Björn Beskow"
+        ],
+        "title": "Unification Based Transfer",
+        "url": "https://www.aclweb.org/anthology/W91-0303/",
+        "source_type": "WS",
+        "year": "1992",
+        "source": "WS92",
+        "id": "WS92-3"
+    },
+    {
+        "authors": [
+            "Adams B. Bodomo"
+        ],
+        "title": "A Unification-based Grammar of Serial Verb Constructions",
+        "url": "https://www.aclweb.org/anthology/W91-0304/",
+        "source_type": "WS",
+        "year": "1992",
+        "source": "WS92",
+        "id": "WS92-4"
+    },
+    {
+        "authors": [
+            "Ellen Christoffersen",
+            "Margrethe H. Møller"
+        ],
+        "title": "Maskinoversættelse af tyske NPer (Machine translation of German noun phrases) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W91-0305/",
+        "source_type": "WS",
+        "year": "1992",
+        "source": "WS92",
+        "id": "WS92-5"
+    },
+    {
+        "authors": [
+            "Helge Dyvik"
+        ],
+        "title": "Linguistics and Machine Translation",
+        "url": "https://www.aclweb.org/anthology/W91-0306/",
+        "source_type": "WS",
+        "year": "1992",
+        "source": "WS92",
+        "id": "WS92-6"
+    },
+    {
+        "authors": [
+            "Gunnar Eriksson"
+        ],
+        "title": "En homografseparator baserad på sannolikhet (A probability-based homograph disambiguator) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W91-0307/",
+        "source_type": "WS",
+        "year": "1992",
+        "source": "WS92",
+        "id": "WS92-7"
+    },
+    {
+        "authors": [
+            "Peter Molbæk Hansen",
+            "Ebbe Spang-Hanssen"
+        ],
+        "title": "Syntax and prosody in a Danish Text-to-Speech System",
+        "url": "https://www.aclweb.org/anthology/W91-0308/",
+        "source_type": "WS",
+        "year": "1992",
+        "source": "WS92",
+        "id": "WS92-8"
+    },
+    {
+        "authors": [
+            "Per Hedelin",
+            "Dieter Huber"
+        ],
+        "title": "A new Dictionary of Swedish Pronunciation",
+        "url": "https://www.aclweb.org/anthology/W91-0309/",
+        "source_type": "WS",
+        "year": "1992",
+        "source": "WS92",
+        "id": "WS92-9"
+    },
+    {
+        "authors": [
+            "Anna Sågvall Hein"
+        ],
+        "title": "On the Coverage of a Morphological Analyser based on “Svensk Ordbok” [A Dictionary of Swedish]",
+        "url": "https://www.aclweb.org/anthology/W91-0310/",
+        "source_type": "WS",
+        "year": "1992",
+        "source": "WS92",
+        "id": "WS92-10"
+    },
+    {
+        "authors": [
+            "Dieter Huber"
+        ],
+        "title": "Integrating Syntagmatic Information in a Dictionary for Computer Speech Applications",
+        "url": "https://www.aclweb.org/anthology/W91-0311/",
+        "source_type": "WS",
+        "year": "1992",
+        "source": "WS92",
+        "id": "WS92-11"
+    },
+    {
+        "authors": [
+            "Anna K. Lysne"
+        ],
+        "title": "PC-phonetics: A help or a strain for the philologist?",
+        "url": "https://www.aclweb.org/anthology/W91-0312/",
+        "source_type": "WS",
+        "year": "1992",
+        "source": "WS92",
+        "id": "WS92-12"
+    },
+    {
+        "authors": [
+            "Torbjørn Nordgård"
+        ],
+        "title": "Determinisme og syntaktisk flertydighet (Determinism and syntactical ambiguity) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W91-0313/",
+        "source_type": "WS",
+        "year": "1992",
+        "source": "WS92",
+        "id": "WS92-13"
+    },
+    {
+        "authors": [
+            "Jørgen Villadsen"
+        ],
+        "title": "Anaphora and Intensionality in Classical Logic",
+        "url": "https://www.aclweb.org/anthology/W91-0314/",
+        "source_type": "WS",
+        "year": "1992",
+        "source": "WS92",
+        "id": "WS92-14"
+    },
+    {
+        "authors": [
+            "Eva Wikholm"
+        ],
+        "title": "Übersetzungstheorie und maschinelle Übersetzung (Translation theory and machine translation) [In German]",
+        "url": "https://www.aclweb.org/anthology/W91-0315/",
+        "source_type": "WS",
+        "year": "1992",
+        "source": "WS92",
+        "id": "WS92-15"
+    },
+    {
+        "authors": [
+            "Annette Östling"
+        ],
+        "title": "A Swedish Core Vocabulary for Machine Translation",
+        "url": "https://www.aclweb.org/anthology/W91-0316/",
+        "source_type": "WS",
+        "year": "1992",
+        "source": "WS92",
+        "id": "WS92-16"
+    }
+]

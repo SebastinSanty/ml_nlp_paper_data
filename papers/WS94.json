@@ -1,0 +1,1011 @@
+[
+    {
+        "authors": [
+            "Robert Eklund"
+        ],
+        "title": "Proceedings of the 9th Nordic Conference of Computational Linguistics (NODALIDA 1993)",
+        "url": "https://www.aclweb.org/anthology/W93-0400/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-0"
+    },
+    {
+        "authors": [
+            "Lars Ahrenberg"
+        ],
+        "title": "Topological frames in sign-based grammars",
+        "url": "https://www.aclweb.org/anthology/W93-0401/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-1"
+    },
+    {
+        "authors": [
+            "Jan Anward"
+        ],
+        "title": "Pieces for a Global Puzzle",
+        "url": "https://www.aclweb.org/anthology/W93-0402/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-2"
+    },
+    {
+        "authors": [
+            "Björn Beskow"
+        ],
+        "title": "System Architecture and Control in the Multra System",
+        "url": "https://www.aclweb.org/anthology/W93-0403/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-3"
+    },
+    {
+        "authors": [
+            "Benny Brodda"
+        ],
+        "title": "Automatic Tagging of Turns in the London-Lund Corpus with Respect to Type of Turn",
+        "url": "https://www.aclweb.org/anthology/W93-0404/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-4"
+    },
+    {
+        "authors": [
+            "Douglass Cutting"
+        ],
+        "title": "Porting a Stochastic Part-of-Speech Tagger to Swedish",
+        "url": "https://www.aclweb.org/anthology/W93-0405/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-5"
+    },
+    {
+        "authors": [
+            "Martin Eineborg",
+            "Björn Gambäck"
+        ],
+        "title": "Tagging Experiments Using Neural Networks",
+        "url": "https://www.aclweb.org/anthology/W93-0406/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-6"
+    },
+    {
+        "authors": [
+            "Robert Eklund"
+        ],
+        "title": "A Probabilistic Word Class Tagging Module Based On Surface Pattern Matching",
+        "url": "https://www.aclweb.org/anthology/W93-0407/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-7"
+    },
+    {
+        "authors": [
+            "Björn Gambäck"
+        ],
+        "title": "On Implementing Swedish Tense and Aspect",
+        "url": "https://www.aclweb.org/anthology/W93-0408/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-8"
+    },
+    {
+        "authors": [
+            "Steffen Leo Hansen"
+        ],
+        "title": "Reasoning with a Domain Model",
+        "url": "https://www.aclweb.org/anthology/W93-0409/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-9"
+    },
+    {
+        "authors": [
+            "Peter Ingels"
+        ],
+        "title": "Robust Parsing with Charts and Relaxation",
+        "url": "https://www.aclweb.org/anthology/W93-0410/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-10"
+    },
+    {
+        "authors": [
+            "Per Anker Jensen",
+            "Bodil Nistrup Madsen",
+            "Annie Stahél",
+            "Carl Vikner"
+        ],
+        "title": "From Semantic Representations to SQL Queries",
+        "url": "https://www.aclweb.org/anthology/W93-0411/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-11"
+    },
+    {
+        "authors": [
+            "Jussi Karlgren",
+            "Björn Gambäck",
+            "Christer Samuelsson"
+        ],
+        "title": "Clustering Sentences – Making Sense of Synonymous Sentences",
+        "url": "https://www.aclweb.org/anthology/W93-0412/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-12"
+    },
+    {
+        "authors": [
+            "Arne Larson",
+            "Magnus Merkel"
+        ],
+        "title": "Semiotics at Work: Technical Communication and Translation in a Multilingual Corporate Environment",
+        "url": "https://www.aclweb.org/anthology/W93-0413/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-13"
+    },
+    {
+        "authors": [
+            "Joakim Nivre"
+        ],
+        "title": "Pragmatics Through Context Management",
+        "url": "https://www.aclweb.org/anthology/W93-0414/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-14"
+    },
+    {
+        "authors": [
+            "Torbjørn Nordgård"
+        ],
+        "title": "On GB Parsing and Semantic Interpretation",
+        "url": "https://www.aclweb.org/anthology/W93-0415/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-15"
+    },
+    {
+        "authors": [
+            "Ole Norling-Christensen"
+        ],
+        "title": "Methods and Tools for Corpus Lexicography",
+        "url": "https://www.aclweb.org/anthology/W93-0416/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-16"
+    },
+    {
+        "authors": [
+            "Claus Povlsen"
+        ],
+        "title": "Natural language processing in dialogue systems with spoken input",
+        "url": "https://www.aclweb.org/anthology/W93-0417/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-17"
+    },
+    {
+        "authors": [
+            "Björn Rauch"
+        ],
+        "title": "Automatisk igenkänning av nominalfraser i löpande text (Automatic recognition of nominal phrases in running text) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W93-0418/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-18"
+    },
+    {
+        "authors": [
+            "Atle Ro"
+        ],
+        "title": "Interlanguage and Set Theory",
+        "url": "https://www.aclweb.org/anthology/W93-0419/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-19"
+    },
+    {
+        "authors": [
+            "Christer Samuelsson"
+        ],
+        "title": "Morphological Tagging Based Entirely on Bayesian Inference",
+        "url": "https://www.aclweb.org/anthology/W93-0420/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-20"
+    },
+    {
+        "authors": [
+            "Peter Seipel"
+        ],
+        "title": "Vad jag i min verksamhet som rättsinformatiker och jurist skulle vilja att datorlingvistiken bidrog med (What I in my practice as a legal informatician and lawyer would want that computational linguistics contributed with) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W93-0421/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-21"
+    },
+    {
+        "authors": [
+            "Annie Stahél",
+            "Helle Wegener"
+        ],
+        "title": "Domain Modeling and Knowledge Structures",
+        "url": "https://www.aclweb.org/anthology/W93-0422/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-22"
+    },
+    {
+        "authors": [
+            "Anna Sågvall Hein"
+        ],
+        "title": "Preferences and Linguistic Choices in the Multra Machine Translation System",
+        "url": "https://www.aclweb.org/anthology/W93-0423/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-23"
+    },
+    {
+        "authors": [
+            "Torben Thrane"
+        ],
+        "title": "Constituency and Semantic Interpretation",
+        "url": "https://www.aclweb.org/anthology/W93-0424/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-24"
+    },
+    {
+        "authors": [
+            "Martha Thunes"
+        ],
+        "title": "Machine Translation Strategies: A Comparison of F-Structure Transfer and Semantically Based Interlingua",
+        "url": "https://www.aclweb.org/anthology/W93-0425/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-25"
+    },
+    {
+        "authors": [
+            "Atro Voutilainen"
+        ],
+        "title": "A Noun Phrase Parser of English",
+        "url": "https://www.aclweb.org/anthology/W93-0426/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-26"
+    },
+    {
+        "authors": [
+            "Margareta Westman"
+        ],
+        "title": "Vad jag i min verksamhet som språkvårdare skulle vilja att datorlingvistiken bidrog med (What I in my practice as a language consultant would want that computational linguistics contributed with) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W93-0427/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-27"
+    },
+    {
+        "authors": [
+            "Jordan Zlatev"
+        ],
+        "title": "From English to PFO: A Formal Semantic Parser",
+        "url": "https://www.aclweb.org/anthology/W93-0428/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-28"
+    },
+    {
+        "authors": [],
+        "title": "The Balancing Act: Combining Symbolic and Statistical Approaches to Language",
+        "url": "https://www.aclweb.org/anthology/W94-0100/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-29"
+    },
+    {
+        "authors": [
+            "Hiyan Alshawi"
+        ],
+        "title": "INVITED TALK: Qualitative and Quantitative Designs for Speech Translation",
+        "url": "https://www.aclweb.org/anthology/W94-0101/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-30"
+    },
+    {
+        "authors": [
+            "Roberto Basili",
+            "Maria Teresa Pazienza",
+            "Paola Velardi"
+        ],
+        "title": "The Noisy Channel and the Braying Donkey",
+        "url": "https://www.aclweb.org/anthology/W94-0102/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-31"
+    },
+    {
+        "authors": [
+            "Eric Atwell",
+            "John Hughes",
+            "Clive Souter"
+        ],
+        "title": "AMALGAM: Automatic Mapping Among Lexico-Grammatical Annotation Models",
+        "url": "https://www.aclweb.org/anthology/W94-0103/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-32"
+    },
+    {
+        "authors": [
+            "Beatrice Daille"
+        ],
+        "title": "Study and Implementation of Combined Techniques for Automatic Extraction of Terminology",
+        "url": "https://www.aclweb.org/anthology/W94-0104/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-33"
+    },
+    {
+        "authors": [
+            "Andrew Fordham",
+            "Matthew Crocker"
+        ],
+        "title": "Parsing with Principles and Probabilities",
+        "url": "https://www.aclweb.org/anthology/W94-0105/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-34"
+    },
+    {
+        "authors": [
+            "Vasileios Hatzivassiloglou"
+        ],
+        "title": "Do we Need Linguistics When We Have Statistics? A Comparative Analysis of the Contributions of Linguistic Cues to a Statistical Word Grouping System",
+        "url": "https://www.aclweb.org/anthology/W94-0106/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-35"
+    },
+    {
+        "authors": [
+            "Aravind K. Joshi",
+            "B. Srinivas"
+        ],
+        "title": "Complexity of Description of Primitives: Relevance to Local Statistical Computations",
+        "url": "https://www.aclweb.org/anthology/W94-0107/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-36"
+    },
+    {
+        "authors": [
+            "Shyam Kapur",
+            "Robin Clark"
+        ],
+        "title": "The Automatic Construction of a Symbolic Parser Via Statistical Techniques",
+        "url": "https://www.aclweb.org/anthology/W94-0108/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-37"
+    },
+    {
+        "authors": [
+            "Marie Meteer",
+            "Herbert Gish"
+        ],
+        "title": "Integrating Symbolic and Statistical Approches in Speech and Natural Language Applications",
+        "url": "https://www.aclweb.org/anthology/W94-0109/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-38"
+    },
+    {
+        "authors": [
+            "Patti Price"
+        ],
+        "title": "Combining Linguistic with Statistical Methods in Automatic Speech Understanding",
+        "url": "https://www.aclweb.org/anthology/W94-0110/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-39"
+    },
+    {
+        "authors": [
+            "Lance A. Ramshaw",
+            "Mitchell P. Marcus"
+        ],
+        "title": "Exploring the Statistical Derivation of Transformational Rule Sequences for Part-of-Speech Tagging",
+        "url": "https://www.aclweb.org/anthology/W94-0111/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-40"
+    },
+    {
+        "authors": [
+            "Stephen D. Richardson"
+        ],
+        "title": "Bootstrapping Statistical Processing into a Rule-Based Natural Language Parser",
+        "url": "https://www.aclweb.org/anthology/W94-0112/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-41"
+    },
+    {
+        "authors": [
+            "Carolyn Penstein Rose",
+            "Alex Waibel"
+        ],
+        "title": "Recovering From Parser Failures: A Hybrid Statistical/Symbolic Approach",
+        "url": "https://www.aclweb.org/anthology/W94-0113/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-42"
+    },
+    {
+        "authors": [
+            "Neil C. Rowe"
+        ],
+        "title": "Statistical versus Symbolic Parsing for Captioned-Information Retrieval",
+        "url": "https://www.aclweb.org/anthology/W94-0114/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-43"
+    },
+    {
+        "authors": [
+            "Danny Soloman",
+            "Mary McGee Wood"
+        ],
+        "title": "Learning a Radically Lexical Grammar",
+        "url": "https://www.aclweb.org/anthology/W94-0115/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-44"
+    },
+    {
+        "authors": [],
+        "title": "Computational Phonology",
+        "url": "https://www.aclweb.org/anthology/W94-0200/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-45"
+    },
+    {
+        "authors": [
+            "Steven Bird"
+        ],
+        "title": "Automated Tone Transcription",
+        "url": "https://www.aclweb.org/anthology/W94-0201/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-46"
+    },
+    {
+        "authors": [
+            "Michael Mastroianni",
+            "Bob Carpenter"
+        ],
+        "title": "Constraint-based Morpho-phonology",
+        "url": "https://www.aclweb.org/anthology/W94-0202/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-47"
+    },
+    {
+        "authors": [
+            "T. Mark Ellison"
+        ],
+        "title": "Constraints, Exceptions and Representations",
+        "url": "https://www.aclweb.org/anthology/W94-0203/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-48"
+    },
+    {
+        "authors": [
+            "Gerald Penn",
+            "Richmond Thomason"
+        ],
+        "title": "Default Finite State Machines and Finite State Phonology",
+        "url": "https://www.aclweb.org/anthology/W94-0204/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-49"
+    },
+    {
+        "authors": [
+            "Sheila M. Williams"
+        ],
+        "title": "Lexical Phonology and Speech Style: Using a Model to Test a Theory",
+        "url": "https://www.aclweb.org/anthology/W94-0205/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-50"
+    },
+    {
+        "authors": [
+            "Michael Maxwell"
+        ],
+        "title": "Parsing Using Linearly Ordered Phonological Rules",
+        "url": "https://www.aclweb.org/anthology/W94-0206/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-51"
+    },
+    {
+        "authors": [
+            "Thomas C. Bourgeois",
+            "Richard T. Oehrle"
+        ],
+        "title": "Qualitative and Quantitative Dynamics of Vowels",
+        "url": "https://www.aclweb.org/anthology/W94-0207/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-52"
+    },
+    {
+        "authors": [
+            "Timothy A. Cartwright",
+            "Michael R. Brent"
+        ],
+        "title": "Segmenting Speech Without a Lexicon: The Roles of Phonotactics and Speech Source",
+        "url": "https://www.aclweb.org/anthology/W94-0208/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-53"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the Seventh International Workshop on Natural Language Generation",
+        "url": "https://www.aclweb.org/anthology/W94-0300/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-54"
+    },
+    {
+        "authors": [
+            "Mark Seligman"
+        ],
+        "title": "Discovery and Format of Input Structures for Tactical Generation",
+        "url": "https://www.aclweb.org/anthology/W94-0301/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-55"
+    },
+    {
+        "authors": [
+            "R. Michael Young",
+            "Johanna D. Moore"
+        ],
+        "title": "DPOCL: A Principled Approach To Discourse Planning",
+        "url": "https://www.aclweb.org/anthology/W94-0302/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-56"
+    },
+    {
+        "authors": [
+            "Robert Granville"
+        ],
+        "title": "Building Underlying Structures for Multiparagraph Texts",
+        "url": "https://www.aclweb.org/anthology/W94-0303/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-57"
+    },
+    {
+        "authors": [
+            "Daniel D. Suthers"
+        ],
+        "title": "Sequencing as a Planning Task",
+        "url": "https://www.aclweb.org/anthology/W94-0304/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-58"
+    },
+    {
+        "authors": [
+            "Ingrid Zukerman",
+            "Richard McConachy"
+        ],
+        "title": "Discourse Planning as an Optimization Process",
+        "url": "https://www.aclweb.org/anthology/W94-0305/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-59"
+    },
+    {
+        "authors": [
+            "Cecile L. Paris",
+            "Donia R. Scott"
+        ],
+        "title": "Intentions, Structure and Expression in Multi-Lingual Instructions",
+        "url": "https://www.aclweb.org/anthology/W94-0306/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-60"
+    },
+    {
+        "authors": [
+            "Leila Kosseim",
+            "Guy Lapalme"
+        ],
+        "title": "Content and Rhetorical Status Selection in Instructional Texts",
+        "url": "https://www.aclweb.org/anthology/W94-0307/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-61"
+    },
+    {
+        "authors": [
+            "Judy Delin",
+            "Anthony Hartley",
+            "Cecile Paris",
+            "Donia Scott",
+            "Keith Vander Linden"
+        ],
+        "title": "Expressing Procedural Relationships in Multilingual Instructions",
+        "url": "https://www.aclweb.org/anthology/W94-0308/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-62"
+    },
+    {
+        "authors": [
+            "Robin P. Fawcett"
+        ],
+        "title": "On Moving On On Ontologies",
+        "url": "https://www.aclweb.org/anthology/W94-0309/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-63"
+    },
+    {
+        "authors": [
+            "David D. McDonald",
+            "Federica Busa"
+        ],
+        "title": "On the Creative Use of Language: The Form of Lexical Resources",
+        "url": "https://www.aclweb.org/anthology/W94-0310/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-64"
+    },
+    {
+        "authors": [
+            "Evelyne Viegas",
+            "Pierrette Bouillon"
+        ],
+        "title": "Semantic Lexicons: The Cornerstone for Lexical Choice in Natural Language Generation",
+        "url": "https://www.aclweb.org/anthology/W94-0311/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-65"
+    },
+    {
+        "authors": [
+            "Marie Meteer"
+        ],
+        "title": "Generating Event Descriptions with Sage: A Simulation and Generation Environment",
+        "url": "https://www.aclweb.org/anthology/W94-0312/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-66"
+    },
+    {
+        "authors": [
+            "Liesbeth Degand"
+        ],
+        "title": "Towards an Account of Causation in a Multilingual Text Generation System",
+        "url": "https://www.aclweb.org/anthology/W94-0313/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-67"
+    },
+    {
+        "authors": [
+            "Beryl Hoffman"
+        ],
+        "title": "Generating Context Appropriate Word Orders in Turkish",
+        "url": "https://www.aclweb.org/anthology/W94-0314/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-68"
+    },
+    {
+        "authors": [
+            "Franck Panaget"
+        ],
+        "title": "Using a Textual Representation Level Component in the Context of Discourse and Dialogue Generation",
+        "url": "https://www.aclweb.org/anthology/W94-0315/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-69"
+    },
+    {
+        "authors": [
+            "Leo Wanner"
+        ],
+        "title": "Building Another Bridge over the Generation Gap",
+        "url": "https://www.aclweb.org/anthology/W94-0316/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-70"
+    },
+    {
+        "authors": [
+            "Xiaorong Huang"
+        ],
+        "title": "Planning Reference CHoices for Argumentative Texts",
+        "url": "https://www.aclweb.org/anthology/W94-0317/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-71"
+    },
+    {
+        "authors": [
+            "Elke Teich",
+            "John Bateman"
+        ],
+        "title": "Towards the Application of Text Generation in an Integrated Publication System",
+        "url": "https://www.aclweb.org/anthology/W94-0318/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-72"
+    },
+    {
+        "authors": [
+            "Ehud Reiter"
+        ],
+        "title": "Has a Consensus NL Generation Architecture Appeared, and is it Psycholinguistically Plausible?",
+        "url": "https://www.aclweb.org/anthology/W94-0319/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-73"
+    },
+    {
+        "authors": [
+            "Owen Rambow",
+            "Marilyn Walker"
+        ],
+        "title": "The Role of Cognitive Modeling in Communicative Intentions",
+        "url": "https://www.aclweb.org/anthology/W94-0320/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-74"
+    },
+    {
+        "authors": [
+            "Susan M. Haller"
+        ],
+        "title": "Recognizing Digressive Questions Using a Model for Interactive Generation for Interactive Generation",
+        "url": "https://www.aclweb.org/anthology/W94-0321/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-75"
+    },
+    {
+        "authors": [
+            "Nancy Green",
+            "Sandra Carberry"
+        ],
+        "title": "Generating Indirect Answers to Yes-No Questions",
+        "url": "https://www.aclweb.org/anthology/W94-0322/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-76"
+    },
+    {
+        "authors": [
+            "Robert Rubinoff",
+            "Jill Fain Lehman"
+        ],
+        "title": "Real-Time Natural Language Generation in NL-SOAR",
+        "url": "https://www.aclweb.org/anthology/W94-0323/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-77"
+    },
+    {
+        "authors": [
+            "Markus Fischer",
+            "Elisabeth Maier",
+            "Adelheit Stein"
+        ],
+        "title": "Generating Cooperative System Responses in Information Retrieval Dialogues",
+        "url": "https://www.aclweb.org/anthology/W94-0324/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-78"
+    },
+    {
+        "authors": [
+            "Henry Hamburger",
+            "Dan Tufis"
+        ],
+        "title": "Situation Viewpoints for Generation",
+        "url": "https://www.aclweb.org/anthology/W94-0325/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-79"
+    },
+    {
+        "authors": [
+            "Helmut Horacek"
+        ],
+        "title": "Content Selection and Organization as a Process Involving Compromises",
+        "url": "https://www.aclweb.org/anthology/W94-0326/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-80"
+    },
+    {
+        "authors": [
+            "Torbjoern Lager",
+            "William J. Black"
+        ],
+        "title": "Bidirectional Incremental Generation and Analysis with Categorial Grammar and Indexed Quasi-Logical Form",
+        "url": "https://www.aclweb.org/anthology/W94-0327/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-81"
+    },
+    {
+        "authors": [
+            "Julia Lavid",
+            "Eduard Hovy"
+        ],
+        "title": "Toward a Multidimensional Framework to Guide the Automated Generation of Text Types",
+        "url": "https://www.aclweb.org/anthology/W94-0328/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-82"
+    },
+    {
+        "authors": [
+            "John Levine",
+            "Chris Mellish"
+        ],
+        "title": "CORECT: Combining CSCW with Natural Language Generation for Collaborative Requirement Capture",
+        "url": "https://www.aclweb.org/anthology/W94-0329/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-83"
+    },
+    {
+        "authors": [
+            "Pieter A.M. Seuren",
+            "Henk P. Schotel"
+        ],
+        "title": "Semanitic Syntax at Work",
+        "url": "https://www.aclweb.org/anthology/W94-0330/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-84"
+    },
+    {
+        "authors": [
+            "Mark H. Smith",
+            "Roberto Garigliano",
+            "Richard G. Morgan"
+        ],
+        "title": "Generation in the LOLITA System: An Engineering Approach",
+        "url": "https://www.aclweb.org/anthology/W94-0331/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-85"
+    },
+    {
+        "authors": [
+            "Stefan Svenberg"
+        ],
+        "title": "Representing Conceptual and Linguistic Knowledge for Multi-Lingual Generation in a Technical Domain",
+        "url": "https://www.aclweb.org/anthology/W94-0332/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-86"
+    },
+    {
+        "authors": [
+            "Tony Veale",
+            "Alan Conway"
+        ],
+        "title": "Sign-Language Generation in ZARDOZ: An English to Sign-Language Translation System",
+        "url": "https://www.aclweb.org/anthology/W94-0333/",
+        "source_type": "WS",
+        "year": "1994",
+        "source": "WS94",
+        "id": "WS94-87"
+    }
+]

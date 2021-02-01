@@ -1,0 +1,851 @@
+[
+    {
+        "authors": [
+            "Jörgen Pind",
+            "Eiríkur Rögnvaldsson"
+        ],
+        "title": "Proceedings of the 7th Nordic Conference of Computational Linguistics (NODALIDA 1989)",
+        "url": "https://www.aclweb.org/anthology/W89-0100/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-0"
+    },
+    {
+        "authors": [
+            "Stefán Briem"
+        ],
+        "title": "Automatisk morfologisk analyse af islandsk tekst (Automatic morphological analysis of Icelandic text) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W89-0101/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-1"
+    },
+    {
+        "authors": [
+            "Eva Ejerhed"
+        ],
+        "title": "A Swedish Clause Grammar And Its Implementation",
+        "url": "https://www.aclweb.org/anthology/W89-0102/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-2"
+    },
+    {
+        "authors": [
+            "Lars M. Gustafsson"
+        ],
+        "title": "Händelsestyrd textgenerering (Event-driven text generation) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W89-0103/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-3"
+    },
+    {
+        "authors": [
+            "Steffen Leo Hansen"
+        ],
+        "title": "På vej mod en fagsproglig tekstfortolker? (Towards a specialized text interpreter?) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W89-0104/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-4"
+    },
+    {
+        "authors": [
+            "Janne Bondi Johannessen"
+        ],
+        "title": "Is Two-level Morphology a Morphological Model?",
+        "url": "https://www.aclweb.org/anthology/W89-0105/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-5"
+    },
+    {
+        "authors": [
+            "Gunnel Källgren"
+        ],
+        "title": "Automatic Indexing and Generating of Content Graphs from Unrestricted Text",
+        "url": "https://www.aclweb.org/anthology/W89-0106/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-6"
+    },
+    {
+        "authors": [
+            "Gregers Koch"
+        ],
+        "title": "Computational Man-Machine Interaction in Simple Natural Language",
+        "url": "https://www.aclweb.org/anthology/W89-0107/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-7"
+    },
+    {
+        "authors": [
+            "Jordan Zlatev"
+        ],
+        "title": "Criteria for Computational Models of Morphology: The Two-Level Model as an NLP Framework",
+        "url": "https://www.aclweb.org/anthology/W89-0108/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-8"
+    },
+    {
+        "authors": [
+            "Poul Andersen"
+        ],
+        "title": "How Close Can We Get to the Ideal of Simple Transfer in Multi-lingual Machine Translation (MT)?",
+        "url": "https://www.aclweb.org/anthology/W89-0109/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-9"
+    },
+    {
+        "authors": [
+            "Annelise Bech"
+        ],
+        "title": "The Design and Application of a Domain Specific Knowledgebase in the TACITUS Text Understanding System",
+        "url": "https://www.aclweb.org/anthology/W89-0110/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-10"
+    },
+    {
+        "authors": [
+            "Anna Braasch"
+        ],
+        "title": "Udnyttelse af maskinlæsbare ordbogsdata til maskinoversættelse (Utilization of machine-readable dictionary data for machine translation) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W89-0111/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-11"
+    },
+    {
+        "authors": [
+            "Stefán Briem"
+        ],
+        "title": "Maskinoversættelse fra esperanto til islandsk (Machine translation from Esperanto to Icelandic) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W89-0112/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-12"
+    },
+    {
+        "authors": [
+            "Boel Victoria Bøggild-Andersen"
+        ],
+        "title": "Valence Frames Used for Syntactic Disambiguation in the EUROTRA-DK Model",
+        "url": "https://www.aclweb.org/anthology/W89-0113/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-13"
+    },
+    {
+        "authors": [
+            "Hanne Fersøe"
+        ],
+        "title": "Representational Issues within Eurotra",
+        "url": "https://www.aclweb.org/anthology/W89-0114/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-14"
+    },
+    {
+        "authors": [
+            "Barbara Gawrońska-Werngren"
+        ],
+        "title": "Identifiering av diskursrefenter vid maskinöversättning från ryska till svenska (Identification of dicourse references in machine translation from Russian to Swedish) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W89-0115/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-15"
+    },
+    {
+        "authors": [
+            "Niels Jæger"
+        ],
+        "title": "Text Treatment and Morphology in the Analysis of Danish within EUROTRA",
+        "url": "https://www.aclweb.org/anthology/W89-0116/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-16"
+    },
+    {
+        "authors": [
+            "Sabine Kirchmeier-Andersen"
+        ],
+        "title": "Coordination in Eurotra",
+        "url": "https://www.aclweb.org/anthology/W89-0117/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-17"
+    },
+    {
+        "authors": [
+            "Guðrún Magnúsdóttir"
+        ],
+        "title": "Collocations in Knowledge Based Machine Translation",
+        "url": "https://www.aclweb.org/anthology/W89-0118/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-18"
+    },
+    {
+        "authors": [
+            "Susanne Nøhr Pedersen"
+        ],
+        "title": "The Treatment of Support Verbs and Predicative Nouns in Danish",
+        "url": "https://www.aclweb.org/anthology/W89-0119/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-19"
+    },
+    {
+        "authors": [
+            "Klaus Schubert"
+        ],
+        "title": "Kunskap om världen eller kunskap om texten? (Knowledge about the world or knowledge about the text?) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W89-0120/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-20"
+    },
+    {
+        "authors": [
+            "Bengt Sigurd"
+        ],
+        "title": "Erfarenheter av Swetra–ett svenskt MT-experiment (Experiences from Swetra–A Swedish MT experiment) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W89-0121/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-21"
+    },
+    {
+        "authors": [
+            "Ole Togeby"
+        ],
+        "title": "Translation of Prepositions by Neural Networks",
+        "url": "https://www.aclweb.org/anthology/W89-0122/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-22"
+    },
+    {
+        "authors": [
+            "Ivar Utne"
+        ],
+        "title": "Machine Aided Translation between the Two Norwegian Languages Norwegian-Bokmål and Norwegian-Nynorsk",
+        "url": "https://www.aclweb.org/anthology/W89-0123/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-23"
+    },
+    {
+        "authors": [
+            "Henrik Holmboe"
+        ],
+        "title": "Dansk radiærordbog (The Danish Radial Dictionary) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W89-0124/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-24"
+    },
+    {
+        "authors": [
+            "Jón Hilmar Jónsson"
+        ],
+        "title": "A Standardized Dictionary of Icelandic Verbs",
+        "url": "https://www.aclweb.org/anthology/W89-0125/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-25"
+    },
+    {
+        "authors": [
+            "Arne Jönsson"
+        ],
+        "title": "Application-Dependent Discourse Management for Natural Language Interfaces: An Empirical Investigation",
+        "url": "https://www.aclweb.org/anthology/W89-0126/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-26"
+    },
+    {
+        "authors": [
+            "Jörgen Pind"
+        ],
+        "title": "Computers, Typesetting, and Lexicography",
+        "url": "https://www.aclweb.org/anthology/W89-0127/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-27"
+    },
+    {
+        "authors": [
+            "Björn Þ. Svavarsson",
+            "Jörgen Pind"
+        ],
+        "title": "Database Systems for Lexicographic Work",
+        "url": "https://www.aclweb.org/anthology/W89-0128/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-28"
+    },
+    {
+        "authors": [
+            "Anna Sågvall Hein"
+        ],
+        "title": "Lemmatising the Definitions of Svensk Ordbok by Morphological and Syntactic Analysis. A Pilot Study",
+        "url": "https://www.aclweb.org/anthology/W89-0129/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-29"
+    },
+    {
+        "authors": [
+            "Ivar Utne"
+        ],
+        "title": "What Should be Included in a Commercial Word Data Base, and Why?",
+        "url": "https://www.aclweb.org/anthology/W89-0130/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-30"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the Fifth International Workshop on Natural Language Generation",
+        "url": "https://www.aclweb.org/anthology/W90-0100/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-31"
+    },
+    {
+        "authors": [
+            "Kathleen F. McCoy",
+            "K. Vijay-Shanker",
+            "Gijoo Yang"
+        ],
+        "title": "Using Tree Adjoining Grammars Systemic Framework in the",
+        "url": "https://www.aclweb.org/anthology/W90-0101/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-32"
+    },
+    {
+        "authors": [
+            "Stuart M. Shieber",
+            "Yves Schabes"
+        ],
+        "title": "Generation and Synchronous Tree-Adjoining Grammars",
+        "url": "https://www.aclweb.org/anthology/W90-0102/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-33"
+    },
+    {
+        "authors": [
+            "Nigel Ward"
+        ],
+        "title": "A Connectionist Treatment of Grammar for Generation: Relying on Emergents",
+        "url": "https://www.aclweb.org/anthology/W90-0103/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-34"
+    },
+    {
+        "authors": [
+            "Ehud Reiter"
+        ],
+        "title": "A New Model for Lexical Choice for Open-Class Words",
+        "url": "https://www.aclweb.org/anthology/W90-0104/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-35"
+    },
+    {
+        "authors": [
+            "Leo Wanner",
+            "John A. Bateman"
+        ],
+        "title": "A collocational based approach to salience-sensitive lexical selection",
+        "url": "https://www.aclweb.org/anthology/W90-0105/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-36"
+    },
+    {
+        "authors": [
+            "Susanna Cumming"
+        ],
+        "title": "Natural Discourse Hypothesis Engine",
+        "url": "https://www.aclweb.org/anthology/W90-0106/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-37"
+    },
+    {
+        "authors": [
+            "Jim Barnett",
+            "Inderjeet Mani"
+        ],
+        "title": "Using Bidirectional Semantic Rules for Generation",
+        "url": "https://www.aclweb.org/anthology/W90-0107/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-38"
+    },
+    {
+        "authors": [
+            "John A. Bateman"
+        ],
+        "title": "Upper Modeling: organizing knowledge for natural language processing",
+        "url": "https://www.aclweb.org/anthology/W90-0108/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-39"
+    },
+    {
+        "authors": [
+            "Marie W. Meteer"
+        ],
+        "title": "Abstract Linguistic Resources for Text Planning",
+        "url": "https://www.aclweb.org/anthology/W90-0109/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-40"
+    },
+    {
+        "authors": [
+            "Mark T. Maybury"
+        ],
+        "title": "Using Discourse Focus, Temporal Focus, and Spatial Focus to Generate Multisentential Text",
+        "url": "https://www.aclweb.org/anthology/W90-0110/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-41"
+    },
+    {
+        "authors": [
+            "T. Pattabhiraman",
+            "Nick Cercone"
+        ],
+        "title": "Selection: Salience, Relevance and the Coupling between Domain-Level Tasks and Text Planning",
+        "url": "https://www.aclweb.org/anthology/W90-0111/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-42"
+    },
+    {
+        "authors": [
+            "Owen Rambow"
+        ],
+        "title": "Domain Communication Knowledge",
+        "url": "https://www.aclweb.org/anthology/W90-0112/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-43"
+    },
+    {
+        "authors": [
+            "Ursula Wolz"
+        ],
+        "title": "An Object Oriented Approach to Content Planning for Text Generation",
+        "url": "https://www.aclweb.org/anthology/W90-0113/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-44"
+    },
+    {
+        "authors": [
+            "Robert Alan Granville"
+        ],
+        "title": "The Role of Underlying Structure in Text Generation",
+        "url": "https://www.aclweb.org/anthology/W90-0114/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-45"
+    },
+    {
+        "authors": [
+            "David J. Mooney",
+            "Sandra Carberry",
+            "Kathleen F. McCoy"
+        ],
+        "title": "The Basic Block Model of Extended Explanations",
+        "url": "https://www.aclweb.org/anthology/W90-0115/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-46"
+    },
+    {
+        "authors": [
+            "Penelope Sibun"
+        ],
+        "title": "The Local Organization of Text",
+        "url": "https://www.aclweb.org/anthology/W90-0116/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-47"
+    },
+    {
+        "authors": [
+            "Eduard H. Hovy"
+        ],
+        "title": "Parsimonious and Profligate Approaches to the Question of Discourse Structure Relations",
+        "url": "https://www.aclweb.org/anthology/W90-0117/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-48"
+    },
+    {
+        "authors": [
+            "Daniel D. Suthers"
+        ],
+        "title": "Reassessing Rhetorical Abstractions and Planning Mechanisms",
+        "url": "https://www.aclweb.org/anthology/W90-0118/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-49"
+    },
+    {
+        "authors": [
+            "Peter van Beek",
+            "Robin Cohen"
+        ],
+        "title": "Resolving Plan Ambiguity for Response Generation",
+        "url": "https://www.aclweb.org/anthology/W90-0119/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-50"
+    },
+    {
+        "authors": [
+            "Christine DEFRISE",
+            "Sergei NIRENBURG"
+        ],
+        "title": "Speaker Attitudes in Text Planning",
+        "url": "https://www.aclweb.org/anthology/W90-0120/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-51"
+    },
+    {
+        "authors": [
+            "Ingrid Zukerman"
+        ],
+        "title": "Generating Peripheral Rhetorical Devices by Consulting a User Model",
+        "url": "https://www.aclweb.org/anthology/W90-0121/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-52"
+    },
+    {
+        "authors": [
+            "Robin P. Fawcett"
+        ],
+        "title": "The Computer Generation of Speech with Discoursally and Semantically Motivated Intonation",
+        "url": "https://www.aclweb.org/anthology/W90-0122/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-53"
+    },
+    {
+        "authors": [
+            "David E. Johnson",
+            "Hideo Watanabe"
+        ],
+        "title": "Relational-Grammar-Based Generation in the JETS Japanese-English Machine Translation System",
+        "url": "https://www.aclweb.org/anthology/W90-0123/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-54"
+    },
+    {
+        "authors": [
+            "Terry Patten",
+            "Daniel S. Stoops"
+        ],
+        "title": "Real-Time Generation from Systemic Grammars",
+        "url": "https://www.aclweb.org/anthology/W90-0124/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-55"
+    },
+    {
+        "authors": [
+            "Norman Badler",
+            "Mark Steedman",
+            "Bonnie Lynn Webber"
+        ],
+        "title": "Narrated Animation: A Case for Generation",
+        "url": "https://www.aclweb.org/anthology/W90-0125/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-56"
+    },
+    {
+        "authors": [
+            "Karin Harbusch",
+            "Wolfgang Wahlster"
+        ],
+        "title": "Proceedings of the First International Workshop on Tree Adjoining Grammar and Related Frameworks (TAG+1)",
+        "url": "https://www.aclweb.org/anthology/W90-0200/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-57"
+    },
+    {
+        "authors": [
+            "Stuart Shieber"
+        ],
+        "title": "Formal properties of Synchronous Tree-Adjoining Grammars",
+        "url": "https://www.aclweb.org/anthology/W90-0201/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-58"
+    },
+    {
+        "authors": [
+            "Bela Buschauer",
+            "Peter Poller",
+            "Anne Schauder",
+            "Karin Harbusch"
+        ],
+        "title": "TAGs with Unification",
+        "url": "https://www.aclweb.org/anthology/W90-0202/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-59"
+    },
+    {
+        "authors": [
+            "Tilman Becker"
+        ],
+        "title": "Metarules in Tree Adjoining Grammars",
+        "url": "https://www.aclweb.org/anthology/W90-0203/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-60"
+    },
+    {
+        "authors": [
+            "David Weir"
+        ],
+        "title": "Multicomponent Tree Adjoining Grammars",
+        "url": "https://www.aclweb.org/anthology/W90-0204/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-61"
+    },
+    {
+        "authors": [
+            "K. Vijay-Shanker"
+        ],
+        "title": "Embedded Pushdown Automata",
+        "url": "https://www.aclweb.org/anthology/W90-0205/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-62"
+    },
+    {
+        "authors": [
+            "Yonggang Guan",
+            "Günter Hotz"
+        ],
+        "title": "TAGs by interpreting Context Free Tree Languages",
+        "url": "https://www.aclweb.org/anthology/W90-0206/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-63"
+    },
+    {
+        "authors": [
+            "Bernard Lang"
+        ],
+        "title": "The systematic construction of Early Parsers: Application to the production of an O(n6) Earley Parser for Tree Adjoining Grammars",
+        "url": "https://www.aclweb.org/anthology/W90-0207/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-64"
+    },
+    {
+        "authors": [
+            "Yves Schabes"
+        ],
+        "title": "The valid prefix property and parsing Tree Adjoining Grammars",
+        "url": "https://www.aclweb.org/anthology/W90-0208/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-65"
+    },
+    {
+        "authors": [
+            "Michael Palis",
+            "David Wei"
+        ],
+        "title": "Parallel TAG Parsing on the Connection Machine",
+        "url": "https://www.aclweb.org/anthology/W90-0209/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-66"
+    },
+    {
+        "authors": [
+            "Gerard Kempen",
+            "Koenraad DeSmedt"
+        ],
+        "title": "Tree Adjoining Grammar, Segment Grammar and Incremental Sentence Generation",
+        "url": "https://www.aclweb.org/anthology/W90-0210/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-67"
+    },
+    {
+        "authors": [
+            "Wolfgang Finkler"
+        ],
+        "title": "Incremental Natural Language Generation with TAGs in the WIP project",
+        "url": "https://www.aclweb.org/anthology/W90-0211/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-68"
+    },
+    {
+        "authors": [
+            "David McDonald",
+            "Mary Meteer"
+        ],
+        "title": "Implications of Tree Adjoining Grammar for Natural Language Generation",
+        "url": "https://www.aclweb.org/anthology/W90-0212/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-69"
+    },
+    {
+        "authors": [
+            "Sharon Cote"
+        ],
+        "title": "Features in a Lexicalized TAG for English",
+        "url": "https://www.aclweb.org/anthology/W90-0213/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-70"
+    },
+    {
+        "authors": [
+            "Anthony Kroch",
+            "Beatrice Santorini",
+            "Aravind Joshi"
+        ],
+        "title": "A TAG analysis of the Third construction in German",
+        "url": "https://www.aclweb.org/anthology/W90-0214/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-71"
+    },
+    {
+        "authors": [
+            "Anne Abeillé"
+        ],
+        "title": "French and english determiners: Interaction of morphology, syntax and semantics in Lexicalized Tree Adjoining Grammars",
+        "url": "https://www.aclweb.org/anthology/W90-0215/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-72"
+    },
+    {
+        "authors": [
+            "Kuniaki Uehara"
+        ],
+        "title": "Japanese Tree Adjoining Grammar and its Application to On-Line Help System NeoAssist",
+        "url": "https://www.aclweb.org/anthology/W90-0216/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-73"
+    },
+    {
+        "authors": [
+            "Aravind Joshi"
+        ],
+        "title": "Coordination in TAG in the manner of CCG (Combinatory Category Grammars): Fixed vs. Flexible Phrase Structure",
+        "url": "https://www.aclweb.org/anthology/W90-0217/",
+        "source_type": "WS",
+        "year": "1990",
+        "source": "WS90",
+        "id": "WS90-74"
+    }
+]

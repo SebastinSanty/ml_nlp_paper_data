@@ -1,0 +1,213 @@
+[
+    {
+        "authors": [
+            "Fred Karlsson"
+        ],
+        "title": "Proceedings of the 5th Nordic Conference of Computational Linguistics (NODALIDA 1985)",
+        "url": "https://www.aclweb.org/anthology/W85-0100/",
+        "source_type": "WS",
+        "year": "1986",
+        "source": "WS86",
+        "id": "WS86-0"
+    },
+    {
+        "authors": [
+            "Lars Ahrenberg"
+        ],
+        "title": "Lexikalisk-funktionell grammatik på svenska (Lexical Functional Grammar in Swedish) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W85-0101/",
+        "source_type": "WS",
+        "year": "1986",
+        "source": "WS86",
+        "id": "WS86-1"
+    },
+    {
+        "authors": [
+            "Olli Blåberg"
+        ],
+        "title": "Böjda svenska substantiv i BETA (Conjugated Swedish pronouns in BETA) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W85-0102/",
+        "source_type": "WS",
+        "year": "1986",
+        "source": "WS86",
+        "id": "WS86-2"
+    },
+    {
+        "authors": [
+            "Lars Borin"
+        ],
+        "title": "What is a lexical representation?",
+        "url": "https://www.aclweb.org/anthology/W85-0103/",
+        "source_type": "WS",
+        "year": "1986",
+        "source": "WS86",
+        "id": "WS86-3"
+    },
+    {
+        "authors": [
+            "Lauri Carlson"
+        ],
+        "title": "LP rules in unification grammar",
+        "url": "https://www.aclweb.org/anthology/W85-0104/",
+        "source_type": "WS",
+        "year": "1986",
+        "source": "WS86",
+        "id": "WS86-4"
+    },
+    {
+        "authors": [
+            "Östen Dahl"
+        ],
+        "title": "The interpretation of bound pronouns",
+        "url": "https://www.aclweb.org/anthology/W85-0105/",
+        "source_type": "WS",
+        "year": "1986",
+        "source": "WS86",
+        "id": "WS86-5"
+    },
+    {
+        "authors": [
+            "Eva Ejerhed",
+            "Hank Bromley"
+        ],
+        "title": "A self-extending lexicon: description of a word learning program",
+        "url": "https://www.aclweb.org/anthology/W85-0106/",
+        "source_type": "WS",
+        "year": "1986",
+        "source": "WS86",
+        "id": "WS86-6"
+    },
+    {
+        "authors": [
+            "Tove Fjeldvig",
+            "Anne Golden"
+        ],
+        "title": "Automatisk splitting av sammensatte ord–et lingvistisk hjelpemiddel for tekstsøking (Automatic splitting of compound words–A linguistic aid for text search) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W85-0107/",
+        "source_type": "WS",
+        "year": "1986",
+        "source": "WS86",
+        "id": "WS86-7"
+    },
+    {
+        "authors": [
+            "Henrik Holmboe"
+        ],
+        "title": "Grammatisk beredskab (Grammatical contingency) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W85-0108/",
+        "source_type": "WS",
+        "year": "1986",
+        "source": "WS86",
+        "id": "WS86-8"
+    },
+    {
+        "authors": [
+            "Fred Karlsson"
+        ],
+        "title": "A paradigm-based morphological analyzer",
+        "url": "https://www.aclweb.org/anthology/W85-0109/",
+        "source_type": "WS",
+        "year": "1986",
+        "source": "WS86",
+        "id": "WS86-9"
+    },
+    {
+        "authors": [
+            "Kimmo Kettunen"
+        ],
+        "title": "On modelling dependency-oriented parsing",
+        "url": "https://www.aclweb.org/anthology/W85-0110/",
+        "source_type": "WS",
+        "year": "1986",
+        "source": "WS86",
+        "id": "WS86-10"
+    },
+    {
+        "authors": [
+            "Poul Søren Kjærsgaard"
+        ],
+        "title": "REFTEX – et datamatstøttet oversættelsessystem (REFTEX – A computer-assisted translation system) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W85-0111/",
+        "source_type": "WS",
+        "year": "1986",
+        "source": "WS86",
+        "id": "WS86-11"
+    },
+    {
+        "authors": [
+            "Gregers Koch"
+        ],
+        "title": "Computational linguistics and mathematical logic from a computer science point of view",
+        "url": "https://www.aclweb.org/anthology/W85-0112/",
+        "source_type": "WS",
+        "year": "1986",
+        "source": "WS86",
+        "id": "WS86-12"
+    },
+    {
+        "authors": [
+            "Kimmo Koskenniemi"
+        ],
+        "title": "Compilation of automata from morphological two-level rules",
+        "url": "https://www.aclweb.org/anthology/W85-0113/",
+        "source_type": "WS",
+        "year": "1986",
+        "source": "WS86",
+        "id": "WS86-13"
+    },
+    {
+        "authors": [
+            "Aarno Lehtola"
+        ],
+        "title": "DPL – a computational method for describing grammars and modelling parsers",
+        "url": "https://www.aclweb.org/anthology/W85-0114/",
+        "source_type": "WS",
+        "year": "1986",
+        "source": "WS86",
+        "id": "WS86-14"
+    },
+    {
+        "authors": [
+            "Ivan Rankin"
+        ],
+        "title": "SMORF – an implementation of Hellberg’s morphology system",
+        "url": "https://www.aclweb.org/anthology/W85-0115/",
+        "source_type": "WS",
+        "year": "1986",
+        "source": "WS86",
+        "id": "WS86-15"
+    },
+    {
+        "authors": [
+            "Bengt Sigurd"
+        ],
+        "title": "Computer simulation of dialogue and communication",
+        "url": "https://www.aclweb.org/anthology/W85-0116/",
+        "source_type": "WS",
+        "year": "1986",
+        "source": "WS86",
+        "id": "WS86-16"
+    },
+    {
+        "authors": [
+            "Margareta Sjöberg"
+        ],
+        "title": "On the identification of stems in FASS",
+        "url": "https://www.aclweb.org/anthology/W85-0117/",
+        "source_type": "WS",
+        "year": "1986",
+        "source": "WS86",
+        "id": "WS86-17"
+    },
+    {
+        "authors": [
+            "Annette Östling Andersson"
+        ],
+        "title": "A two-level description of written French",
+        "url": "https://www.aclweb.org/anthology/W85-0118/",
+        "source_type": "WS",
+        "year": "1986",
+        "source": "WS86",
+        "id": "WS86-18"
+    }
+]

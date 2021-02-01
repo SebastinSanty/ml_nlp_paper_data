@@ -1,0 +1,236 @@
+[
+    {
+        "authors": [
+            "Bente Maegaard"
+        ],
+        "title": "Proceedings of the 2nd Nordic Conference of Computational Linguistics (NODALIDA 1979)",
+        "url": "https://www.aclweb.org/anthology/W79-0100/",
+        "source_type": "WS",
+        "year": "1979",
+        "source": "WS79",
+        "id": "WS79-0"
+    },
+    {
+        "authors": [
+            "Jostein Hauge"
+        ],
+        "title": "Norsk tekstarkiv (The Norwegian Text Archive) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W79-0101/",
+        "source_type": "WS",
+        "year": "1979",
+        "source": "WS79",
+        "id": "WS79-1"
+    },
+    {
+        "authors": [
+            "Peter Bøgh Andersen"
+        ],
+        "title": "FANGORN – A language for generating coherent texts",
+        "url": "https://www.aclweb.org/anthology/W79-0102/",
+        "source_type": "WS",
+        "year": "1979",
+        "source": "WS79",
+        "id": "WS79-2"
+    },
+    {
+        "authors": [
+            "Gert Schmeltz Pedersen"
+        ],
+        "title": "Konceptuelle grafer (Conceptual graphs) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W79-0103/",
+        "source_type": "WS",
+        "year": "1979",
+        "source": "WS79",
+        "id": "WS79-3"
+    },
+    {
+        "authors": [
+            "Hasse Hansson"
+        ],
+        "title": "Automatisk orddeling (Automatic word-splitting) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W79-0104/",
+        "source_type": "WS",
+        "year": "1979",
+        "source": "WS79",
+        "id": "WS79-4"
+    },
+    {
+        "authors": [
+            "Gustav Leunbach"
+        ],
+        "title": "Om automatisk orddeling. Forslag til en undersøgelse. (About automatic word-splitting. A survey proposal.) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W79-0105/",
+        "source_type": "WS",
+        "year": "1979",
+        "source": "WS79",
+        "id": "WS79-5"
+    },
+    {
+        "authors": [
+            "Geir Berge"
+        ],
+        "title": "En datastruktur for ordbøker for naturlige språk (A data structure for natural language dictionaries) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W79-0106/",
+        "source_type": "WS",
+        "year": "1979",
+        "source": "WS79",
+        "id": "WS79-6"
+    },
+    {
+        "authors": [
+            "Eric Grinstead"
+        ],
+        "title": "Østasiatisk Instituts EDB-arbejde (The East Asian Institute’s work with EDB) [In English]",
+        "url": "https://www.aclweb.org/anthology/W79-0107/",
+        "source_type": "WS",
+        "year": "1979",
+        "source": "WS79",
+        "id": "WS79-7"
+    },
+    {
+        "authors": [
+            "Cecilia Thavenius"
+        ],
+        "title": "Projektet Engelskt talspråk (The Survey of Spoken English Project) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W79-0108/",
+        "source_type": "WS",
+        "year": "1979",
+        "source": "WS79",
+        "id": "WS79-8"
+    },
+    {
+        "authors": [
+            "Eirik Lien"
+        ],
+        "title": "Demonstration av PP*TT – en programpakke for kvantitativ tekstanalyse (Demonstration of PP*TT – A Software Suite for Quantitative Text Analysis) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W79-0109/",
+        "source_type": "WS",
+        "year": "1979",
+        "source": "WS79",
+        "id": "WS79-9"
+    },
+    {
+        "authors": [
+            "Per-Bjørn Pedersen",
+            "Michael Gillow",
+            "Bjørn Eide"
+        ],
+        "title": "Bibeltekst On-line (Bible Texts Online) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W79-0110/",
+        "source_type": "WS",
+        "year": "1979",
+        "source": "WS79",
+        "id": "WS79-10"
+    },
+    {
+        "authors": [
+            "Suzanne Hanon"
+        ],
+        "title": "Ordbøger, konkordanser og lemmatisering (Dictionaries, concordances and lemmatization) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W79-0111/",
+        "source_type": "WS",
+        "year": "1979",
+        "source": "WS79",
+        "id": "WS79-11"
+    },
+    {
+        "authors": [
+            "Benny Brodda"
+        ],
+        "title": "BETA-systemet som verktyg för lingvistiska experiment – morfologisk analys enligt ytkriterier (The BETA system as a tool for linguistic experiments – morphological analysis according to surface criteria) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W79-0112/",
+        "source_type": "WS",
+        "year": "1979",
+        "source": "WS79",
+        "id": "WS79-12"
+    },
+    {
+        "authors": [
+            "Rolf Gavare"
+        ],
+        "title": "Automatisk lemmatisering utan stamlexikon (Automatic lemmatization without stem lexica) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W79-0113/",
+        "source_type": "WS",
+        "year": "1979",
+        "source": "WS79",
+        "id": "WS79-13"
+    },
+    {
+        "authors": [
+            "Knut Hofland"
+        ],
+        "title": "Produksjon av en lemmatisert konkordans til Ibsens samlede verker (Production of a lemmatized concordance of the collected works of Ibsen) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W79-0114/",
+        "source_type": "WS",
+        "year": "1979",
+        "source": "WS79",
+        "id": "WS79-14"
+    },
+    {
+        "authors": [
+            "Björn Ellertsson"
+        ],
+        "title": "Lemmatisering af islandsk (Lemmatization of Icelandic) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W79-0115/",
+        "source_type": "WS",
+        "year": "1979",
+        "source": "WS79",
+        "id": "WS79-15"
+    },
+    {
+        "authors": [
+            "Hanne Ruus"
+        ],
+        "title": "Semantik i automatisk lemmatisering (Semantics in automatic lemmatization) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W79-0116/",
+        "source_type": "WS",
+        "year": "1979",
+        "source": "WS79",
+        "id": "WS79-16"
+    },
+    {
+        "authors": [
+            "Henrik Holmboe"
+        ],
+        "title": "Lemmatisering – hvilke af de ideelle krav til lemmatisering er opfyldelige eller opfyldte? (Lemmatization – which of the ideal requirements of lemmatization are fulfillable or fulfilled?) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W79-0117/",
+        "source_type": "WS",
+        "year": "1979",
+        "source": "WS79",
+        "id": "WS79-17"
+    },
+    {
+        "authors": [
+            "Bente Maegaard",
+            "Hanne Ruus"
+        ],
+        "title": "Strukturering af lingvistiske data til brug ved maskinoversættelse (Structuring of linguistic data for use in machine translation) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W79-0118/",
+        "source_type": "WS",
+        "year": "1979",
+        "source": "WS79",
+        "id": "WS79-18"
+    },
+    {
+        "authors": [
+            "Bo Ralph"
+        ],
+        "title": "Lexikologi som datalingvistik (Lexicology as computational linguistics) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W79-0119/",
+        "source_type": "WS",
+        "year": "1979",
+        "source": "WS79",
+        "id": "WS79-19"
+    },
+    {
+        "authors": [
+            "Sture Allén"
+        ],
+        "title": "Språkvetenskaplig databehandling (Linguistic data processing) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W79-0120/",
+        "source_type": "WS",
+        "year": "1979",
+        "source": "WS79",
+        "id": "WS79-20"
+    }
+]

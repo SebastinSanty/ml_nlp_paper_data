@@ -1,0 +1,3673 @@
+[
+    {
+        "authors": [
+            "M. Gavrilidou",
+            "G. Carayannis",
+            "S. Markantonatou",
+            "S. Piperidis",
+            "G. Stainhauer"
+        ],
+        "title": "Proceedings of the Second International Conference on Language Resources and Evaluation (LREC’00)",
+        "url": "https://www.aclweb.org/anthology/L00-1000/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-0"
+    },
+    {
+        "authors": [
+            "Gérard Bailly",
+            "Eduardo R. Banga",
+            "Alex Monaghan",
+            "Erhard Rank"
+        ],
+        "title": "The Cost258 Signal Generation Test Array",
+        "url": "https://www.aclweb.org/anthology/L00-1001/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-1"
+    },
+    {
+        "authors": [
+            "Kosho Shudo",
+            "Masahito Takahashi",
+            "Yasuo Koyama",
+            "Kenji Yoshimura"
+        ],
+        "title": "Collocations as Word Co-ocurrence Restriction Data - An Application to Japanese Word Processor -",
+        "url": "https://www.aclweb.org/anthology/L00-1002/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-2"
+    },
+    {
+        "authors": [
+            "Amit Bagga"
+        ],
+        "title": "Enhancing the TDT Tracking Evaluation",
+        "url": "https://www.aclweb.org/anthology/L00-1003/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-3"
+    },
+    {
+        "authors": [
+            "Amalia Arvaniti",
+            "Mary Baltazani"
+        ],
+        "title": "GREEK ToBI: A System for the Annotation of Greek Speech Corpora",
+        "url": "https://www.aclweb.org/anthology/L00-1004/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-4"
+    },
+    {
+        "authors": [
+            "Adam Kilgarriff",
+            "Joseph Rosenzweig"
+        ],
+        "title": "English Senseval: Report and Results",
+        "url": "https://www.aclweb.org/anthology/L00-1005/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-5"
+    },
+    {
+        "authors": [
+            "Asunción Moreno",
+            "Robrecht Comeyne",
+            "Keith Haslam",
+            "Henk van den Heuvel",
+            "Harald Höge",
+            "Sabine Horbach",
+            "Giorgio Micca"
+        ],
+        "title": "SALA: SpeechDat across Latin America. Results of the First Phase",
+        "url": "https://www.aclweb.org/anthology/L00-1006/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-6"
+    },
+    {
+        "authors": [
+            "Dan Tufiş"
+        ],
+        "title": "Using a Large Set of EAGLES-compliant Morpho-syntactic Descriptors as a Tagset for Probabilistic Tagging",
+        "url": "https://www.aclweb.org/anthology/L00-1007/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-7"
+    },
+    {
+        "authors": [
+            "Elliott Macklovitch",
+            "Michel Simard",
+            "Philippe Langlais"
+        ],
+        "title": "TransSearch: A Free Translation Memory on the World Wide Web",
+        "url": "https://www.aclweb.org/anthology/L00-1008/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-8"
+    },
+    {
+        "authors": [
+            "Bolette Sandford Pedersen",
+            "Sanni Nimb"
+        ],
+        "title": "Semantic Encoding of Danish Verbs in SIMPLE - Adapting a Verb Framed Model to a Satellite-framed Language",
+        "url": "https://www.aclweb.org/anthology/L00-1009/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-9"
+    },
+    {
+        "authors": [
+            "Hajime Mochizuki",
+            "Manabu Okumura"
+        ],
+        "title": "A Comparison of Summarization Methods Based on Task-based Evaluation",
+        "url": "https://www.aclweb.org/anthology/L00-1010/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-10"
+    },
+    {
+        "authors": [
+            "Jie Zheng",
+            "Yuhang Mao"
+        ],
+        "title": "A Word Sense Disambiguation Method Using Bilingual Corpus",
+        "url": "https://www.aclweb.org/anthology/L00-1011/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-11"
+    },
+    {
+        "authors": [
+            "S.-E. Fotinea",
+            "I. Dologlou",
+            "S. Bakamidis",
+            "G. Stainhauer",
+            "G. Carayannis"
+        ],
+        "title": "Perceptual Evaluation of a New Subband Low Bit Rate Speech Compression System based on Waveform Vector Quantization and SVD Postfiltering",
+        "url": "https://www.aclweb.org/anthology/L00-1012/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-12"
+    },
+    {
+        "authors": [
+            "Sandro Pedrazzini",
+            "Elisabeth Maier",
+            "Dierk König"
+        ],
+        "title": "Terms Specification and Extraction within a Linguistic-based Intranet Service",
+        "url": "https://www.aclweb.org/anthology/L00-1013/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-13"
+    },
+    {
+        "authors": [
+            "Eva Hajičová",
+            "Petr Sgall"
+        ],
+        "title": "Semantico-syntactic Tagging of Very Large Corpora: the Case of Restoration of Nodes on the Underlying Level",
+        "url": "https://www.aclweb.org/anthology/L00-1014/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-14"
+    },
+    {
+        "authors": [
+            "Eva Hajičová",
+            "Jarmila Panevová",
+            "Petr Sgall"
+        ],
+        "title": "Coreference in Annotating a Large Corpus",
+        "url": "https://www.aclweb.org/anthology/L00-1015/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-15"
+    },
+    {
+        "authors": [
+            "Peter Bennison",
+            "Lynne Bowker"
+        ],
+        "title": "Designing a Tool for Exploiting Bilingual Comparable Corpora",
+        "url": "https://www.aclweb.org/anthology/L00-1016/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-16"
+    },
+    {
+        "authors": [
+            "Diana Maynard",
+            "Sophia Ananiadou"
+        ],
+        "title": "Creating and Using Domain-specific Ontologies for Terminological Applications",
+        "url": "https://www.aclweb.org/anthology/L00-1017/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-17"
+    },
+    {
+        "authors": [
+            "Ellen M. Voorhees",
+            "Dawn M. Tice"
+        ],
+        "title": "The TREC-8 Question Answering Track",
+        "url": "https://www.aclweb.org/anthology/L00-1018/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-18"
+    },
+    {
+        "authors": [
+            "Satoshi Sekine",
+            "Hitoshi Isahara"
+        ],
+        "title": "IREX: IR & IE Evaluation Project in Japanese",
+        "url": "https://www.aclweb.org/anthology/L00-1019/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-19"
+    },
+    {
+        "authors": [
+            "Svetlana Sheremetyeva",
+            "Sergei Nirenburg"
+        ],
+        "title": "Towards A Universal Tool For NLP Resource Acquisition",
+        "url": "https://www.aclweb.org/anthology/L00-1020/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-20"
+    },
+    {
+        "authors": [
+            "Junfeng Hu",
+            "Shiwen Yu"
+        ],
+        "title": "The Multi-layer Language Knowledge Base of Chinese NLP",
+        "url": "https://www.aclweb.org/anthology/L00-1021/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-21"
+    },
+    {
+        "authors": [
+            "Yasmina Abbas",
+            "Marie-Luce Picard"
+        ],
+        "title": "With WORLDTREK Family, Create, Update and Browse your Terminological World",
+        "url": "https://www.aclweb.org/anthology/L00-1022/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-22"
+    },
+    {
+        "authors": [
+            "N. Chenfour",
+            "A. Benabbou",
+            "A. Mouradi"
+        ],
+        "title": "Etude et Evaluation de la Di-Syllabe comme Unité Acoustique pour le Système de Synthèse Arabe PARADIS",
+        "url": "https://www.aclweb.org/anthology/L00-1023/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-23"
+    },
+    {
+        "authors": [
+            "Marcela Charfuelán",
+            "José Relaño Gil",
+            "M. Carmen Rodríguez Gancedo",
+            "Daniel Tapias Merino",
+            "Luis Hernández Gómez"
+        ],
+        "title": "Dialogue Annotation for Language Systems Evaluation",
+        "url": "https://www.aclweb.org/anthology/L00-1024/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-24"
+    },
+    {
+        "authors": [
+            "Philippe Langlais",
+            "Sébastien Sauvé",
+            "George Foster",
+            "Elliott Macklovitch",
+            "Guy Lapalme"
+        ],
+        "title": "Evaluation of TRANSTYPE, a Computer-aided Translation Typing System: A Comparison of a Theoretical- and a User-oriented Evaluation Procedures",
+        "url": "https://www.aclweb.org/anthology/L00-1025/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-25"
+    },
+    {
+        "authors": [
+            "Gerardo Sierra",
+            "John McNaught"
+        ],
+        "title": "Extraction of Semantic Clusters for Terminological Information Retrieval from MRDs",
+        "url": "https://www.aclweb.org/anthology/L00-1026/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-26"
+    },
+    {
+        "authors": [
+            "Jean-Yves Antoine",
+            "Jacques Siroux",
+            "Jean Caelen",
+            "Jeanne Villaneau",
+            "Jérôme Goulian",
+            "Mohamed Ahafhaf"
+        ],
+        "title": "Obtaining Predictive Results with an Objective Evaluation of Spoken Dialogue Systems: Experiments with the DCR Assessment Paradigm",
+        "url": "https://www.aclweb.org/anthology/L00-1027/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-27"
+    },
+    {
+        "authors": [
+            "Guy Pérennou",
+            "Martine De Calmès"
+        ],
+        "title": "MHATLex: Lexical Resources for Modelling the French Pronunciation",
+        "url": "https://www.aclweb.org/anthology/L00-1028/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-28"
+    },
+    {
+        "authors": [
+            "Carine-Alexia Lavelle",
+            "Martine De Calmès",
+            "Guy Pérennou"
+        ],
+        "title": "Dialogue and Prompting Strategies Evaluation in the DEMON System",
+        "url": "https://www.aclweb.org/anthology/L00-1029/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-29"
+    },
+    {
+        "authors": [
+            "Henk van den Heuvel",
+            "Lou Boves",
+            "Khalid Choukri",
+            "Simo Goddijn",
+            "Eric Sanders"
+        ],
+        "title": "SLR Validation: Present State of Affairs and Prospects",
+        "url": "https://www.aclweb.org/anthology/L00-1030/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-30"
+    },
+    {
+        "authors": [
+            "Thierry Dutoit",
+            "Michel Bagein",
+            "Fabrice Malfrère",
+            "Vincent Pagel",
+            "Alain Ruelle",
+            "Nawfal Tounsi",
+            "Dominique Wynsberghe"
+        ],
+        "title": "EULER: an Open, Generic, Multilingual and Multi-platform Text-to-Speech System",
+        "url": "https://www.aclweb.org/anthology/L00-1031/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-31"
+    },
+    {
+        "authors": [
+            "Marc Swerts",
+            "Emiel Krahmer"
+        ],
+        "title": "On the Use of Prosody for On-line Evaluation of Spoken Dialogue Systems",
+        "url": "https://www.aclweb.org/anthology/L00-1032/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-32"
+    },
+    {
+        "authors": [
+            "I. Aduriz",
+            "E. Agirre",
+            "I. Aldezabal",
+            "X. Arregi",
+            "J. M. Arriola",
+            "X. Artola",
+            "K. Gojenola",
+            "A. Maritxalar",
+            "K. Sarasola",
+            "M. Urkia"
+        ],
+        "title": "A Word-level Morphosyntactic Analyzer for Basque",
+        "url": "https://www.aclweb.org/anthology/L00-1033/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-33"
+    },
+    {
+        "authors": [
+            "Albert Russel",
+            "Hennie Brugman",
+            "Daan Broeder",
+            "Peter Wittenburg"
+        ],
+        "title": "The EUDICO Project, Multi Media Annotation over the Internet",
+        "url": "https://www.aclweb.org/anthology/L00-1034/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-34"
+    },
+    {
+        "authors": [
+            "Anna Braasch",
+            "Sussi Olsen"
+        ],
+        "title": "Towards a Strategy for a Representation of Collocations - Extending the Danish PAROLE-lexicon",
+        "url": "https://www.aclweb.org/anthology/L00-1035/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-35"
+    },
+    {
+        "authors": [
+            "Stavroula-Evita Fotinea",
+            "Athanassios Protopapas",
+            "Dimitris Dimitriadis",
+            "George Carayannis"
+        ],
+        "title": "Perceptual Evaluation of Text-to-Speech Implementation of Enclitic Stress in Greek",
+        "url": "https://www.aclweb.org/anthology/L00-1036/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-36"
+    },
+    {
+        "authors": [
+            "Tami Rannon",
+            "Ofra Golani",
+            "Anat Goren",
+            "Sherrie Shammass",
+            "Ami Moyal"
+        ],
+        "title": "Creation of Spoken Hebrew Databases",
+        "url": "https://www.aclweb.org/anthology/L00-1037/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-37"
+    },
+    {
+        "authors": [
+            "Damjan Vlaj",
+            "Janez Kaiser",
+            "Ralph Wilhelm",
+            "Ute Ziegenhain"
+        ],
+        "title": "PLEDIT - A New Efficient Tool for Management of Multilingual Pronunciation Lexica and Batchlists",
+        "url": "https://www.aclweb.org/anthology/L00-1038/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-38"
+    },
+    {
+        "authors": [
+            "Rosa Estopà",
+            "Jordi Vivaldi",
+            "M. Teresa Cabré"
+        ],
+        "title": "Use of Greek and Latin Forms for Term Detection",
+        "url": "https://www.aclweb.org/anthology/L00-1039/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-39"
+    },
+    {
+        "authors": [
+            "Maria Canelli",
+            "Daniele Grasso",
+            "Margaret King"
+        ],
+        "title": "Methods and Metrics for the Evaluation of Dictation Systems: a Case Study",
+        "url": "https://www.aclweb.org/anthology/L00-1040/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-40"
+    },
+    {
+        "authors": [
+            "Noah A. Smith",
+            "Michael E. Jahr"
+        ],
+        "title": "Cairo: An Alignment Visualization Tool",
+        "url": "https://www.aclweb.org/anthology/L00-1041/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-41"
+    },
+    {
+        "authors": [
+            "Andreas Mengel",
+            "Wolfgang Lezius"
+        ],
+        "title": "An XML-based Representation Format for Syntactically Annotated Corpora",
+        "url": "https://www.aclweb.org/anthology/L00-1042/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-42"
+    },
+    {
+        "authors": [
+            "Ornella Corazzari",
+            "Nicoletta Calzolari",
+            "Antonio Zampolli"
+        ],
+        "title": "An Experiment of Lexical-Semantic Tagging of an Italian Corpus",
+        "url": "https://www.aclweb.org/anthology/L00-1043/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-43"
+    },
+    {
+        "authors": [
+            "Nuria Bel",
+            "Federica Busa",
+            "Nicoletta Calzolari",
+            "Elisabetta Gola",
+            "Alessandro Lenci",
+            "Monica Monachini",
+            "Antoine Ogonowski",
+            "Ivonne Peters",
+            "Wim Peters",
+            "Nilda Ruimy",
+            "Marta Villegas",
+            "Antonio Zampolli"
+        ],
+        "title": "SIMPLE: A General Framework for the Development of Multilingual Lexicons",
+        "url": "https://www.aclweb.org/anthology/L00-1044/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-44"
+    },
+    {
+        "authors": [
+            "Zygmunt Vetulani"
+        ],
+        "title": "Electronic Language Resources for Polish: POLEX, CEGLEX and GRAMLEX",
+        "url": "https://www.aclweb.org/anthology/L00-1045/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-45"
+    },
+    {
+        "authors": [
+            "Rainer Siemund",
+            "Harald Höge",
+            "Siegfried Kunzmann",
+            "Krzysztof Marasek"
+        ],
+        "title": "SPEECON - Speech Data for Consumer Devices",
+        "url": "https://www.aclweb.org/anthology/L00-1046/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-46"
+    },
+    {
+        "authors": [
+            "Antonio Moreno",
+            "Ralph Grishman",
+            "Susana López",
+            "Fernando Sánchez",
+            "Satoshi Sekine"
+        ],
+        "title": "A Treebank of Spanish and its Application to Parsing",
+        "url": "https://www.aclweb.org/anthology/L00-1047/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-47"
+    },
+    {
+        "authors": [
+            "Susanne J. Jekat",
+            "Lorenzo Tessiore"
+        ],
+        "title": "End-to-End Evaluation of Machine Interpretation Systems: A Graphical Evaluation Tool",
+        "url": "https://www.aclweb.org/anthology/L00-1048/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-48"
+    },
+    {
+        "authors": [
+            "X. Artola",
+            "A. Díaz de Ilarraza",
+            "N. Ezeiza",
+            "K. Gojenola",
+            "A. Maritxalar",
+            "A. Soroa"
+        ],
+        "title": "A Proposal for the Integration of NLP Tools using SGML-Tagged Documents",
+        "url": "https://www.aclweb.org/anthology/L00-1049/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-49"
+    },
+    {
+        "authors": [
+            "Thierry Fontenelle"
+        ],
+        "title": "A Bilingual Electronic Dictionary for Frame Semantics",
+        "url": "https://www.aclweb.org/anthology/L00-1050/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-50"
+    },
+    {
+        "authors": [
+            "Martin Braschler",
+            "Donna Harman",
+            "Michael Hess",
+            "Michael Kluck",
+            "Carol Peters",
+            "Peter Schäuble"
+        ],
+        "title": "The Evaluation of Systems for Cross-language Information Retrieval",
+        "url": "https://www.aclweb.org/anthology/L00-1051/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-51"
+    },
+    {
+        "authors": [
+            "José Bettencourt Gonçalves",
+            "Rita Veloso"
+        ],
+        "title": "Spoken Portuguese: Geographic and Social Varieties",
+        "url": "https://www.aclweb.org/anthology/L00-1052/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-52"
+    },
+    {
+        "authors": [
+            "Maria Fernanda Bacelar do Nascimento",
+            "Luisa Pereira",
+            "João Saramago"
+        ],
+        "title": "Portuguese Corpora at CLUL",
+        "url": "https://www.aclweb.org/anthology/L00-1053/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-53"
+    },
+    {
+        "authors": [
+            "Antonio Moreno",
+            "Chantal Pérez"
+        ],
+        "title": "Reusing the Mikrokosmos Ontology for Concept-based Multilingual Terminology Databases",
+        "url": "https://www.aclweb.org/anthology/L00-1054/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-54"
+    },
+    {
+        "authors": [
+            "Kazuhiro Kimura",
+            "Hideki Hirakawa"
+        ],
+        "title": "Abstraction of the EDR Concept Classification and its Effectiveness in Word Sense Disambiguation",
+        "url": "https://www.aclweb.org/anthology/L00-1055/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-55"
+    },
+    {
+        "authors": [
+            "Alessandro Cucchiarelli",
+            "Enrico Faggioli",
+            "Paola Velardi"
+        ],
+        "title": "Will Very Large Corpora Play For Semantic Disambiguation The Role That Massive Computing Power Is Playing For Other AI-Hard Problems?",
+        "url": "https://www.aclweb.org/anthology/L00-1056/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-56"
+    },
+    {
+        "authors": [
+            "Shuichi Itahashi"
+        ],
+        "title": "Guidelines for Japanese Speech Synthesizer Evaluation",
+        "url": "https://www.aclweb.org/anthology/L00-1057/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-57"
+    },
+    {
+        "authors": [
+            "Masumi Narita"
+        ],
+        "title": "Constructing a Tagged E-J Parallel Corpus for Assisting Japanese Software Engineers in Writing English Abstracts",
+        "url": "https://www.aclweb.org/anthology/L00-1058/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-58"
+    },
+    {
+        "authors": [
+            "Hiroyuki Shinnou",
+            "Masanori Ikeya"
+        ],
+        "title": "Extraction of Unknown Words Using the Probability of Accepting the Kanji Character Sequence as One Word",
+        "url": "https://www.aclweb.org/anthology/L00-1059/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-59"
+    },
+    {
+        "authors": [
+            "Rosen Ivanov"
+        ],
+        "title": "Automatic Speech Segmentation in High Noise Condition",
+        "url": "https://www.aclweb.org/anthology/L00-1060/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-60"
+    },
+    {
+        "authors": [
+            "Elisa Gavieiro-Villatte",
+            "Laurent Spaggiari"
+        ],
+        "title": "Open Ended Computerized Overview of Controlled Languages",
+        "url": "https://www.aclweb.org/anthology/L00-1061/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-61"
+    },
+    {
+        "authors": [
+            "Rodolfo Delmonte"
+        ],
+        "title": "Shallow Parsing and Functional Structure in Italian Corpora",
+        "url": "https://www.aclweb.org/anthology/L00-1062/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-62"
+    },
+    {
+        "authors": [
+            "Dimitrios Kokkinakis",
+            "Maria Toporowska Gronostaj",
+            "Karin Warmenius"
+        ],
+        "title": "Annotating, Disambiguating & Automatically Extending the Coverage of the Swedish SIMPLE Lexicon",
+        "url": "https://www.aclweb.org/anthology/L00-1063/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-63"
+    },
+    {
+        "authors": [
+            "Diana Santos",
+            "Eckhard Bick"
+        ],
+        "title": "Providing Internet Access to Portuguese Corpora: the AC/DC Project",
+        "url": "https://www.aclweb.org/anthology/L00-1064/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-64"
+    },
+    {
+        "authors": [
+            "Sharon Inkelas",
+            "Aylin Küntay",
+            "C. Orhan Orgun",
+            "Ronald Sprouse"
+        ],
+        "title": "Turkish Electronic Living Lexicon (TELL): A Lexical Database",
+        "url": "https://www.aclweb.org/anthology/L00-1065/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-65"
+    },
+    {
+        "authors": [
+            "Wim Goedertier",
+            "Simo Goddijn",
+            "Jean-Pierre Martens"
+        ],
+        "title": "Orthographic Transcription of the Spoken Dutch Corpus",
+        "url": "https://www.aclweb.org/anthology/L00-1066/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-66"
+    },
+    {
+        "authors": [
+            "Giulia Bernardis",
+            "Hervé Bourlard",
+            "Martin Rajman",
+            "Jean-Cédric Chappelier"
+        ],
+        "title": "Development of Acoustic and Linguistic Resources for Research and Evaluation in Interactive Vocal Information Servers",
+        "url": "https://www.aclweb.org/anthology/L00-1067/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-67"
+    },
+    {
+        "authors": [
+            "Guillermo Rojo",
+            "Maria Concepción Álvarez",
+            "Pilar Alvariño",
+            "Adelaida Gil",
+            "María Paula Santalla",
+            "Susana Sotelo"
+        ],
+        "title": "An Architecture for Document Routing in Spanish: Two Language Components, Pre-processor and Parser",
+        "url": "https://www.aclweb.org/anthology/L00-1068/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-68"
+    },
+    {
+        "authors": [
+            "John A. Bateman",
+            "Anthony F. Hartley"
+        ],
+        "title": "Target Suites for Evaluating the Coverage of Text Generators",
+        "url": "https://www.aclweb.org/anthology/L00-1069/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-69"
+    },
+    {
+        "authors": [
+            "Claire Grover",
+            "Colin Matheson",
+            "Andrei Mikheev",
+            "Marc Moens"
+        ],
+        "title": "LT TTT - A Flexible Tokenisation Tool",
+        "url": "https://www.aclweb.org/anthology/L00-1070/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-70"
+    },
+    {
+        "authors": [
+            "Albert Rilliard",
+            "Véronique Aubergé"
+        ],
+        "title": "Perception and Analysis of a Reiterant Speech Paradigm: a Functional Diagnostic of Synthetic Prosody",
+        "url": "https://www.aclweb.org/anthology/L00-1071/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-71"
+    },
+    {
+        "authors": [
+            "Marcello Federico",
+            "Dimitri Giordani",
+            "Paolo Coletti"
+        ],
+        "title": "Development and Evaluation of an Italian Broadcast News Corpus",
+        "url": "https://www.aclweb.org/anthology/L00-1072/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-72"
+    },
+    {
+        "authors": [
+            "Marta Villegas",
+            "Nuria Bel",
+            "Alessandro Lenci",
+            "Nicoletta Calzolari",
+            "Nilda Ruimy",
+            "Antonio Zampolli",
+            "Teresa Sadurní",
+            "Joan Soler"
+        ],
+        "title": "Multilingual Linguistic Resources: From Monolingual Lexicons to Bilingual Interrelated Lexicons",
+        "url": "https://www.aclweb.org/anthology/L00-1073/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-73"
+    },
+    {
+        "authors": [
+            "Alessandro Lenci",
+            "Simonetta Montemagni",
+            "Vito Pirrelli",
+            "Claudia Soria"
+        ],
+        "title": "Where Opposites Meet. A Syntactic Meta-scheme for Corpus Annotation and Parsing Evaluation",
+        "url": "https://www.aclweb.org/anthology/L00-1074/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-74"
+    },
+    {
+        "authors": [
+            "Paolo Allegrini",
+            "Simonetta Montemagni",
+            "Vito Pirrelli"
+        ],
+        "title": "Controlled Bootstrapping of Lexico-semantic Classes as a Bridge between Paradigmatic and Syntagmatic Knowledge: Methodology and Evaluation",
+        "url": "https://www.aclweb.org/anthology/L00-1075/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-75"
+    },
+    {
+        "authors": [
+            "Rodger Kibble",
+            "Kees van Deemter"
+        ],
+        "title": "Coreference Annotation: Whither?",
+        "url": "https://www.aclweb.org/anthology/L00-1076/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-76"
+    },
+    {
+        "authors": [
+            "R. López-Cózar",
+            "A.J. Rubio",
+            "J.E. Díaz Verdejo",
+            "A. De la Torre"
+        ],
+        "title": "Evaluation of a Dialogue System Based on a Generic Model that Combines Robust Speech Understanding and Mixed-initiative Control",
+        "url": "https://www.aclweb.org/anthology/L00-1077/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-77"
+    },
+    {
+        "authors": [
+            "Cosmin Munteanu",
+            "Marian Boldea"
+        ],
+        "title": "MDWOZ: A Wizard of Oz Environment for Dialog Systems Development",
+        "url": "https://www.aclweb.org/anthology/L00-1078/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-78"
+    },
+    {
+        "authors": [
+            "Dan Bohuş",
+            "Marian Boldea"
+        ],
+        "title": "A Web-based Text Corpora Development System",
+        "url": "https://www.aclweb.org/anthology/L00-1079/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-79"
+    },
+    {
+        "authors": [
+            "Byron Georgantopoulos",
+            "Stelios Piperidis"
+        ],
+        "title": "Term-based Identification of Sentences for Text Summarisation",
+        "url": "https://www.aclweb.org/anthology/L00-1080/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-80"
+    },
+    {
+        "authors": [
+            "Kristīne Levāne",
+            "Andrejs Spektors"
+        ],
+        "title": "Morphemic Analysis and Morphological Tagging of Latvian Corpus",
+        "url": "https://www.aclweb.org/anthology/L00-1081/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-81"
+    },
+    {
+        "authors": [
+            "Patrick Kremer",
+            "Laurent Schmitt"
+        ],
+        "title": "Textual Information Retrieval Systems Test: The Point of View of an Organizer and Corpuses Provider",
+        "url": "https://www.aclweb.org/anthology/L00-1082/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-82"
+    },
+    {
+        "authors": [
+            "Nelleke Oostdijk"
+        ],
+        "title": "The Spoken Dutch Corpus. Overview and First Evaluation",
+        "url": "https://www.aclweb.org/anthology/L00-1083/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-83"
+    },
+    {
+        "authors": [
+            "Toni Badia",
+            "Àngels Egea"
+        ],
+        "title": "A Strategy for the Syntactic Parsing of Corpora: from Constraint Grammar Output to Unification-based Processing",
+        "url": "https://www.aclweb.org/anthology/L00-1084/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-84"
+    },
+    {
+        "authors": [
+            "Joan Soler i Bou"
+        ],
+        "title": "Producing LRs in Parallel with Lexicographic Description: the DCC project",
+        "url": "https://www.aclweb.org/anthology/L00-1085/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-85"
+    },
+    {
+        "authors": [
+            "Atsushi Fujii",
+            "Tetsuya Ishikawa"
+        ],
+        "title": "A Novelty-based Evaluation Method for Information Retrieval",
+        "url": "https://www.aclweb.org/anthology/L00-1086/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-86"
+    },
+    {
+        "authors": [
+            "Ruslan Mitkov"
+        ],
+        "title": "Towards More Comprehensive Evaluation in Anaphora Resolution",
+        "url": "https://www.aclweb.org/anthology/L00-1087/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-87"
+    },
+    {
+        "authors": [
+            "Joseph Polifroni",
+            "Stephanie Seneff"
+        ],
+        "title": "Galaxy-II as an Architecture for Spoken Dialogue Evaluation",
+        "url": "https://www.aclweb.org/anthology/L00-1088/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-88"
+    },
+    {
+        "authors": [
+            "Marko Tadić"
+        ],
+        "title": "Building the Croatian-English Parallel Corpus",
+        "url": "https://www.aclweb.org/anthology/L00-1089/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-89"
+    },
+    {
+        "authors": [
+            "Tamás Váradi"
+        ],
+        "title": "Lexical and Translation Equivalence in Parallel Corpora",
+        "url": "https://www.aclweb.org/anthology/L00-1090/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-90"
+    },
+    {
+        "authors": [
+            "D. Broeder",
+            "H. Brugman",
+            "A. Russel",
+            "R. Skiba",
+            "P. Wittenburg"
+        ],
+        "title": "Towards a Standard for Meta-descriptions of Language Resources",
+        "url": "https://www.aclweb.org/anthology/L00-1091/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-91"
+    },
+    {
+        "authors": [
+            "Einar Meister",
+            "Arvo Eek",
+            "Toomas Altosaar",
+            "Martti Vainio"
+        ],
+        "title": "Object-oriented Access to the Estonian Phonetic Database",
+        "url": "https://www.aclweb.org/anthology/L00-1092/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-92"
+    },
+    {
+        "authors": [
+            "Adriana Roventini",
+            "Antonietta Alonge",
+            "Nicoletta Calzolari",
+            "Bernardo Magnini",
+            "Francesca Bertagna"
+        ],
+        "title": "ItalWordNet: a Large Semantic Database for Italian",
+        "url": "https://www.aclweb.org/anthology/L00-1093/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-93"
+    },
+    {
+        "authors": [
+            "Cătălina Barbu"
+        ],
+        "title": "FAST - Towards a Semi-automatic Annotation of Corpora",
+        "url": "https://www.aclweb.org/anthology/L00-1094/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-94"
+    },
+    {
+        "authors": [
+            "François Trouilleux",
+            "Eric Gaussier",
+            "Gabriel G. Bès",
+            "Annie Zaenen"
+        ],
+        "title": "Coreference Resolution Evaluation Based on Descriptive Specificity",
+        "url": "https://www.aclweb.org/anthology/L00-1095/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-95"
+    },
+    {
+        "authors": [
+            "Dominique Dutoit"
+        ],
+        "title": "A Text->Meaning->Text Dictionary and Process",
+        "url": "https://www.aclweb.org/anthology/L00-1096/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-96"
+    },
+    {
+        "authors": [
+            "Philippe Boula de Mareüil",
+            "Christophe d’Alessandro",
+            "François Yvon",
+            "Véronique Aubergé",
+            "Jacqueline Vaissière",
+            "Angélique Amelot"
+        ],
+        "title": "A French Phonetic Lexicon with Variants for Speech and Language Processing",
+        "url": "https://www.aclweb.org/anthology/L00-1097/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-97"
+    },
+    {
+        "authors": [
+            "Laila Dybkjær",
+            "Morten Baun Møller",
+            "Niels Ole Bernsen",
+            "Michael Grosse",
+            "Martin Olsen",
+            "Amanda Schiffrin"
+        ],
+        "title": "Annotating Communication Problems Using the MATE Workbench",
+        "url": "https://www.aclweb.org/anthology/L00-1098/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-98"
+    },
+    {
+        "authors": [
+            "Niels Ole Bernsen",
+            "Laila Dybkjær"
+        ],
+        "title": "A Methodology for Evaluating Spoken Language Dialogue Systems and Their Components",
+        "url": "https://www.aclweb.org/anthology/L00-1099/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-99"
+    },
+    {
+        "authors": [
+            "Niamh Bohan",
+            "Elisabeth Breidt",
+            "Martin Volk"
+        ],
+        "title": "Evaluating Translation Quality as Input to Product Development",
+        "url": "https://www.aclweb.org/anthology/L00-1100/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-100"
+    },
+    {
+        "authors": [
+            "Lars Ahrenberg",
+            "Magnus Merkel",
+            "Anna Sågvall Hein",
+            "Jörg Tiedemann"
+        ],
+        "title": "Evaluation of Word Alignment Systems",
+        "url": "https://www.aclweb.org/anthology/L00-1101/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-101"
+    },
+    {
+        "authors": [
+            "Hervé Déjean"
+        ],
+        "title": "How To Evaluate and Compare Tagsets? A Proposal",
+        "url": "https://www.aclweb.org/anthology/L00-1102/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-102"
+    },
+    {
+        "authors": [
+            "John White",
+            "Jennifer Doyon",
+            "Susan Talbott"
+        ],
+        "title": "Determining the Tolerance of Text-handling Tasks for MT Output",
+        "url": "https://www.aclweb.org/anthology/L00-1103/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-103"
+    },
+    {
+        "authors": [
+            "Johann Gamper"
+        ],
+        "title": "A Parallel Corpus of Italian/German Legal Texts",
+        "url": "https://www.aclweb.org/anthology/L00-1104/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-104"
+    },
+    {
+        "authors": [
+            "Sabine Buchholz",
+            "Antal van den Bosch"
+        ],
+        "title": "Integrating Seed Names and ngrams for a Named Entity List and Classifier",
+        "url": "https://www.aclweb.org/anthology/L00-1105/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-105"
+    },
+    {
+        "authors": [
+            "Hideki Kashioka",
+            "Satosi Shirai"
+        ],
+        "title": "Automatically Expansion of Thesaurus Entries with a Different Thesaurus",
+        "url": "https://www.aclweb.org/anthology/L00-1106/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-106"
+    },
+    {
+        "authors": [
+            "Daniel Zeman",
+            "Anoop Sarkar"
+        ],
+        "title": "Learning Verb Subcategorization from Corpora: Counting Frame Subsets",
+        "url": "https://www.aclweb.org/anthology/L00-1107/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-107"
+    },
+    {
+        "authors": [
+            "Sašo Džeroski",
+            "Tomaž Erjavec",
+            "Jakub Zavrel"
+        ],
+        "title": "Morphosyntactic Tagging of Slovene: Evaluating Taggers and Tagsets",
+        "url": "https://www.aclweb.org/anthology/L00-1108/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-108"
+    },
+    {
+        "authors": [
+            "Giorgio Micca",
+            "Alessandra Frasca",
+            "Maria Gabriella Di Benedetto"
+        ],
+        "title": "Cross-lingual Interpolation of Speech Recognition Models",
+        "url": "https://www.aclweb.org/anthology/L00-1109/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-109"
+    },
+    {
+        "authors": [
+            "Wim Peters",
+            "Ivonne Peters"
+        ],
+        "title": "Lexicalised Systematic Polysemy in WordNet",
+        "url": "https://www.aclweb.org/anthology/L00-1110/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-110"
+    },
+    {
+        "authors": [
+            "Björn Gambäck",
+            "Fredrik Olsson"
+        ],
+        "title": "Experiences of Language Engineering Algorithm Reuse",
+        "url": "https://www.aclweb.org/anthology/L00-1111/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-111"
+    },
+    {
+        "authors": [
+            "Jana Klímová",
+            "Jan Kocek"
+        ],
+        "title": "Derivation in the Czech National Corpus",
+        "url": "https://www.aclweb.org/anthology/L00-1112/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-112"
+    },
+    {
+        "authors": [
+            "Jakub Zavrel",
+            "Walter Daelemans"
+        ],
+        "title": "Bootstrapping a Tagged Corpus through Combination of Existing Heterogeneous Taggers",
+        "url": "https://www.aclweb.org/anthology/L00-1113/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-113"
+    },
+    {
+        "authors": [
+            "Barbora Hladká"
+        ],
+        "title": "The Context (not only) for Humans",
+        "url": "https://www.aclweb.org/anthology/L00-1114/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-114"
+    },
+    {
+        "authors": [
+            "Lars Borin"
+        ],
+        "title": "Something Borrowed, Something Blue: Rule-based Combination of POS Taggers",
+        "url": "https://www.aclweb.org/anthology/L00-1115/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-115"
+    },
+    {
+        "authors": [
+            "Jon Mills"
+        ],
+        "title": "Screffva: A Lexicographer’s Workbench",
+        "url": "https://www.aclweb.org/anthology/L00-1116/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-116"
+    },
+    {
+        "authors": [
+            "Philippe Alcouffe",
+            "Nicolas Gacon",
+            "Claude Roux",
+            "Frédérique Segond"
+        ],
+        "title": "A Step toward Semantic Indexing of an Encyclopedic Corpus",
+        "url": "https://www.aclweb.org/anthology/L00-1117/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-117"
+    },
+    {
+        "authors": [
+            "Thomas Brey",
+            "Gerhard Hanrieder",
+            "Paul Heisterkamp",
+            "Ludwig Hitzenberger",
+            "Peter Regel-Brietzmann"
+        ],
+        "title": "Issues in the Evaluation of Spoken Dialogue Systems - Experience from the ACCeSS Project",
+        "url": "https://www.aclweb.org/anthology/L00-1118/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-118"
+    },
+    {
+        "authors": [
+            "Gees C. Stein",
+            "Tomek Strzalkowski",
+            "G. Bowden Wise",
+            "Amit Bagga"
+        ],
+        "title": "Evaluating Summaries for Multiple Documents in an Interactive Environment",
+        "url": "https://www.aclweb.org/anthology/L00-1119/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-119"
+    },
+    {
+        "authors": [
+            "Jorge Kinoshita"
+        ],
+        "title": "Grammarless Bracketing in an Aligned Bilingual Corpus",
+        "url": "https://www.aclweb.org/anthology/L00-1120/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-120"
+    },
+    {
+        "authors": [
+            "W.J. Black",
+            "J. McNaught",
+            "G.P. Zarri",
+            "A. Persidis",
+            "A. Brasher",
+            "L. Gilardoni",
+            "E. Bertino",
+            "G. Semeraro",
+            "P. Leo"
+        ],
+        "title": "A Semi-automatic System for Conceptual Annotation, its Application to Resource Construction and Evaluation",
+        "url": "https://www.aclweb.org/anthology/L00-1121/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-121"
+    },
+    {
+        "authors": [
+            "Amy Isard",
+            "David McKelvie",
+            "Andreas Mengel",
+            "Morten Baun Møller"
+        ],
+        "title": "The MATE Workbench Annotation Tool, a Technical Description",
+        "url": "https://www.aclweb.org/anthology/L00-1122/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-122"
+    },
+    {
+        "authors": [
+            "Rhys James Jones",
+            "John S. Mason",
+            "Louise Helliker",
+            "Mark Pawlewski"
+        ],
+        "title": "Recruitment Techniques for Minority Language Speech Databases: Some Observations",
+        "url": "https://www.aclweb.org/anthology/L00-1123/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-123"
+    },
+    {
+        "authors": [
+            "Charles L. Wayne"
+        ],
+        "title": "Multilingual Topic Detection and Tracking: Successful Research Enabled by Corpora and Evaluation",
+        "url": "https://www.aclweb.org/anthology/L00-1124/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-124"
+    },
+    {
+        "authors": [
+            "Montserrat Marimon Felipe",
+            "Jordi Porta Zamorano"
+        ],
+        "title": "PoS Disambiguation and Partial Parsing Bidirectional Interaction",
+        "url": "https://www.aclweb.org/anthology/L00-1125/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-125"
+    },
+    {
+        "authors": [
+            "Hamish Cunningham",
+            "Kalina Bontcheva",
+            "Valentin Tablan",
+            "Yorick Wilks"
+        ],
+        "title": "Software Infrastructure for Language Resources: a Taxonomy of Previous Work and a Requirements Analysis",
+        "url": "https://www.aclweb.org/anthology/L00-1126/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-126"
+    },
+    {
+        "authors": [
+            "Nancy Ide",
+            "Patrice Bonhomme",
+            "Laurent Romary"
+        ],
+        "title": "XCES: An XML-based Encoding Standard for Linguistic Corpora",
+        "url": "https://www.aclweb.org/anthology/L00-1127/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-127"
+    },
+    {
+        "authors": [
+            "Iason Demiros",
+            "Sotiris Boutsis",
+            "Voula Giouli",
+            "Maria Liakata",
+            "Harris Papageorgiou",
+            "Stelios Piperidis"
+        ],
+        "title": "Named Entity Recognition in Greek Texts",
+        "url": "https://www.aclweb.org/anthology/L00-1128/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-128"
+    },
+    {
+        "authors": [
+            "Sotiris Boutsis",
+            "Prokopis Prokopidis",
+            "Voula Giouli",
+            "Stelios Piperidis"
+        ],
+        "title": "A Robust Parser for Unrestricted Greek Text",
+        "url": "https://www.aclweb.org/anthology/L00-1129/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-129"
+    },
+    {
+        "authors": [
+            "Matej Rojc",
+            "Zdravko Kačič"
+        ],
+        "title": "A Computational Platform for Development of Morphologic and Phonetic Lexica",
+        "url": "https://www.aclweb.org/anthology/L00-1130/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-130"
+    },
+    {
+        "authors": [
+            "Constantin Orăsan",
+            "Ramesh Krishnamurthy"
+        ],
+        "title": "An Open Architecture for the Construction and Administration of Corpora",
+        "url": "https://www.aclweb.org/anthology/L00-1131/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-131"
+    },
+    {
+        "authors": [
+            "Matej Rojc",
+            "Zdravko Kačič"
+        ],
+        "title": "Design of Optimal Slovenian Speech Corpus for Use in the Concatenative Speech Synthesis System",
+        "url": "https://www.aclweb.org/anthology/L00-1132/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-132"
+    },
+    {
+        "authors": [
+            "Constantin Orăsan"
+        ],
+        "title": "CLinkA A Coreferential Links Annotator",
+        "url": "https://www.aclweb.org/anthology/L00-1133/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-133"
+    },
+    {
+        "authors": [
+            "Adam Kilgarriff",
+            "Colin Yallop"
+        ],
+        "title": "What’s in a Thesaurus?",
+        "url": "https://www.aclweb.org/anthology/L00-1134/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-134"
+    },
+    {
+        "authors": [
+            "Harris Papageorgiou",
+            "Prokopis Prokopidis",
+            "Voula Giouli",
+            "Stelios Piperidis"
+        ],
+        "title": "A Unified POS Tagging Architecture and its Application to Greek",
+        "url": "https://www.aclweb.org/anthology/L00-1135/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-135"
+    },
+    {
+        "authors": [
+            "Patrice Bonhomme",
+            "Patrice Lopez"
+        ],
+        "title": "Resources for Lexicalized Tree Adjoining Grammars and XML Encoding: TagML",
+        "url": "https://www.aclweb.org/anthology/L00-1136/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-136"
+    },
+    {
+        "authors": [
+            "Andreas Witt",
+            "Harald Lüngen",
+            "Dafydd Gibbon"
+        ],
+        "title": "Enhancing Speech Corpus Resources with Multiple Lexical Tag Layers",
+        "url": "https://www.aclweb.org/anthology/L00-1137/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-137"
+    },
+    {
+        "authors": [
+            "Steven Bird",
+            "David Day",
+            "John Garofolo",
+            "John Henderson",
+            "Christophe Laprun",
+            "Mark Liberman"
+        ],
+        "title": "ATLAS: A Flexible and Extensible Architecture for Linguistic Annotation",
+        "url": "https://www.aclweb.org/anthology/L00-1138/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-138"
+    },
+    {
+        "authors": [
+            "Pavel Skrelin",
+            "Tatiana Sherstinova"
+        ],
+        "title": "Models of Russian Text/Speech Interactive Databases for Supporting of Scientific, Practical and Cultural Researches",
+        "url": "https://www.aclweb.org/anthology/L00-1139/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-139"
+    },
+    {
+        "authors": [
+            "Lluís de Yzaguirre",
+            "Marta Ribas",
+            "Jordi Vivaldi",
+            "M. Teresa Cabré"
+        ],
+        "title": "Some Technical Aspects about Aligning Near Languages",
+        "url": "https://www.aclweb.org/anthology/L00-1140/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-140"
+    },
+    {
+        "authors": [
+            "Tony McEnery",
+            "Paul Baker",
+            "Lou Burnard"
+        ],
+        "title": "Corpus Resources and Minority Language Engineering",
+        "url": "https://www.aclweb.org/anthology/L00-1141/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-141"
+    },
+    {
+        "authors": [
+            "Brigitte Krenn"
+        ],
+        "title": "CDB - A Database of Lexical Collocations",
+        "url": "https://www.aclweb.org/anthology/L00-1142/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-142"
+    },
+    {
+        "authors": [
+            "Marilyn Walker",
+            "Lynette Hirschman",
+            "John Aberdeen"
+        ],
+        "title": "Evaluation for Darpa Communicator Spoken Dialogue Systems",
+        "url": "https://www.aclweb.org/anthology/L00-1143/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-143"
+    },
+    {
+        "authors": [
+            "Edouard Geoffrois",
+            "Claude Barras",
+            "Steven Bird",
+            "Zhibiao Wu"
+        ],
+        "title": "Transcribing with Annotation Graphs",
+        "url": "https://www.aclweb.org/anthology/L00-1144/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-144"
+    },
+    {
+        "authors": [
+            "Massimo Poesio"
+        ],
+        "title": "Annotating a Corpus to Develop and Evaluate Discourse Entity Realization Algorithms: Issues and Preliminary Results",
+        "url": "https://www.aclweb.org/anthology/L00-1145/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-145"
+    },
+    {
+        "authors": [
+            "Steven Bird",
+            "Peter Buneman",
+            "Wang-Chiew Tan"
+        ],
+        "title": "Towards a Query Language for Annotation Graphs",
+        "url": "https://www.aclweb.org/anthology/L00-1146/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-146"
+    },
+    {
+        "authors": [
+            "Catherine Macleod",
+            "Nancy Ide",
+            "Ralph Grishman"
+        ],
+        "title": "The American National Corpus: A Standardized Resource for American English",
+        "url": "https://www.aclweb.org/anthology/L00-1147/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-147"
+    },
+    {
+        "authors": [
+            "Martha Palmer",
+            "Hoa Trang Dang",
+            "Joseph Rosenzweig"
+        ],
+        "title": "Semantic Tagging for the Penn Treebank",
+        "url": "https://www.aclweb.org/anthology/L00-1148/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-148"
+    },
+    {
+        "authors": [
+            "Kiril Ribarov"
+        ],
+        "title": "Rule-based Tagging: Morphological Tagset versus Tagset of Analytical Functions",
+        "url": "https://www.aclweb.org/anthology/L00-1149/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-149"
+    },
+    {
+        "authors": [
+            "Kiril Ribarov"
+        ],
+        "title": "The (Un)Deterministic Nature of Morphological Context",
+        "url": "https://www.aclweb.org/anthology/L00-1150/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-150"
+    },
+    {
+        "authors": [
+            "David Day",
+            "Alan Goldschen",
+            "John Henderson"
+        ],
+        "title": "A Framework for Cross-Document Annotation",
+        "url": "https://www.aclweb.org/anthology/L00-1151/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-151"
+    },
+    {
+        "authors": [
+            "Peggy Cadel",
+            "Hélène Ledouble"
+        ],
+        "title": "Extraction of Concepts and Multilingual Information Schemes from French and English Economics Documents",
+        "url": "https://www.aclweb.org/anthology/L00-1152/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-152"
+    },
+    {
+        "authors": [
+            "Eric J. Breck",
+            "John D. Burger",
+            "Lisa Ferro",
+            "Lynette Hirschman",
+            "David House",
+            "Marc Light",
+            "Inderjeet Mani"
+        ],
+        "title": "How to Evaluate Your Question Answering System Every Day ... and Still Get Real Work Done",
+        "url": "https://www.aclweb.org/anthology/L00-1153/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-153"
+    },
+    {
+        "authors": [
+            "Daniela Oppermann",
+            "Susanne Burger",
+            "Karl Weilhammer"
+        ],
+        "title": "What are Transcription Errors and Why are They made?",
+        "url": "https://www.aclweb.org/anthology/L00-1154/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-154"
+    },
+    {
+        "authors": [
+            "Barbara Di Eugenio"
+        ],
+        "title": "On the Usage of Kappa to Evaluate Agreement on Coding Tasks",
+        "url": "https://www.aclweb.org/anthology/L00-1155/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-155"
+    },
+    {
+        "authors": [
+            "Le Sun",
+            "Youbing Jin",
+            "Lin Du",
+            "Yufang Sun"
+        ],
+        "title": "Automatic Extraction of English-Chinese Term Lexicons from Noisy Bilingual Corpora",
+        "url": "https://www.aclweb.org/anthology/L00-1156/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-156"
+    },
+    {
+        "authors": [
+            "Christopher Cieri",
+            "Mark Liberman"
+        ],
+        "title": "Issues in Corpus Creation and Distribution: The Evolution of the Linguistic Data Consortium",
+        "url": "https://www.aclweb.org/anthology/L00-1157/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-157"
+    },
+    {
+        "authors": [
+            "Christopher Cieri",
+            "David Graff",
+            "Mark Liberman",
+            "Nii Martey",
+            "Stephanie Strassel"
+        ],
+        "title": "Large, Multilingual, Broadcast News Corpora for Cooperative Research in Topic Detection and Tracking: The TDT-2 and TDT-3 Corpus Efforts",
+        "url": "https://www.aclweb.org/anthology/L00-1158/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-158"
+    },
+    {
+        "authors": [
+            "Yuji Matsumoto",
+            "Tatsuo Yamashita"
+        ],
+        "title": "Using Machine Learning Methods to Improve Quality of Tagged Corpora and Learning Models",
+        "url": "https://www.aclweb.org/anthology/L00-1159/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-159"
+    },
+    {
+        "authors": [
+            "Stephanie Strassel",
+            "David Graff",
+            "Nii Martey",
+            "Christopher Cieri"
+        ],
+        "title": "Quality Control in Large Annotation Projects Involving Multiple Judges: The Case of the TDT Corpora",
+        "url": "https://www.aclweb.org/anthology/L00-1160/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-160"
+    },
+    {
+        "authors": [
+            "Takehito Utsuro"
+        ],
+        "title": "Learning Preference of Dependency between Japanese Subordinate Clauses and its Evaluation in Parsing",
+        "url": "https://www.aclweb.org/anthology/L00-1161/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-161"
+    },
+    {
+        "authors": [
+            "Lin-Shan Lee",
+            "Lee-Feng Chien"
+        ],
+        "title": "Live Lexicons and Dynamic Corpora Adapted to the Network Resources for Chinese Spoken Language Processing Applications in an Internet Era",
+        "url": "https://www.aclweb.org/anthology/L00-1162/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-162"
+    },
+    {
+        "authors": [
+            "Lori Levin",
+            "Boris Bartlog",
+            "Ariadna Font Llitjos",
+            "Donna Gates",
+            "Alon Lavie",
+            "Dorcas Wallace",
+            "Taro Watanabe",
+            "Monika Woszczyna"
+        ],
+        "title": "Lessons Learned from a Task-based Evaluation of Speech-to-Speech Machine Translation",
+        "url": "https://www.aclweb.org/anthology/L00-1163/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-163"
+    },
+    {
+        "authors": [
+            "Frank Van Eynde",
+            "Jakub Zavrel",
+            "Walter Daelemans"
+        ],
+        "title": "Part of Speech Tagging and Lemmatisation for the Spoken Dutch Corpus",
+        "url": "https://www.aclweb.org/anthology/L00-1164/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-164"
+    },
+    {
+        "authors": [
+            "Karl Weilhammer",
+            "Daniela Oppermann",
+            "Susanne Burger"
+        ],
+        "title": "The Influence of Scenario Constraints on the Spontaneity of Speech. A Comparison of Dialogue Corpora",
+        "url": "https://www.aclweb.org/anthology/L00-1165/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-165"
+    },
+    {
+        "authors": [
+            "Leonardo Lesmo",
+            "Vincenzo Lombardo"
+        ],
+        "title": "Automatic Assignment of Grammatical Relations",
+        "url": "https://www.aclweb.org/anthology/L00-1166/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-166"
+    },
+    {
+        "authors": [
+            "Bernardo Magnini",
+            "Gabriela Cavaglià"
+        ],
+        "title": "Integrating Subject Field Codes into WordNet",
+        "url": "https://www.aclweb.org/anthology/L00-1167/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-167"
+    },
+    {
+        "authors": [
+            "Cristina Bosco",
+            "Vincenzo Lombardo",
+            "Daniela Vassallo",
+            "Leonardo Lesmo"
+        ],
+        "title": "Building a Treebank for Italian: a Data-driven Annotation Schema",
+        "url": "https://www.aclweb.org/anthology/L00-1168/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-168"
+    },
+    {
+        "authors": [
+            "Kyongho Min",
+            "William H. Wilson",
+            "Yoo-Jin Moon"
+        ],
+        "title": "Typographical and Orthographical Spelling Error Correction",
+        "url": "https://www.aclweb.org/anthology/L00-1169/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-169"
+    },
+    {
+        "authors": [
+            "Jana Klímová",
+            "Karel Pala"
+        ],
+        "title": "Application of WordNet ILR in Czech Word-formation",
+        "url": "https://www.aclweb.org/anthology/L00-1170/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-170"
+    },
+    {
+        "authors": [
+            "Byeongchang Kim",
+            "Jin-seok Lee",
+            "Jeongwon Cha",
+            "Geunbae Lee"
+        ],
+        "title": "POSCAT: A Morpheme-based Speech Corpus Annotation Tool",
+        "url": "https://www.aclweb.org/anthology/L00-1171/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-171"
+    },
+    {
+        "authors": [
+            "Uwe Quasthoff",
+            "Christian Wolff"
+        ],
+        "title": "A Flexible Infrastructure for Large Monolingual Corpora",
+        "url": "https://www.aclweb.org/anthology/L00-1172/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-172"
+    },
+    {
+        "authors": [
+            "Byung-Ju Kang",
+            "Key-Sun Choi"
+        ],
+        "title": "Automatic Transliteration and Back-transliteration by Decision Tree Learning",
+        "url": "https://www.aclweb.org/anthology/L00-1173/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-173"
+    },
+    {
+        "authors": [
+            "Klaus Ries",
+            "Lori Levin",
+            "Liza Valle",
+            "Alon Lavie",
+            "Alex Waibel"
+        ],
+        "title": "Shallow Discourse Genre Annotation in CallHome Spanish",
+        "url": "https://www.aclweb.org/anthology/L00-1174/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-174"
+    },
+    {
+        "authors": [
+            "Anne Abeillé",
+            "Lionel Clément",
+            "Alexandra Kinyon"
+        ],
+        "title": "Building a Treebank for French",
+        "url": "https://www.aclweb.org/anthology/L00-1175/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-175"
+    },
+    {
+        "authors": [
+            "Paola Merlo",
+            "Suzanne Stevenson"
+        ],
+        "title": "Establishing the Upper Bound and Inter-judge Agreement of a Verb Classification Task",
+        "url": "https://www.aclweb.org/anthology/L00-1176/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-176"
+    },
+    {
+        "authors": [
+            "Nadjet Bouayad-Agha"
+        ],
+        "title": "Layout Annotation in a Corpus of Patient Information Leaflets",
+        "url": "https://www.aclweb.org/anthology/L00-1177/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-177"
+    },
+    {
+        "authors": [
+            "D. Vaufreydaz",
+            "C. Bergamini",
+            "J.F. Serignat",
+            "L. Besacier",
+            "M. Akbar"
+        ],
+        "title": "A New Methodology for Speech Corpora Definition from Internet Documents",
+        "url": "https://www.aclweb.org/anthology/L00-1178/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-178"
+    },
+    {
+        "authors": [
+            "Luisa Bentivogli",
+            "Emanuele Pianta",
+            "Fabio Pianesi"
+        ],
+        "title": "Coping with Lexical Gaps when Building Aligned Multilingual Wordnets",
+        "url": "https://www.aclweb.org/anthology/L00-1179/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-179"
+    },
+    {
+        "authors": [
+            "Young-Soog Chae",
+            "Key-Sun Choi"
+        ],
+        "title": "Design and Construction of Knowledge base for Verb using MRD and Tagged Corpus",
+        "url": "https://www.aclweb.org/anthology/L00-1180/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-180"
+    },
+    {
+        "authors": [
+            "Young-Soog Chae",
+            "Key-Sun Choi"
+        ],
+        "title": "Introduction of KIBS (Korean Information Base System) Project",
+        "url": "https://www.aclweb.org/anthology/L00-1181/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-181"
+    },
+    {
+        "authors": [
+            "John Bateman",
+            "Elke Teich",
+            "Geert-Jan Kruijff",
+            "Ivana Kruijff-Korbayová",
+            "Serge Sharoff",
+            "Hana Skoumalová"
+        ],
+        "title": "Resources for Multilingual Text Generation in Three Slavic Languages",
+        "url": "https://www.aclweb.org/anthology/L00-1182/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-182"
+    },
+    {
+        "authors": [
+            "Dafydd Gibbon",
+            "Thorsten Trippel"
+        ],
+        "title": "A Multi-view Hyperlexicon Resource for Speech and Language System Development",
+        "url": "https://www.aclweb.org/anthology/L00-1183/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-183"
+    },
+    {
+        "authors": [
+            "Lynne Cahill",
+            "Christy Doran",
+            "Roger Evans",
+            "Rodger Kibble",
+            "Chris Mellish",
+            "D. Paiva",
+            "Mike Reape",
+            "Donia Scott",
+            "Neil Tipper"
+        ],
+        "title": "Enabling Resource Sharing in Language Generation: an Abstract Reference Architecture",
+        "url": "https://www.aclweb.org/anthology/L00-1184/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-184"
+    },
+    {
+        "authors": [
+            "Zdravko Kačič",
+            "Bogomir Horvat",
+            "Aleksandra Zögling"
+        ],
+        "title": "Issues in Design and Collection of Large Telephone Speech Corpus for Slovenian Language",
+        "url": "https://www.aclweb.org/anthology/L00-1185/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-185"
+    },
+    {
+        "authors": [
+            "Christophe Jouis",
+            "ARC A3"
+        ],
+        "title": "ARC A3: A Method for Evaluating Term Extracting Tools and/or Semantic Relations between Terms from Corpora",
+        "url": "https://www.aclweb.org/anthology/L00-1186/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-186"
+    },
+    {
+        "authors": [
+            "Richard F. E. Sutcliffe",
+            "Sadao Kurohashi"
+        ],
+        "title": "A Parallel English-Japanese Query Collection for the Evaluation of On-Line Help Systems",
+        "url": "https://www.aclweb.org/anthology/L00-1187/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-187"
+    },
+    {
+        "authors": [
+            "Dan Tufiş",
+            "Péter Dienes",
+            "Csaba Oravecz",
+            "Tamás Váradi"
+        ],
+        "title": "Principled Hidden Tagset Design for Tiered Tagging of Hungarian",
+        "url": "https://www.aclweb.org/anthology/L00-1188/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-188"
+    },
+    {
+        "authors": [
+            "Felisa Verdejo",
+            "Julio Gonzalo",
+            "Anselmo Peñas",
+            "Fernando López",
+            "David Fernández"
+        ],
+        "title": "Evaluating Wordnets in Cross-language Information Retrieval: the ITEM Search Engine",
+        "url": "https://www.aclweb.org/anthology/L00-1189/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-189"
+    },
+    {
+        "authors": [
+            "Dafydd Gibbon",
+            "Ana Paula Quirino Simões",
+            "Martin Matthiesen"
+        ],
+        "title": "An Optimised FS Pronunciation Resource Generator for Highly Inflecting Languages",
+        "url": "https://www.aclweb.org/anthology/L00-1190/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-190"
+    },
+    {
+        "authors": [
+            "Gabriel Illouz"
+        ],
+        "title": "Sublanguage Dependent Evaluation: Toward Predicting NLP performances",
+        "url": "https://www.aclweb.org/anthology/L00-1191/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-191"
+    },
+    {
+        "authors": [
+            "Jan-Torsten Milde",
+            "Markus Reinsch"
+        ],
+        "title": "The Universal XML Organizer: UXO",
+        "url": "https://www.aclweb.org/anthology/L00-1192/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-192"
+    },
+    {
+        "authors": [
+            "Helka Folch",
+            "Serge Heiden",
+            "Benoît Habert",
+            "Serge Fleury",
+            "Gabriel Illouz",
+            "Pierre Lafon",
+            "Julien Nioche",
+            "Sophie Prévost"
+        ],
+        "title": "TyPTex: Inductive Typological Text Classification by Multivariate Statistical Analysis for NLP Systems Tuning/Evaluation",
+        "url": "https://www.aclweb.org/anthology/L00-1193/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-193"
+    },
+    {
+        "authors": [
+            "Davide Turcato",
+            "Janine Toole",
+            "Stavroula Tsiplakou",
+            "Trude Heift",
+            "Paul McFetridge"
+        ],
+        "title": "An Approach to Lexical Development for Inflectional Languages",
+        "url": "https://www.aclweb.org/anthology/L00-1194/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-194"
+    },
+    {
+        "authors": [
+            "Luzia Wittmann",
+            "Ricardo Daniel Ribeiro",
+            "Tânia Pêgo",
+            "Fernando Batista"
+        ],
+        "title": "Some Language Resources and Tools for Computational Processing of Portuguese at INESC",
+        "url": "https://www.aclweb.org/anthology/L00-1195/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-195"
+    },
+    {
+        "authors": [
+            "Takehito Utsuro",
+            "Manabu Sassano"
+        ],
+        "title": "Minimally Supervised Japanese Named Entity Recognition: Resources and Evaluation",
+        "url": "https://www.aclweb.org/anthology/L00-1196/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-196"
+    },
+    {
+        "authors": [
+            "Joyce Yue Chai"
+        ],
+        "title": "Evaluation of a Generic Lexical Semantic Resource in Information Extraction",
+        "url": "https://www.aclweb.org/anthology/L00-1197/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-197"
+    },
+    {
+        "authors": [
+            "Jim Talley"
+        ],
+        "title": "The Establishment of Motorola’s Human Language Data Resource Center: Addressing the Criticality of Language Resources in the Industrial Setting",
+        "url": "https://www.aclweb.org/anthology/L00-1198/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-198"
+    },
+    {
+        "authors": [
+            "Katsunobu Itou",
+            "Kiyohiro Shikano",
+            "Tatsuya Kawahara",
+            "Kasuya Takeda",
+            "Atsushi Yamada",
+            "Akinori Itou",
+            "Takehito Utsuro",
+            "Tetsunori Kobayashi",
+            "Nobuaki Minematsu",
+            "Mikio Yamamoto",
+            "Shigeki Sagayama",
+            "Akinobu Lee"
+        ],
+        "title": "IPA Japanese Dictation Free Software Project",
+        "url": "https://www.aclweb.org/anthology/L00-1199/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-199"
+    },
+    {
+        "authors": [
+            "Kikuo Maekawa",
+            "Hanae Koiso",
+            "Sadaoki Furui",
+            "Hitoshi Isahara"
+        ],
+        "title": "Spontaneous Speech Corpus of Japanese",
+        "url": "https://www.aclweb.org/anthology/L00-1200/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-200"
+    },
+    {
+        "authors": [
+            "Sean Boisen",
+            "Michael R. Crystal",
+            "Richard Schwartz",
+            "Rebecca Stone",
+            "Ralph Weischedel"
+        ],
+        "title": "Annotating Resources for Information Extraction",
+        "url": "https://www.aclweb.org/anthology/L00-1201/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-201"
+    },
+    {
+        "authors": [
+            "Thierry Declerck",
+            "Alexander Werner Jachmann",
+            "Hans Uszkoreit"
+        ],
+        "title": "The New Edition of the Natural Language Software Registry (an Initiative of ACL hosted at DFKI)",
+        "url": "https://www.aclweb.org/anthology/L00-1202/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-202"
+    },
+    {
+        "authors": [
+            "Jong-mi Kim"
+        ],
+        "title": "Design Methodology for Bilingual Pronunciation Dictionary",
+        "url": "https://www.aclweb.org/anthology/L00-1203/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-203"
+    },
+    {
+        "authors": [
+            "Constandina Economou",
+            "Spyros Raptis",
+            "Gregory Stainhaouer"
+        ],
+        "title": "LEXIPLOIGISSI: An Educational Platform for the Teaching of Terminology in Greece",
+        "url": "https://www.aclweb.org/anthology/L00-1204/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-204"
+    },
+    {
+        "authors": [
+            "Malgorzata Marciniak",
+            "Agnieszka Mykowiecka",
+            "Anna Kupść",
+            "Adam Przepiórkowski"
+        ],
+        "title": "An HPSG-Annotated Test Suite for Polish",
+        "url": "https://www.aclweb.org/anthology/L00-1205/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-205"
+    },
+    {
+        "authors": [
+            "Finn Tore Johansen",
+            "Narada Warakagoda",
+            "Børge Lindberg",
+            "Gunnar Lehtinen",
+            "Zdravko Kačič",
+            "Andrej Žgank",
+            "Kjell Elenius",
+            "Giampiero Salvi"
+        ],
+        "title": "The COST 249 SpeechDat Multilingual Reference Recogniser",
+        "url": "https://www.aclweb.org/anthology/L00-1206/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-206"
+    },
+    {
+        "authors": [
+            "Marianna Katsoyannou",
+            "Eleni Efthimiou"
+        ],
+        "title": "Terminology Encoding in View of Multifunctional NLP Resources",
+        "url": "https://www.aclweb.org/anthology/L00-1207/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-207"
+    },
+    {
+        "authors": [
+            "Key-Sun Choi",
+            "Young-Soog Chae"
+        ],
+        "title": "Terminology in Korea: KORTERM",
+        "url": "https://www.aclweb.org/anthology/L00-1208/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-208"
+    },
+    {
+        "authors": [
+            "Gaëlle Birocheau"
+        ],
+        "title": "Morphological Tagging to Resolve Morphological Ambiguities",
+        "url": "https://www.aclweb.org/anthology/L00-1209/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-209"
+    },
+    {
+        "authors": [
+            "Sonja Nießen",
+            "Franz Josef Och",
+            "Gregor Leusch",
+            "Hermann Ney"
+        ],
+        "title": "An Evaluation Tool for Machine Translation: Fast Evaluation for MT Research",
+        "url": "https://www.aclweb.org/anthology/L00-1210/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-210"
+    },
+    {
+        "authors": [
+            "Fiammetta Namer",
+            "Georgette Dal"
+        ],
+        "title": "GéDériF: Automatic Generation and Analysis of Morphologically Constructed Lexical Resources",
+        "url": "https://www.aclweb.org/anthology/L00-1211/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-211"
+    },
+    {
+        "authors": [
+            "Josué Ndamba",
+            "Jean Silence Bayamboussa"
+        ],
+        "title": "Le Programme Compalex (COMPAraison LEXicale)",
+        "url": "https://www.aclweb.org/anthology/L00-1212/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-212"
+    },
+    {
+        "authors": [
+            "David Graff",
+            "Steven Bird"
+        ],
+        "title": "Many Uses, Many Annotations for Large Speech Corpora: Switchboard and TDT as Case Studies",
+        "url": "https://www.aclweb.org/anthology/L00-1213/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-213"
+    },
+    {
+        "authors": [
+            "Gerhard Budin",
+            "Alan K. Melby"
+        ],
+        "title": "Accessibility of Multilingual Terminological Resources - Current Problems and Prospects for the Future",
+        "url": "https://www.aclweb.org/anthology/L00-1214/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-214"
+    },
+    {
+        "authors": [
+            "Bilel Gargouri",
+            "Mohamed Jmaiel",
+            "Abdelmajid Ben Hamadou"
+        ],
+        "title": "Using a Formal Approach to Evaluate Grammars",
+        "url": "https://www.aclweb.org/anthology/L00-1215/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-215"
+    },
+    {
+        "authors": [
+            "Alvin Martin",
+            "Mark Przybocki"
+        ],
+        "title": "Design Issues in Text-Independent Speaker Recognition Evaluation",
+        "url": "https://www.aclweb.org/anthology/L00-1216/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-216"
+    },
+    {
+        "authors": [
+            "Fei Xia",
+            "Martha Palmer",
+            "Nianwen Xue",
+            "Mary Ellen Okurowski",
+            "John Kovarik",
+            "Fu-Dong Chiou",
+            "Shizhe Huang",
+            "Tony Kroch",
+            "Mitch Marcus"
+        ],
+        "title": "Developing Guidelines and Ensuring Consistency for Chinese Text Annotation",
+        "url": "https://www.aclweb.org/anthology/L00-1217/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-217"
+    },
+    {
+        "authors": [
+            "Jerneja Gros",
+            "France Mihelič",
+            "Simon Dobrišek",
+            "Tomaž Erjavec",
+            "Mario Žganec"
+        ],
+        "title": "Corpora of Slovene Spoken Language for Multi-lingual Applications",
+        "url": "https://www.aclweb.org/anthology/L00-1218/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-218"
+    },
+    {
+        "authors": [
+            "E. Kavallieratou",
+            "N. Liolios",
+            "E. Koutsogeorgos",
+            "N. Fakotakis",
+            "G. Kokkinakis"
+        ],
+        "title": "GRUHD: A Greek database of Unconstrained Handwriting",
+        "url": "https://www.aclweb.org/anthology/L00-1219/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-219"
+    },
+    {
+        "authors": [
+            "France Mihelič",
+            "Jerneja Gros",
+            "Elmar Nöth",
+            "Volker Warnke"
+        ],
+        "title": "Labeling of Prosodic Events in Slovenian Speech Database GOPOLIS",
+        "url": "https://www.aclweb.org/anthology/L00-1220/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-220"
+    },
+    {
+        "authors": [
+            "Catia Cucchiarini",
+            "Johan Van Hoorde",
+            "Elizabeth D’Halleweyn"
+        ],
+        "title": "NL-Translex: Machine Translation for Dutch",
+        "url": "https://www.aclweb.org/anthology/L00-1221/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-221"
+    },
+    {
+        "authors": [
+            "Jaroslava Hlaváčová"
+        ],
+        "title": "Rarity of Words in a Language and in a Corpus",
+        "url": "https://www.aclweb.org/anthology/L00-1222/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-222"
+    },
+    {
+        "authors": [
+            "Ángel Martín Municio",
+            "Guillermo Rojo",
+            "Fernando Sánchez León",
+            "Octavio Pinillos"
+        ],
+        "title": "Language Resources Development at the Spanish Royal Academy",
+        "url": "https://www.aclweb.org/anthology/L00-1223/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-223"
+    },
+    {
+        "authors": [
+            "Irina Prodanof",
+            "Amedeo Cappelli",
+            "Lorenzo Moretti"
+        ],
+        "title": "Reusability as Easy Adaptability: A Substantial Advance in NL Technology",
+        "url": "https://www.aclweb.org/anthology/L00-1224/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-224"
+    },
+    {
+        "authors": [
+            "Andrew Bredenkamp",
+            "Berthold Crysmann",
+            "Mirela Petrea"
+        ],
+        "title": "Looking for Errors: A Declarative Formalism for Resource-adaptive Language Checking",
+        "url": "https://www.aclweb.org/anthology/L00-1225/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-225"
+    },
+    {
+        "authors": [
+            "Martin Gellerstam",
+            "Yvonne Cederholm",
+            "Torgny Rasmark"
+        ],
+        "title": "The Bank of Swedish",
+        "url": "https://www.aclweb.org/anthology/L00-1226/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-226"
+    },
+    {
+        "authors": [
+            "George Tambouratzis",
+            "Stella Markantonatou",
+            "Nikolaos Hairetakis",
+            "George Carayannis"
+        ],
+        "title": "Automatic Style Categorisation of Corpora in the Greek Language",
+        "url": "https://www.aclweb.org/anthology/L00-1227/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-227"
+    },
+    {
+        "authors": [
+            "Aristomenis Thanopoulos",
+            "Nikos Fakotakis",
+            "George Kokkinakis"
+        ],
+        "title": "Automatic Extraction of Semantic Similarity of Words from Raw Technical Texts",
+        "url": "https://www.aclweb.org/anthology/L00-1228/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-228"
+    },
+    {
+        "authors": [
+            "H. Bonneau-Maynard",
+            "L. Devillers",
+            "S. Rosset"
+        ],
+        "title": "Predictive Performance of Dialog Systems",
+        "url": "https://www.aclweb.org/anthology/L00-1229/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-229"
+    },
+    {
+        "authors": [
+            "Penny Labropoulou",
+            "Elena Mantzari",
+            "Harris Papageorgiou",
+            "Maria Gavrilidou"
+        ],
+        "title": "Automatic Generation of Dictionary Definitions from a Computational Lexicon",
+        "url": "https://www.aclweb.org/anthology/L00-1230/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-230"
+    },
+    {
+        "authors": [
+            "Nicole Beringer",
+            "Marcia Neff"
+        ],
+        "title": "Regional Pronunciation Variants for Automatic Segmentation",
+        "url": "https://www.aclweb.org/anthology/L00-1231/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-231"
+    },
+    {
+        "authors": [
+            "Mario Refice",
+            "Michelina Savino",
+            "Marco Altieri",
+            "Roberto Altieri"
+        ],
+        "title": "SegWin: a Tool for Segmenting, Annotating, and Controlling the Creation of a Database of Spoken Italian Varieties",
+        "url": "https://www.aclweb.org/anthology/L00-1232/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-232"
+    },
+    {
+        "authors": [
+            "Klaus Bengler"
+        ],
+        "title": "Automotive Speech-Recognition - Success Conditions Beyond Recognition Rates",
+        "url": "https://www.aclweb.org/anthology/L00-1233/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-233"
+    },
+    {
+        "authors": [
+            "Wolfgang Menzel",
+            "Eric Atwell",
+            "Patrizia Bonaventura",
+            "Daniel Herron",
+            "Peter Howarth",
+            "Rachel Morton",
+            "Clive Souter"
+        ],
+        "title": "The ISLE Corpus of Non-Native Spoken English",
+        "url": "https://www.aclweb.org/anthology/L00-1234/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-234"
+    },
+    {
+        "authors": [
+            "Kallirroi Georgila",
+            "Nikos Fakotakis",
+            "George Kokkinakis"
+        ],
+        "title": "A Graphical Parametric Language-Independent Tool for the Annotation of Speech Corpora",
+        "url": "https://www.aclweb.org/anthology/L00-1235/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-235"
+    },
+    {
+        "authors": [
+            "Georges Vignaux"
+        ],
+        "title": "The PAROLE Program",
+        "url": "https://www.aclweb.org/anthology/L00-1236/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-236"
+    },
+    {
+        "authors": [
+            "Stéphane Chaudiron",
+            "Khalid Choukri",
+            "Audrey Mance",
+            "Valérie Mapelli"
+        ],
+        "title": "For a Repository of NLP Tools",
+        "url": "https://www.aclweb.org/anthology/L00-1237/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-237"
+    },
+    {
+        "authors": [
+            "Jeffrey Allen",
+            "Khalid Choukri"
+        ],
+        "title": "Survey of Language Engineering Needs: a Language Resources Perspective",
+        "url": "https://www.aclweb.org/anthology/L00-1238/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-238"
+    },
+    {
+        "authors": [
+            "Jo Calder"
+        ],
+        "title": "Interarbora and Thistle - Delivering Linguistic Structure by the Internet",
+        "url": "https://www.aclweb.org/anthology/L00-1239/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-239"
+    },
+    {
+        "authors": [
+            "George Demetriou",
+            "Robert Gaizauskas"
+        ],
+        "title": "Automatically Augmenting Terminological Lexicons from Untagged Text",
+        "url": "https://www.aclweb.org/anthology/L00-1240/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-240"
+    },
+    {
+        "authors": [
+            "Andrea Setzer",
+            "Robert Gaizauskas"
+        ],
+        "title": "Annotating Events and Temporal Information in Newswire Texts",
+        "url": "https://www.aclweb.org/anthology/L00-1241/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-241"
+    },
+    {
+        "authors": [
+            "Bonnie J. Dorr",
+            "Gina-Anne Levow",
+            "Dekang Lin",
+            "Scott Thomas"
+        ],
+        "title": "Chinese-English Semantic Resource Construction",
+        "url": "https://www.aclweb.org/anthology/L00-1242/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-242"
+    },
+    {
+        "authors": [
+            "Vera Fluhr-Semenova",
+            "Christian Fluhr",
+            "Stéphanie Brisson"
+        ],
+        "title": "Production of NLP-oriented Bilingual Language Resources from Human-oriented dictionaries",
+        "url": "https://www.aclweb.org/anthology/L00-1243/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-243"
+    },
+    {
+        "authors": [
+            "J.C. Roux",
+            "E.C. Botha",
+            "J.A. du Preez"
+        ],
+        "title": "Developing a Multilingual Telephone Based Information System in African Languages",
+        "url": "https://www.aclweb.org/anthology/L00-1244/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-244"
+    },
+    {
+        "authors": [
+            "Roberto Basili",
+            "Maria Teresa Pazienza",
+            "Michele Vindigni",
+            "Fabio Massimo Zanzotto"
+        ],
+        "title": "Tuning Lexicons to New Operational Scenarios",
+        "url": "https://www.aclweb.org/anthology/L00-1245/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-245"
+    },
+    {
+        "authors": [
+            "José A.R. Fonollosa",
+            "Asunción Moreno"
+        ],
+        "title": "SpeechDat-Car Fixed Platform",
+        "url": "https://www.aclweb.org/anthology/L00-1246/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-246"
+    },
+    {
+        "authors": [
+            "Thorsten Brants"
+        ],
+        "title": "Inter-annotator Agreement for a German Newspaper Corpus",
+        "url": "https://www.aclweb.org/anthology/L00-1247/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-247"
+    },
+    {
+        "authors": [
+            "Thorsten Brants",
+            "Oliver Plaehn"
+        ],
+        "title": "Interactive Corpus Annotation",
+        "url": "https://www.aclweb.org/anthology/L00-1248/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-248"
+    },
+    {
+        "authors": [
+            "Tomaž Erjavec",
+            "Roger Evans",
+            "Nancy Ide",
+            "Adam Kilgarriff"
+        ],
+        "title": "The Concede Model for Lexical Databases",
+        "url": "https://www.aclweb.org/anthology/L00-1249/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-249"
+    },
+    {
+        "authors": [
+            "Nick Hatzigeorgiu",
+            "Maria Gavrilidou",
+            "Stelios Piperidis",
+            "George Carayannis",
+            "Anastasia Papakostopoulou",
+            "Athanassia Spiliotopoulou",
+            "Anna Vacalopoulou",
+            "Penny Labropoulou",
+            "Elena Mantzari",
+            "Harris Papageorgiou",
+            "Iason Demiros"
+        ],
+        "title": "Design and Implementation of the Online ILSP Greek Corpus",
+        "url": "https://www.aclweb.org/anthology/L00-1250/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-250"
+    },
+    {
+        "authors": [
+            "Saturnino Luz"
+        ],
+        "title": "A Software Toolkit for Sharing and Accessing Corpora Over the Internet",
+        "url": "https://www.aclweb.org/anthology/L00-1251/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-251"
+    },
+    {
+        "authors": [
+            "Ülle Viks"
+        ],
+        "title": "Tools for the Generation of Morphological Entries in Dictionaries",
+        "url": "https://www.aclweb.org/anthology/L00-1252/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-252"
+    },
+    {
+        "authors": [
+            "Paula Guerreiro"
+        ],
+        "title": "Improving Lexical Databases with Collocational Information: Data from Portuguese",
+        "url": "https://www.aclweb.org/anthology/L00-1253/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-253"
+    },
+    {
+        "authors": [
+            "Kiyoaki Shirai",
+            "Hozumi Tanaka",
+            "Takenobu Tokunaga"
+        ],
+        "title": "Semi-automatic Construction of a Tree-annotated Corpus Using an Iterative Learning Statistical Language Model",
+        "url": "https://www.aclweb.org/anthology/L00-1254/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-254"
+    },
+    {
+        "authors": [
+            "Marilyn Mason"
+        ],
+        "title": "Issues from Corpus Analysis that have influenced the On-going Development of Various Haitian Creole Text- and Speech-based NLP Systems and Applications",
+        "url": "https://www.aclweb.org/anthology/L00-1255/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-255"
+    },
+    {
+        "authors": [
+            "David Portabella",
+            "Albert Febrer",
+            "Asunción Moreno"
+        ],
+        "title": "NaniTrans: a Speech Labelling Tool",
+        "url": "https://www.aclweb.org/anthology/L00-1256/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-256"
+    },
+    {
+        "authors": [
+            "Sanda M. Harabagiu",
+            "Steven J. Maiorano"
+        ],
+        "title": "Acquisition of Linguistic Patterns for Knowledge-based Information Extraction",
+        "url": "https://www.aclweb.org/anthology/L00-1257/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-257"
+    },
+    {
+        "authors": [
+            "Elisabeth D’Halleweyn",
+            "Erwin Dewallef",
+            "Jeannine Beeken"
+        ],
+        "title": "A Platform for Dutch in Human Language Technologies",
+        "url": "https://www.aclweb.org/anthology/L00-1258/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-258"
+    },
+    {
+        "authors": [
+            "Marilyn Walker",
+            "Candace Kamm",
+            "Julie Boland"
+        ],
+        "title": "Developing and Testing General Models of Spoken Dialogue System Peformance",
+        "url": "https://www.aclweb.org/anthology/L00-1259/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-259"
+    },
+    {
+        "authors": [
+            "Claude de Loupy",
+            "Marc El-Bèze"
+        ],
+        "title": "Using Few Clues Can Compensate the Small Amount of Resources Available for Word Sense Disambiguation",
+        "url": "https://www.aclweb.org/anthology/L00-1260/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-260"
+    },
+    {
+        "authors": [
+            "George Mikros",
+            "George Carayannis"
+        ],
+        "title": "Modern Greek Corpus Taxonomy",
+        "url": "https://www.aclweb.org/anthology/L00-1261/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-261"
+    },
+    {
+        "authors": [
+            "Patrick Paroubek"
+        ],
+        "title": "Language Resources as by-Product of Evaluation: The MULTITAG Example",
+        "url": "https://www.aclweb.org/anthology/L00-1262/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-262"
+    },
+    {
+        "authors": [
+            "Judith L. Klavans",
+            "Nina Wacholder",
+            "David K. Evans"
+        ],
+        "title": "Evaluation of Computational Linguistic Techniques for Identifying Significant Topics for Browsing Applications",
+        "url": "https://www.aclweb.org/anthology/L00-1263/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-263"
+    },
+    {
+        "authors": [
+            "Satoshi Nakamura",
+            "Kazuo Hiyane",
+            "Futoshi Asano",
+            "Takanobu Nishiura",
+            "Takeshi Yamada"
+        ],
+        "title": "Acoustical Sound Database in Real Environments for Sound Scene Understanding and Hands-Free Speech Recognition",
+        "url": "https://www.aclweb.org/anthology/L00-1264/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-264"
+    },
+    {
+        "authors": [
+            "George Demetriou",
+            "Eric Atwell",
+            "Clive Souter"
+        ],
+        "title": "Using Lexical Semantic Knowledge from Machine Readable Dictionaries for Domain Independent Language Modelling",
+        "url": "https://www.aclweb.org/anthology/L00-1265/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-265"
+    },
+    {
+        "authors": [
+            "L. Cristoforetti",
+            "M. Matassoni",
+            "M. Omologo",
+            "P. Svaizer",
+            "E. Zovato"
+        ],
+        "title": "Annotation of a Multichannel Noisy Speech Corpus",
+        "url": "https://www.aclweb.org/anthology/L00-1266/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-266"
+    },
+    {
+        "authors": [
+            "John Kontos",
+            "Ioanna Malagardi",
+            "Spyros Fountoukis"
+        ],
+        "title": "ARISTA Generative Lexicon for Compound Greek Medical Terms",
+        "url": "https://www.aclweb.org/anthology/L00-1267/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-267"
+    },
+    {
+        "authors": [
+            "Knut Hofland"
+        ],
+        "title": "A Self-Expanding Corpus Based on Newspapers on the Web",
+        "url": "https://www.aclweb.org/anthology/L00-1268/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-268"
+    },
+    {
+        "authors": [
+            "Janne Bondi Johannessen",
+            "Anders Nøklestad",
+            "Kristin Hagen"
+        ],
+        "title": "A Web-based Advanced and User Friendly System: The Oslo Corpus of Tagged Norwegian Texts",
+        "url": "https://www.aclweb.org/anthology/L00-1269/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-269"
+    },
+    {
+        "authors": [
+            "Nick Campbell"
+        ],
+        "title": "COCOSDA - a Progress Report",
+        "url": "https://www.aclweb.org/anthology/L00-1270/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-270"
+    },
+    {
+        "authors": [
+            "Ivonne Peters",
+            "Wim Peters"
+        ],
+        "title": "The Treatment of Adjectives in SIMPLE: Theoretical Observations",
+        "url": "https://www.aclweb.org/anthology/L00-1271/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-271"
+    },
+    {
+        "authors": [
+            "Christine Michel"
+        ],
+        "title": "Cardinal, Nominal or Ordinal Similarity Measures in Comparative Evaluation of Information Retrieval Process",
+        "url": "https://www.aclweb.org/anthology/L00-1272/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-272"
+    },
+    {
+        "authors": [
+            "Laurie E. Damianos",
+            "Jill Drury",
+            "Tari Fanderclai",
+            "Lynette Hirschman",
+            "Jeff Kurtz",
+            "Beatrice Oshika"
+        ],
+        "title": "Evaluating Multi-party Multi-modal Systems",
+        "url": "https://www.aclweb.org/anthology/L00-1273/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-273"
+    },
+    {
+        "authors": [
+            "Claudia Kunze"
+        ],
+        "title": "Extension and Use of GermaNet, a Lexical-Semantic Database",
+        "url": "https://www.aclweb.org/anthology/L00-1274/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-274"
+    },
+    {
+        "authors": [
+            "Serge A. Yablonsky"
+        ],
+        "title": "Russian Monitor Corpora: Composition, Linguistic Encoding and Internet Publication",
+        "url": "https://www.aclweb.org/anthology/L00-1275/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-275"
+    },
+    {
+        "authors": [
+            "Ann Copestake",
+            "Dan Flickinger"
+        ],
+        "title": "An Open Source Grammar Development Environment and Broad-coverage English Grammar Using HPSG",
+        "url": "https://www.aclweb.org/anthology/L00-1276/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-276"
+    },
+    {
+        "authors": [
+            "Maosong Sun",
+            "Honglin Sun",
+            "Changning Huang",
+            "Pu Zhang",
+            "Hongbing Xing",
+            "Qiang Zhou"
+        ],
+        "title": "Hua Yu: A Word-segmented and Part-Of-Speech Tagged Chinese Corpus",
+        "url": "https://www.aclweb.org/anthology/L00-1277/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-277"
+    },
+    {
+        "authors": [
+            "Asunción Moreno",
+            "Børge Lindberg",
+            "Christoph Draxler",
+            "Gaël Richard",
+            "Khalid Choukri",
+            "Stephan Euler",
+            "Jeffrey Allen"
+        ],
+        "title": "SPEECHDAT-CAR. A Large Speech Database for Automotive Environments",
+        "url": "https://www.aclweb.org/anthology/L00-1278/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-278"
+    },
+    {
+        "authors": [
+            "Giovanna Turrini",
+            "Laura Cignoni",
+            "Alessandro Paccosi"
+        ],
+        "title": "Addizionario: an Interactive Hypermedia Tool for Language Learning",
+        "url": "https://www.aclweb.org/anthology/L00-1279/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-279"
+    },
+    {
+        "authors": [
+            "Khalid Choukri",
+            "Audrey Mance",
+            "Valérie Mapelli"
+        ],
+        "title": "Recent Developments within the European Language Resources Association (ELRA)",
+        "url": "https://www.aclweb.org/anthology/L00-1280/",
+        "source_type": "LREC",
+        "year": "2000",
+        "source": "LREC00",
+        "id": "LREC00-280"
+    }
+]

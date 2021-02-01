@@ -1,0 +1,264 @@
+[
+    {
+        "authors": [],
+        "title": "Third Workshop on Very Large Corpora",
+        "url": "https://www.aclweb.org/anthology/W95-0100/",
+        "source_type": "WS",
+        "year": "1995",
+        "source": "WS95",
+        "id": "WS95-0"
+    },
+    {
+        "authors": [
+            "Eric Brill"
+        ],
+        "title": "Unsupervised Learning of Disambiguation Rules for Part of Speech Tagging",
+        "url": "https://www.aclweb.org/anthology/W95-0101/",
+        "source_type": "WS",
+        "year": "1995",
+        "source": "WS95",
+        "id": "WS95-1"
+    },
+    {
+        "authors": [
+            "Carl de Marcken"
+        ],
+        "title": "Lexical Heads, Phrase Structure and the Induction of Grammar",
+        "url": "https://www.aclweb.org/anthology/W95-0102/",
+        "source_type": "WS",
+        "year": "1995",
+        "source": "WS95",
+        "id": "WS95-2"
+    },
+    {
+        "authors": [
+            "Michael Collins",
+            "James Brooks"
+        ],
+        "title": "Prepositional Phrase Attachment through a Backed-off Model",
+        "url": "https://www.aclweb.org/anthology/W95-0103/",
+        "source_type": "WS",
+        "year": "1995",
+        "source": "WS95",
+        "id": "WS95-3"
+    },
+    {
+        "authors": [
+            "Andrew Golding"
+        ],
+        "title": "A Bayesian Hybrid Method for Context-sensitive Spelling Correction",
+        "url": "https://www.aclweb.org/anthology/W95-0104/",
+        "source_type": "WS",
+        "year": "1995",
+        "source": "WS95",
+        "id": "WS95-4"
+    },
+    {
+        "authors": [
+            "Philip Resnik"
+        ],
+        "title": "Disambiguating Noun Groupings with Respect to Wordnet Senses",
+        "url": "https://www.aclweb.org/anthology/W95-0105/",
+        "source_type": "WS",
+        "year": "1995",
+        "source": "WS95",
+        "id": "WS95-5"
+    },
+    {
+        "authors": [
+            "Dekai Wu"
+        ],
+        "title": "Trainable Coarse Bilingual Grammars for Parallel Text Bracketing",
+        "url": "https://www.aclweb.org/anthology/W95-0106/",
+        "source_type": "WS",
+        "year": "1995",
+        "source": "WS95",
+        "id": "WS95-6"
+    },
+    {
+        "authors": [
+            "Lance Ramshaw",
+            "Mitch Marcus"
+        ],
+        "title": "Text Chunking using Transformation-Based Learning",
+        "url": "https://www.aclweb.org/anthology/W95-0107/",
+        "source_type": "WS",
+        "year": "1995",
+        "source": "WS95",
+        "id": "WS95-7"
+    },
+    {
+        "authors": [
+            "Fernando Pereira",
+            "Yoram Singer",
+            "Naftali Tishby"
+        ],
+        "title": "Beyond Word N-Grams",
+        "url": "https://www.aclweb.org/anthology/W95-0108/",
+        "source_type": "WS",
+        "year": "1995",
+        "source": "WS95",
+        "id": "WS95-8"
+    },
+    {
+        "authors": [
+            "Jing-Shin Chang",
+            "Yi-Chung Lin",
+            "Keh-Yih Su"
+        ],
+        "title": "Automatic Construction of a Chinese Electronic Dictionary",
+        "url": "https://www.aclweb.org/anthology/W95-0109/",
+        "source_type": "WS",
+        "year": "1995",
+        "source": "WS95",
+        "id": "WS95-9"
+    },
+    {
+        "authors": [
+            "Kenneth Church",
+            "William Gale"
+        ],
+        "title": "Inverse Document Frequency (IDF): A Measure of Deviations from Poisson",
+        "url": "https://www.aclweb.org/anthology/W95-0110/",
+        "source_type": "WS",
+        "year": "1995",
+        "source": "WS95",
+        "id": "WS95-10"
+    },
+    {
+        "authors": [
+            "Joe Zhou",
+            "Pete Dapkus"
+        ],
+        "title": "Automatic Suggestion of Significant Terms for a Predefined Topic",
+        "url": "https://www.aclweb.org/anthology/W95-0111/",
+        "source_type": "WS",
+        "year": "1995",
+        "source": "WS95",
+        "id": "WS95-11"
+    },
+    {
+        "authors": [
+            "Ellen Riloff",
+            "Jay Shoen"
+        ],
+        "title": "Automatically Acquiring Conceptual Patterns without an Annotated Corpus",
+        "url": "https://www.aclweb.org/anthology/W95-0112/",
+        "source_type": "WS",
+        "year": "1995",
+        "source": "WS95",
+        "id": "WS95-12"
+    },
+    {
+        "authors": [
+            "Hsin-Hsi Chen",
+            "Yue-Shi Lee"
+        ],
+        "title": "Development of a Partially Bracketed Corpus with Part-of-Speech Information Only",
+        "url": "https://www.aclweb.org/anthology/W95-0113/",
+        "source_type": "WS",
+        "year": "1995",
+        "source": "WS95",
+        "id": "WS95-13"
+    },
+    {
+        "authors": [
+            "Pascale Fung"
+        ],
+        "title": "Compiling Bilingual Lexicon Entries From a Non-Parallel English-Chinese Corpus",
+        "url": "https://www.aclweb.org/anthology/W95-0114/",
+        "source_type": "WS",
+        "year": "1995",
+        "source": "WS95",
+        "id": "WS95-14"
+    },
+    {
+        "authors": [
+            "I. Dan Melamed"
+        ],
+        "title": "Automatic Evaluation and Uniform Filter Cascades for Inducing N-Best Translation Lexicons",
+        "url": "https://www.aclweb.org/anthology/W95-0115/",
+        "source_type": "WS",
+        "year": "1995",
+        "source": "WS95",
+        "id": "WS95-15"
+    },
+    {
+        "authors": [
+            "Kimmo Koskenniemi"
+        ],
+        "title": "Proceedings of the 10th Nordic Conference of Computational Linguistics (NODALIDA 1995)",
+        "url": "https://www.aclweb.org/anthology/W95-0200/",
+        "source_type": "WS",
+        "year": "1995",
+        "source": "WS95",
+        "id": "WS95-16"
+    },
+    {
+        "authors": [
+            "Thorsten Brants",
+            "Christer Samuelsson"
+        ],
+        "title": "Tagging the Teleman Corpus",
+        "url": "https://www.aclweb.org/anthology/W95-0201/",
+        "source_type": "WS",
+        "year": "1995",
+        "source": "WS95",
+        "id": "WS95-17"
+    },
+    {
+        "authors": [
+            "Tore Burheim"
+        ],
+        "title": "Indexed Languages and Unification Grammars",
+        "url": "https://www.aclweb.org/anthology/W95-0202/",
+        "source_type": "WS",
+        "year": "1995",
+        "source": "WS95",
+        "id": "WS95-18"
+    },
+    {
+        "authors": [
+            "Björn Gambäck"
+        ],
+        "title": "Swedish Language Processing in the Spoken Language Translator",
+        "url": "https://www.aclweb.org/anthology/W95-0203/",
+        "source_type": "WS",
+        "year": "1995",
+        "source": "WS95",
+        "id": "WS95-19"
+    },
+    {
+        "authors": [
+            "Jussi Piitulainen"
+        ],
+        "title": "Locally Tree-shaped Sentence Automata and Resolution of Ambiguity",
+        "url": "https://www.aclweb.org/anthology/W95-0204/",
+        "source_type": "WS",
+        "year": "1995",
+        "source": "WS95",
+        "id": "WS95-20"
+    },
+    {
+        "authors": [
+            "Peter Rossen Skadhauge"
+        ],
+        "title": "Sense Extension Functions in Lexical Semantics",
+        "url": "https://www.aclweb.org/anthology/W95-0205/",
+        "source_type": "WS",
+        "year": "1995",
+        "source": "WS95",
+        "id": "WS95-21"
+    },
+    {
+        "authors": [
+            "Kjetil Strand"
+        ],
+        "title": "An Application of Inside-out Functional Uncertainty to Anaphora Resolution",
+        "url": "https://www.aclweb.org/anthology/W95-0206/",
+        "source_type": "WS",
+        "year": "1995",
+        "source": "WS95",
+        "id": "WS95-22"
+    }
+]

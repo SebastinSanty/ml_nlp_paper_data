@@ -1,0 +1,162 @@
+[
+    {
+        "authors": [
+            "Sture Allén",
+            "Rolf Gavare",
+            "Martin Gellerstam"
+        ],
+        "title": "Proceedings of the 1st Nordic Conference of Computational Linguistics (NODALIDA 1977)",
+        "url": "https://www.aclweb.org/anthology/W77-0100/",
+        "source_type": "WS",
+        "year": "1977",
+        "source": "WS77",
+        "id": "WS77-0"
+    },
+    {
+        "authors": [
+            "Gulbrand Alhaug"
+        ],
+        "title": "Noen problemer ved opbygging av et datamaskinelt morfem-lexikon (Some problems in the construction of a computerized morpheme lexicon) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W77-0101/",
+        "source_type": "WS",
+        "year": "1977",
+        "source": "WS77",
+        "id": "WS77-1"
+    },
+    {
+        "authors": [
+            "Hans Basbøll",
+            "Kjeld Kristensen"
+        ],
+        "title": "Computergenerering af lydskrevet dansk ud fra en quasiortografisk notation ved hjælp af generative fonologiske regler (Computer generation of Danish phonetic script from a quasi orthographic notation using generative phonological rules) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W77-0102/",
+        "source_type": "WS",
+        "year": "1977",
+        "source": "WS77",
+        "id": "WS77-2"
+    },
+    {
+        "authors": [
+            "Benny Brodda"
+        ],
+        "title": "BETA-systemet: En sammanfattning (The BETA system: A summary) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W77-0103/",
+        "source_type": "WS",
+        "year": "1977",
+        "source": "WS77",
+        "id": "WS77-3"
+    },
+    {
+        "authors": [
+            "Mats Eeg-Olofsson"
+        ],
+        "title": "Algoritmisk textanalys – en presentation (Algorithmic text analysis – A presentation) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W77-0104/",
+        "source_type": "WS",
+        "year": "1977",
+        "source": "WS77",
+        "id": "WS77-4"
+    },
+    {
+        "authors": [
+            "Ivar Fonnes"
+        ],
+        "title": "EDB i ordboksproduksjon: Tillrettelegging av Norsk Landbruksordbok for trykking (EDB in dictionary production: Adaptation of the Norwegian Agricultural Dictionary for printing) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W77-0105/",
+        "source_type": "WS",
+        "year": "1977",
+        "source": "WS77",
+        "id": "WS77-5"
+    },
+    {
+        "authors": [
+            "Eric Grinstead"
+        ],
+        "title": "Experiments with odd languages",
+        "url": "https://www.aclweb.org/anthology/W77-0106/",
+        "source_type": "WS",
+        "year": "1977",
+        "source": "WS77",
+        "id": "WS77-6"
+    },
+    {
+        "authors": [
+            "Kolbjørn Heggstad",
+            "Harald Solevåg"
+        ],
+        "title": "Nyord-registrering i database (Registration of new words in databases) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W77-0107/",
+        "source_type": "WS",
+        "year": "1977",
+        "source": "WS77",
+        "id": "WS77-7"
+    },
+    {
+        "authors": [
+            "Knut Hofland"
+        ],
+        "title": "Implementering av en metode for syntaktisk analyse av norsk (Implementation of a method for syntactic analysis of Norwegian) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W77-0108/",
+        "source_type": "WS",
+        "year": "1977",
+        "source": "WS77",
+        "id": "WS77-8"
+    },
+    {
+        "authors": [
+            "Bente Maegaard",
+            "Hanne Ruus"
+        ],
+        "title": "DANwORD – Hyppighedsundersøgelser i moderne dansk (DANwORD – Frequency surveys in modern Danish) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W77-0109/",
+        "source_type": "WS",
+        "year": "1977",
+        "source": "WS77",
+        "id": "WS77-9"
+    },
+    {
+        "authors": [
+            "Marina Mundt"
+        ],
+        "title": "Function words in Hákonar saga [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W77-0110/",
+        "source_type": "WS",
+        "year": "1977",
+        "source": "WS77",
+        "id": "WS77-10"
+    },
+    {
+        "authors": [
+            "Bo Ralph"
+        ],
+        "title": "Projektet Lexikalisk databas (The Lexical Database project) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W77-0111/",
+        "source_type": "WS",
+        "year": "1977",
+        "source": "WS77",
+        "id": "WS77-11"
+    },
+    {
+        "authors": [
+            "Jussi Salmela",
+            "Viljo Kohonen"
+        ],
+        "title": "CHITAB – a “poor man’s” shortcut to computer processing of linguistic data",
+        "url": "https://www.aclweb.org/anthology/W77-0112/",
+        "source_type": "WS",
+        "year": "1977",
+        "source": "WS77",
+        "id": "WS77-12"
+    },
+    {
+        "authors": [
+            "Anna Sågvall Hein"
+        ],
+        "title": "Chartanalys och morfologi (Chart analysis and morphology) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W77-0113/",
+        "source_type": "WS",
+        "year": "1977",
+        "source": "WS77",
+        "id": "WS77-13"
+    }
+]

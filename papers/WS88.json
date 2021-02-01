@@ -1,0 +1,248 @@
+[
+    {
+        "authors": [],
+        "title": "Proceedings of the 6th Nordic Conference of Computational Linguistics (NODALIDA 1987)",
+        "url": "https://www.aclweb.org/anthology/W87-0100/",
+        "source_type": "WS",
+        "year": "1988",
+        "source": "WS88",
+        "id": "WS88-0"
+    },
+    {
+        "authors": [
+            "Gunnel Källgren"
+        ],
+        "title": "What good is Syntactic Information in the Lexicon of a Syntactic Parser?",
+        "url": "https://www.aclweb.org/anthology/W87-0101/",
+        "source_type": "WS",
+        "year": "1988",
+        "source": "WS88",
+        "id": "WS88-1"
+    },
+    {
+        "authors": [
+            "Bengt Sigurd"
+        ],
+        "title": "Referentgrammatik – en kort presentation (Reference grammar – A short presentation) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W87-0102/",
+        "source_type": "WS",
+        "year": "1988",
+        "source": "WS88",
+        "id": "WS88-2"
+    },
+    {
+        "authors": [
+            "Ole Togeby"
+        ],
+        "title": "Parsing Danish Text in EUROTRA",
+        "url": "https://www.aclweb.org/anthology/W87-0103/",
+        "source_type": "WS",
+        "year": "1988",
+        "source": "WS88",
+        "id": "WS88-3"
+    },
+    {
+        "authors": [
+            "Aarno Lehtola",
+            "Timo Honkela"
+        ],
+        "title": "AWARE – DAG-transformations for Semantic Analysis",
+        "url": "https://www.aclweb.org/anthology/W87-0104/",
+        "source_type": "WS",
+        "year": "1988",
+        "source": "WS88",
+        "id": "WS88-4"
+    },
+    {
+        "authors": [
+            "Timo Honkela",
+            "Aarno Lehtola",
+            "K. Valkonen"
+        ],
+        "title": "Predication Graphs as Canonical Representation of Query Sentences",
+        "url": "https://www.aclweb.org/anthology/W87-0105/",
+        "source_type": "WS",
+        "year": "1988",
+        "source": "WS88",
+        "id": "WS88-5"
+    },
+    {
+        "authors": [
+            "Henrik Prebensen"
+        ],
+        "title": "Nominalsyntagmespecificitet og diskursuniverser (Nominal syntagm specificity and universe of discourse) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W87-0106/",
+        "source_type": "WS",
+        "year": "1988",
+        "source": "WS88",
+        "id": "WS88-6"
+    },
+    {
+        "authors": [
+            "Lars Ahrenberg"
+        ],
+        "title": "A system for object-oriented dialogue in Swedish",
+        "url": "https://www.aclweb.org/anthology/W87-0107/",
+        "source_type": "WS",
+        "year": "1988",
+        "source": "WS88",
+        "id": "WS88-7"
+    },
+    {
+        "authors": [
+            "Lars Borin"
+        ],
+        "title": "A constraint-based approach to morphological analysis (preliminaries)",
+        "url": "https://www.aclweb.org/anthology/W87-0108/",
+        "source_type": "WS",
+        "year": "1988",
+        "source": "WS88",
+        "id": "WS88-8"
+    },
+    {
+        "authors": [
+            "Torben Thrane"
+        ],
+        "title": "Symbolic Representation and Natural Language",
+        "url": "https://www.aclweb.org/anthology/W87-0109/",
+        "source_type": "WS",
+        "year": "1988",
+        "source": "WS88",
+        "id": "WS88-9"
+    },
+    {
+        "authors": [
+            "Eva Ejerhed"
+        ],
+        "title": "Processing Sentences Clause by Clause",
+        "url": "https://www.aclweb.org/anthology/W87-0110/",
+        "source_type": "WS",
+        "year": "1988",
+        "source": "WS88",
+        "id": "WS88-10"
+    },
+    {
+        "authors": [
+            "Frede Boje"
+        ],
+        "title": "Disambiguering i human oversættelse og i maskinoversættelse (Disambiguation in human translation and in machine translation) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W87-0111/",
+        "source_type": "WS",
+        "year": "1988",
+        "source": "WS88",
+        "id": "WS88-11"
+    },
+    {
+        "authors": [
+            "Poul Andersen",
+            "Annelise Bech"
+        ],
+        "title": "A strategy for solving translation relevant ambiguities in a multilingual machine translation system",
+        "url": "https://www.aclweb.org/anthology/W87-0112/",
+        "source_type": "WS",
+        "year": "1988",
+        "source": "WS88",
+        "id": "WS88-12"
+    },
+    {
+        "authors": [
+            "Klaus Schubert"
+        ],
+        "title": "Att knyta nordens språk till ett mångspråkigt datoröversättningssystem (Connecting the Nordic languages to a multilingual computer translation system) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W87-0113/",
+        "source_type": "WS",
+        "year": "1988",
+        "source": "WS88",
+        "id": "WS88-13"
+    },
+    {
+        "authors": [
+            "Tove Fjeldvig",
+            "Anne Golden"
+        ],
+        "title": "Bruk av språkbaserte hjelpemidler i informasjonssøking (Use of language-based aids in information retrieval) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W87-0114/",
+        "source_type": "WS",
+        "year": "1988",
+        "source": "WS88",
+        "id": "WS88-14"
+    },
+    {
+        "authors": [
+            "Lennart Lönngren"
+        ],
+        "title": "Lexika, baserade på semantiska relationer (Lexica, based on semantic relations) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W87-0115/",
+        "source_type": "WS",
+        "year": "1988",
+        "source": "WS88",
+        "id": "WS88-15"
+    },
+    {
+        "authors": [
+            "Ole Norling-Christensen"
+        ],
+        "title": "Læsning af maskinlæsbare tekster (Scanning of machine-readable texts) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W87-0116/",
+        "source_type": "WS",
+        "year": "1988",
+        "source": "WS88",
+        "id": "WS88-16"
+    },
+    {
+        "authors": [
+            "Hanne Ruus",
+            "Dorthe Duncker"
+        ],
+        "title": "Ordbøger i Danmark: datamatstøttet leksikografi i praksis (Dictionaries in Denmark: Computer-assisted lexicography in practice) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W87-0117/",
+        "source_type": "WS",
+        "year": "1988",
+        "source": "WS88",
+        "id": "WS88-17"
+    },
+    {
+        "authors": [
+            "Ivar Utne"
+        ],
+        "title": "Terminologi, arbeidsinstrukser og lagerstyring – om kodeuttrykk i fagspråk (Terminology, work instructions and inventory control – on coded expressions in jargon) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W87-0118/",
+        "source_type": "WS",
+        "year": "1988",
+        "source": "WS88",
+        "id": "WS88-18"
+    },
+    {
+        "authors": [
+            "Bodil Nistrup Madsen"
+        ],
+        "title": "Simulering af relationel database (Simulation of relational databases) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W87-0119/",
+        "source_type": "WS",
+        "year": "1988",
+        "source": "WS88",
+        "id": "WS88-19"
+    },
+    {
+        "authors": [
+            "Krista Varantola"
+        ],
+        "title": "Term banks, text banks and bank users",
+        "url": "https://www.aclweb.org/anthology/W87-0120/",
+        "source_type": "WS",
+        "year": "1988",
+        "source": "WS88",
+        "id": "WS88-20"
+    },
+    {
+        "authors": [
+            "Inge Gorm Hansen"
+        ],
+        "title": "JURAPROJEKTET, erfaringer og resultater (The JURA project, experiences and results) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W87-0121/",
+        "source_type": "WS",
+        "year": "1988",
+        "source": "WS88",
+        "id": "WS88-21"
+    }
+]

@@ -1,0 +1,5894 @@
+[
+    {
+        "authors": [],
+        "title": "Proceedings of the HLT-NAACL 2003 Workshop on Analysis of Geographic References",
+        "url": "https://www.aclweb.org/anthology/W03-0100/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-0"
+    },
+    {
+        "authors": [
+            "Dimitar Manov",
+            "Atanas Kiryakov",
+            "Borislav Popov",
+            "Kalina Bontcheva",
+            "Diana Maynard",
+            "Hamish Cunningham"
+        ],
+        "title": "Experiments with geographic knowledge for information extraction",
+        "url": "https://www.aclweb.org/anthology/W03-0101/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-1"
+    },
+    {
+        "authors": [
+            "Richard Waldinger",
+            "Peter Jarvis",
+            "Jennifer Dungan"
+        ],
+        "title": "Pointing to places in a deductive geospatial theory",
+        "url": "https://www.aclweb.org/anthology/W03-0102/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-2"
+    },
+    {
+        "authors": [
+            "Olga Uryupina"
+        ],
+        "title": "Semi-supervised learning of geographical gazetteer from the internet",
+        "url": "https://www.aclweb.org/anthology/W03-0103/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-3"
+    },
+    {
+        "authors": [
+            "Kui Lam Kwok",
+            "Qiang Deng"
+        ],
+        "title": "GeoName: a system for back-transliterating pinyin place names",
+        "url": "https://www.aclweb.org/anthology/W03-0104/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-4"
+    },
+    {
+        "authors": [
+            "Jochen L. Leidner",
+            "Gail Sinclair",
+            "Bonnie Webber"
+        ],
+        "title": "Grounding spatial named entities for information extraction and question answering",
+        "url": "https://www.aclweb.org/anthology/W03-0105/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-5"
+    },
+    {
+        "authors": [
+            "Huifeng Li",
+            "K. Rohini Srihari",
+            "Cheng Niu",
+            "Wei Li"
+        ],
+        "title": "InfoXtract location normalization: a hybrid approach to geographic references in information extraction",
+        "url": "https://www.aclweb.org/anthology/W03-0106/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-6"
+    },
+    {
+        "authors": [
+            "David A. Smith",
+            "Gideon S. Mann"
+        ],
+        "title": "Bootstrapping toponym classifiers",
+        "url": "https://www.aclweb.org/anthology/W03-0107/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-7"
+    },
+    {
+        "authors": [
+            "Erik Rauch",
+            "Michael Bukatin",
+            "Kenneth Baker"
+        ],
+        "title": "A confidence-based framework for disambiguating geographic terms",
+        "url": "https://www.aclweb.org/anthology/W03-0108/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-8"
+    },
+    {
+        "authors": [
+            "Frédérik Bilhaut",
+            "Thierry Charnois",
+            "Patrice Enjalbert",
+            "Yann Mathet"
+        ],
+        "title": "Geographic reference analysis for geographic document querying",
+        "url": "https://www.aclweb.org/anthology/W03-0109/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-9"
+    },
+    {
+        "authors": [
+            "Amittai Axelrod"
+        ],
+        "title": "On building a high performance gazetteer database",
+        "url": "https://www.aclweb.org/anthology/W03-0110/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-10"
+    },
+    {
+        "authors": [
+            "Humphrey Southall"
+        ],
+        "title": "Defining and identifying the roles of geographic references within text",
+        "url": "https://www.aclweb.org/anthology/W03-0111/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-11"
+    },
+    {
+        "authors": [
+            "Ian Densham",
+            "James Reid"
+        ],
+        "title": "System Demo: A geo-coding service encompassing a geo-parsing tool and integrated digital gazetteer service",
+        "url": "https://www.aclweb.org/anthology/W03-0112/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-12"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the HLT-NAACL 03 Workshop on Building Educational Applications Using Natural Language Processing",
+        "url": "https://www.aclweb.org/anthology/W03-0200/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-13"
+    },
+    {
+        "authors": [
+            "Andrew Olney",
+            "Max Louwerse",
+            "Eric Matthews",
+            "Johanna Marineau",
+            "Heather Hite-Mitchell",
+            "Arthur Graesser"
+        ],
+        "title": "Utterance Classification in AutoTutor",
+        "url": "https://www.aclweb.org/anthology/W03-0201/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-14"
+    },
+    {
+        "authors": [
+            "Adam Carlson",
+            "Steven L. Tanimoto"
+        ],
+        "title": "Learning to Identify Student Preconceptions from Text",
+        "url": "https://www.aclweb.org/anthology/W03-0202/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-15"
+    },
+    {
+        "authors": [
+            "Ruslan Mitkov",
+            "Le An Ha"
+        ],
+        "title": "Computer-Aided Generation of Multiple-Choice Tests",
+        "url": "https://www.aclweb.org/anthology/W03-0203/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-16"
+    },
+    {
+        "authors": [
+            "Brian Mak",
+            "Manhung Siu",
+            "Mimi Ng",
+            "Yik-Cheung Tam",
+            "Yu-Chung Chan",
+            "Kin-Wah Chan",
+            "Ka-Yee Leung",
+            "Simon Ho",
+            "Jimmy Wong",
+            "Jacqueline Lo"
+        ],
+        "title": "PLASER: Pronunciation Learning via Automatic Speech Recognition",
+        "url": "https://www.aclweb.org/anthology/W03-0204/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-17"
+    },
+    {
+        "authors": [
+            "Carolyn P. Rosé",
+            "Diane Litman",
+            "Dumisizwe Bhembe",
+            "Kate Forbes",
+            "Scott Silliman",
+            "Ramesh Srivastava",
+            "Kurt VanLehn"
+        ],
+        "title": "A Comparison of Tutor and Student Behavior in Speech Versus Text Based Tutoring",
+        "url": "https://www.aclweb.org/anthology/W03-0205/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-18"
+    },
+    {
+        "authors": [
+            "Ola Knutsson",
+            "Teresa Cerrato Pargman",
+            "Kerstin Severinson Eklundh"
+        ],
+        "title": "Transforming Grammar Checking Technology into a Learning Environment for Second Language Writing",
+        "url": "https://www.aclweb.org/anthology/W03-0206/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-19"
+    },
+    {
+        "authors": [
+            "Thomas Landauer"
+        ],
+        "title": "Pasteur’s Quadrant: Computational Linguistics, LSA, and Education",
+        "url": "https://www.aclweb.org/anthology/W03-0207/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-20"
+    },
+    {
+        "authors": [
+            "Dharmendra Kanejiya",
+            "Arun Kumar",
+            "Surendra Prasad"
+        ],
+        "title": "Automatic Evaluation of Students’ Answers using Syntactically Enhanced LSA",
+        "url": "https://www.aclweb.org/anthology/W03-0208/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-21"
+    },
+    {
+        "authors": [
+            "Deryle Lonsdale",
+            "Diane Strong-Krause"
+        ],
+        "title": "Automated Rating of ESL Essays",
+        "url": "https://www.aclweb.org/anthology/W03-0209/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-22"
+    },
+    {
+        "authors": [
+            "Carolyn P. Rosé",
+            "Antonio Roque",
+            "Dumisizwe Bhembe",
+            "Kurt VanLehn"
+        ],
+        "title": "A Hybrid Text Classification Approach for Analysis of Student Essays",
+        "url": "https://www.aclweb.org/anthology/W03-0210/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-23"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the HLT-NAACL 2003 Workshop on Building and Using Parallel Texts: Data Driven Machine Translation and Beyond",
+        "url": "https://www.aclweb.org/anthology/W03-0300/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-24"
+    },
+    {
+        "authors": [
+            "Rada Mihalcea",
+            "Ted Pedersen"
+        ],
+        "title": "An Evaluation Exercise for Word Alignment",
+        "url": "https://www.aclweb.org/anthology/W03-0301/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-25"
+    },
+    {
+        "authors": [
+            "Dekang Lin",
+            "Colin Cherry"
+        ],
+        "title": "ProAlign: Shared Task System Description",
+        "url": "https://www.aclweb.org/anthology/W03-0302/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-26"
+    },
+    {
+        "authors": [
+            "Bing Zhao",
+            "Stephan Vogel"
+        ],
+        "title": "Word Alignment Based on Bilingual Bracketing",
+        "url": "https://www.aclweb.org/anthology/W03-0303/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-27"
+    },
+    {
+        "authors": [
+            "Michel Simard",
+            "Philippe Langlais"
+        ],
+        "title": "Statistical Translation Alignment with Compositionality Constraints",
+        "url": "https://www.aclweb.org/anthology/W03-0304/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-28"
+    },
+    {
+        "authors": [
+            "Herve Dejean",
+            "Eric Gaussier",
+            "Cyril Goutte",
+            "Kenji Yamada"
+        ],
+        "title": "Reducing Parameter Space for Word Alignment",
+        "url": "https://www.aclweb.org/anthology/W03-0305/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-29"
+    },
+    {
+        "authors": [
+            "John C. Henderson"
+        ],
+        "title": "Word Alignment Baselines",
+        "url": "https://www.aclweb.org/anthology/W03-0306/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-30"
+    },
+    {
+        "authors": [
+            "Michael Carl",
+            "Sisay Fissaha"
+        ],
+        "title": "Phrase-based Evaluation of Word-to-Word Alignments",
+        "url": "https://www.aclweb.org/anthology/W03-0307/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-31"
+    },
+    {
+        "authors": [
+            "Dan Tufiş",
+            "Ana-Maria Barbu",
+            "Radu Ion"
+        ],
+        "title": "TREQ-AL: A word alignment system with limited language resources",
+        "url": "https://www.aclweb.org/anthology/W03-0308/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-32"
+    },
+    {
+        "authors": [
+            "Bridget Thomson McInnes",
+            "Ted Pedersen"
+        ],
+        "title": "The Duluth Word Alignment System",
+        "url": "https://www.aclweb.org/anthology/W03-0309/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-33"
+    },
+    {
+        "authors": [
+            "Chris Callison-Burch",
+            "Miles Osborne"
+        ],
+        "title": "Bootstrapping Parallel Corpora",
+        "url": "https://www.aclweb.org/anthology/W03-0310/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-34"
+    },
+    {
+        "authors": [
+            "Mitsuo Shimohata",
+            "Eiichiro Sumita",
+            "Yuji Matsumoto"
+        ],
+        "title": "Retrieving Meaning-equivalent Sentences for Example-based Rough Translation",
+        "url": "https://www.aclweb.org/anthology/W03-0311/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-35"
+    },
+    {
+        "authors": [
+            "Eiji Aramaki",
+            "Sadao Kurohashi",
+            "Hideki Kashioka",
+            "Hideki Tanaka"
+        ],
+        "title": "Word Selection for EBMT based on Monolingual Similarity and Translation Confidence",
+        "url": "https://www.aclweb.org/anthology/W03-0312/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-36"
+    },
+    {
+        "authors": [
+            "Michel Simard"
+        ],
+        "title": "Translation Spotting for Translation Memories",
+        "url": "https://www.aclweb.org/anthology/W03-0313/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-37"
+    },
+    {
+        "authors": [
+            "Kaoru Yamamoto",
+            "Taku Kudo",
+            "Yuta Tsuboi",
+            "Yuji Matsumoto"
+        ],
+        "title": "Learning Sequence-to-Sequence Correspondences from Parallel Corpora via Sequential Pattern Mining",
+        "url": "https://www.aclweb.org/anthology/W03-0314/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-38"
+    },
+    {
+        "authors": [
+            "Bing Zhao",
+            "Klaus Zechner",
+            "Stephen Vogel",
+            "Alex Waibel"
+        ],
+        "title": "Efficient Optimization for Bilingual Sentence Alignment Based on Linear Regression",
+        "url": "https://www.aclweb.org/anthology/W03-0315/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-39"
+    },
+    {
+        "authors": [
+            "Dinh Dien",
+            "Hoang Kiem"
+        ],
+        "title": "POS-Tagger for English-Vietnamese Bilingual Corpus",
+        "url": "https://www.aclweb.org/anthology/W03-0316/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-40"
+    },
+    {
+        "authors": [
+            "Chun-Jen Lee",
+            "Jason S. Chang"
+        ],
+        "title": "Acquisition of English-Chinese Transliterated Word Pairs from Parallel-Aligned Texts using a Statistical Machine Transliteration Model",
+        "url": "https://www.aclweb.org/anthology/W03-0317/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-41"
+    },
+    {
+        "authors": [
+            "Takao Doi",
+            "Eiichiro Sumita"
+        ],
+        "title": "Input Sentence Splitting and Translating",
+        "url": "https://www.aclweb.org/anthology/W03-0318/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-42"
+    },
+    {
+        "authors": [
+            "Katri A. Clodfelder"
+        ],
+        "title": "An LSA Implementation Against Parallel Texts in French and English",
+        "url": "https://www.aclweb.org/anthology/W03-0319/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-43"
+    },
+    {
+        "authors": [
+            "Joel Martin",
+            "Howard Johnson",
+            "Benoit Farley",
+            "Anna Maclachlan"
+        ],
+        "title": "Aligning and Using an English-Inuktitut Parallel Corpus",
+        "url": "https://www.aclweb.org/anthology/W03-0320/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-44"
+    },
+    {
+        "authors": [
+            "Stephen Nightingale",
+            "Hideki Tanaka"
+        ],
+        "title": "Comparing the Sentence Alignment Yield from Two News Corpora Using a Dictionary-Based Alignment System",
+        "url": "https://www.aclweb.org/anthology/W03-0321/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-45"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the Seventh Conference on Natural Language Learning at HLT-NAACL 2003",
+        "url": "https://www.aclweb.org/anthology/W03-0400/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-46"
+    },
+    {
+        "authors": [
+            "Yusuke Miyao",
+            "Jun’ichi Tsujii"
+        ],
+        "title": "A model of syntactic disambiguation based on lexicalized grammars",
+        "url": "https://www.aclweb.org/anthology/W03-0401/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-47"
+    },
+    {
+        "authors": [
+            "Libin Shen",
+            "Aravind K. Joshi"
+        ],
+        "title": "An SVM-based voting algorithm with application to parse reranking",
+        "url": "https://www.aclweb.org/anthology/W03-0402/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-48"
+    },
+    {
+        "authors": [
+            "Jason Baldridge",
+            "Miles Osborne"
+        ],
+        "title": "Active learning for HPSG parse selection",
+        "url": "https://www.aclweb.org/anthology/W03-0403/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-49"
+    },
+    {
+        "authors": [
+            "Ellen Riloff",
+            "Janyce Wiebe",
+            "Theresa Wilson"
+        ],
+        "title": "Learning subjective nouns using extraction pattern bootstrapping",
+        "url": "https://www.aclweb.org/anthology/W03-0404/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-50"
+    },
+    {
+        "authors": [
+            "Gideon Mann",
+            "David Yarowsky"
+        ],
+        "title": "Unsupervised Personal Name Disambiguation",
+        "url": "https://www.aclweb.org/anthology/W03-0405/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-51"
+    },
+    {
+        "authors": [
+            "Hiroyuki Shinnou",
+            "Minoru Sasaki"
+        ],
+        "title": "Unsupervised learning of word sense disambiguation rules by estimating an optimum iteration number in the EM algorithm",
+        "url": "https://www.aclweb.org/anthology/W03-0406/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-52"
+    },
+    {
+        "authors": [
+            "Stephen Clark",
+            "James Curran",
+            "Miles Osborne"
+        ],
+        "title": "Bootstrapping POS-taggers using unlabelled data",
+        "url": "https://www.aclweb.org/anthology/W03-0407/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-53"
+    },
+    {
+        "authors": [
+            "Tong Zhang",
+            "Fred Damerau",
+            "David Johnson"
+        ],
+        "title": "Updating an NLP system to fit new domains: an empirical study on the sentence segmentation problem",
+        "url": "https://www.aclweb.org/anthology/W03-0408/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-54"
+    },
+    {
+        "authors": [
+            "Mihai Rotaru",
+            "Diane J. Litman"
+        ],
+        "title": "Exceptionality and Natural Language Learning",
+        "url": "https://www.aclweb.org/anthology/W03-0409/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-55"
+    },
+    {
+        "authors": [
+            "Suzanne Stevenson",
+            "Eric Joanis"
+        ],
+        "title": "Semi-supervised Verb Class Discovery Using Noisy Features",
+        "url": "https://www.aclweb.org/anthology/W03-0410/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-56"
+    },
+    {
+        "authors": [
+            "Tom O’Hara",
+            "Janyce Wiebe"
+        ],
+        "title": "Preposition Semantic Classification via Treebank and FrameNet",
+        "url": "https://www.aclweb.org/anthology/W03-0411/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-57"
+    },
+    {
+        "authors": [
+            "Xin Li",
+            "Dan Roth",
+            "Yuancheng Tu"
+        ],
+        "title": "Phrasenet: towards context sensitive lexical semantics",
+        "url": "https://www.aclweb.org/anthology/W03-0412/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-58"
+    },
+    {
+        "authors": [
+            "Simona Gandrabur",
+            "George Foster"
+        ],
+        "title": "Confidence estimation for translation prediction",
+        "url": "https://www.aclweb.org/anthology/W03-0413/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-59"
+    },
+    {
+        "authors": [
+            "Katharina Probst"
+        ],
+        "title": "Using ‘smart’ bilingual projection to feature-tag a monolingual dictionary",
+        "url": "https://www.aclweb.org/anthology/W03-0414/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-60"
+    },
+    {
+        "authors": [
+            "Scott Cederberg",
+            "Dominic Widdows"
+        ],
+        "title": "Using LSA and Noun Coordination Information to Improve the Recall and Precision of Automatic Hyponymy Extraction",
+        "url": "https://www.aclweb.org/anthology/W03-0415/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-61"
+    },
+    {
+        "authors": [
+            "Takuya Matsuzaki",
+            "Yusuke Miyao",
+            "Jun’ichi Tsujii"
+        ],
+        "title": "An efficient clustering algorithm for class-based language models",
+        "url": "https://www.aclweb.org/anthology/W03-0416/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-62"
+    },
+    {
+        "authors": [
+            "Yoshimasa Tsuruoka",
+            "Jun’ichi Tsujii"
+        ],
+        "title": "Training a Naive Bayes Classifier via the EM Algorithm with a Class Distribution Constraint",
+        "url": "https://www.aclweb.org/anthology/W03-0417/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-63"
+    },
+    {
+        "authors": [
+            "Dominic R. Jones",
+            "Cynthia A. Thompson"
+        ],
+        "title": "Identifying Events using Similarity and Context",
+        "url": "https://www.aclweb.org/anthology/W03-0418/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-64"
+    },
+    {
+        "authors": [
+            "Erik F. Tjong Kim Sang",
+            "Fien De Meulder"
+        ],
+        "title": "Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition",
+        "url": "https://www.aclweb.org/anthology/W03-0419/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-65"
+    },
+    {
+        "authors": [
+            "Oliver Bender",
+            "Franz Josef Och",
+            "Hermann Ney"
+        ],
+        "title": "Maximum Entropy Models for Named Entity Recognition",
+        "url": "https://www.aclweb.org/anthology/W03-0420/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-66"
+    },
+    {
+        "authors": [
+            "Xavier Carreras",
+            "Lluís Màrquez",
+            "Lluís Padró"
+        ],
+        "title": "A Simple Named Entity Extractor using AdaBoost",
+        "url": "https://www.aclweb.org/anthology/W03-0421/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-67"
+    },
+    {
+        "authors": [
+            "Xavier Carreras",
+            "Lluís Màrquez",
+            "Lluís Padró"
+        ],
+        "title": "Learning a Perceptron-Based Named Entity Chunker via Online Recognition Feedback",
+        "url": "https://www.aclweb.org/anthology/W03-0422/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-68"
+    },
+    {
+        "authors": [
+            "Hai Leong Chieu",
+            "Hwee Tou Ng"
+        ],
+        "title": "Named Entity Recognition with a Maximum Entropy Approach",
+        "url": "https://www.aclweb.org/anthology/W03-0423/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-69"
+    },
+    {
+        "authors": [
+            "James Curran",
+            "Stephen Clark"
+        ],
+        "title": "Language Independent NER using a Maximum Entropy Tagger",
+        "url": "https://www.aclweb.org/anthology/W03-0424/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-70"
+    },
+    {
+        "authors": [
+            "Radu Florian",
+            "Abe Ittycheriah",
+            "Hongyan Jing",
+            "Tong Zhang"
+        ],
+        "title": "Named Entity Recognition through Classifier Combination",
+        "url": "https://www.aclweb.org/anthology/W03-0425/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-71"
+    },
+    {
+        "authors": [
+            "James Hammerton"
+        ],
+        "title": "Named Entity Recognition with Long Short-Term Memory",
+        "url": "https://www.aclweb.org/anthology/W03-0426/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-72"
+    },
+    {
+        "authors": [
+            "Iris Hendrickx",
+            "Antal van den Bosch"
+        ],
+        "title": "Memory-based one-step named-entity recognition: Effects of seed list features, classifier stacking, and unannotated data",
+        "url": "https://www.aclweb.org/anthology/W03-0427/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-73"
+    },
+    {
+        "authors": [
+            "Dan Klein",
+            "Joseph Smarr",
+            "Huy Nguyen",
+            "Christopher D. Manning"
+        ],
+        "title": "Named Entity Recognition with Character-Level Models",
+        "url": "https://www.aclweb.org/anthology/W03-0428/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-74"
+    },
+    {
+        "authors": [
+            "James Mayfield",
+            "Paul McNamee",
+            "Christine Piatko"
+        ],
+        "title": "Named Entity Recognition using Hundreds of Thousands of Features",
+        "url": "https://www.aclweb.org/anthology/W03-0429/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-75"
+    },
+    {
+        "authors": [
+            "Andrew McCallum",
+            "Wei Li"
+        ],
+        "title": "Early results for Named Entity Recognition with Conditional Random Fields, Feature Induction and Web-Enhanced Lexicons",
+        "url": "https://www.aclweb.org/anthology/W03-0430/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-76"
+    },
+    {
+        "authors": [
+            "Robert Munro",
+            "Daren Ler",
+            "Jon Patrick"
+        ],
+        "title": "Meta-Learning Orthographic and Contextual Models for Language Independent Named Entity Recognition",
+        "url": "https://www.aclweb.org/anthology/W03-0431/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-77"
+    },
+    {
+        "authors": [
+            "Casey Whitelaw",
+            "Jon Patrick"
+        ],
+        "title": "Named Entity Recognition Using a Character-based Probabilistic Approach",
+        "url": "https://www.aclweb.org/anthology/W03-0432/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-78"
+    },
+    {
+        "authors": [
+            "Dekai Wu",
+            "Grace Ngai",
+            "Marine Carpuat"
+        ],
+        "title": "A Stacked, Voted, Stacked Model for Named Entity Recognition",
+        "url": "https://www.aclweb.org/anthology/W03-0433/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-79"
+    },
+    {
+        "authors": [
+            "Tong Zhang",
+            "David Johnson"
+        ],
+        "title": "A Robust Risk Minimization based Named Entity Recognition System",
+        "url": "https://www.aclweb.org/anthology/W03-0434/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-80"
+    },
+    {
+        "authors": [
+            "Fien De Meulder",
+            "Walter Daelemans"
+        ],
+        "title": "Memory-Based Named Entity Recognition using Unannotated Data",
+        "url": "https://www.aclweb.org/anthology/W03-0435/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-81"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the HLT-NAACL 03 Text Summarization Workshop",
+        "url": "https://www.aclweb.org/anthology/W03-0500/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-82"
+    },
+    {
+        "authors": [
+            "Bonnie Dorr",
+            "David Zajic",
+            "Richard Schwartz"
+        ],
+        "title": "Hedge Trimmer: A Parse-and-Trim Approach to Headline Generation",
+        "url": "https://www.aclweb.org/anthology/W03-0501/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-83"
+    },
+    {
+        "authors": [
+            "Naomi Daniel",
+            "Dragomir Radev",
+            "Timothy Allison"
+        ],
+        "title": "Sub-event based multi-document summarization",
+        "url": "https://www.aclweb.org/anthology/W03-0502/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-84"
+    },
+    {
+        "authors": [
+            "Amardeep Grewal",
+            "Timothy Allison",
+            "Stanko Dimitrov",
+            "Dragomir Radev"
+        ],
+        "title": "Multi-document summarization using off the shelf compression software",
+        "url": "https://www.aclweb.org/anthology/W03-0503/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-85"
+    },
+    {
+        "authors": [
+            "Hongyan Jing",
+            "Daniel Lopresti",
+            "Chilin Shih"
+        ],
+        "title": "Summarization of Noisy Documents: A Pilot Study",
+        "url": "https://www.aclweb.org/anthology/W03-0504/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-86"
+    },
+    {
+        "authors": [
+            "Claire Grover",
+            "Ben Hachey",
+            "Chris Korycinski"
+        ],
+        "title": "Summarising Legal Texts: Sentential Tense and Argumentative Roles",
+        "url": "https://www.aclweb.org/anthology/W03-0505/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-87"
+    },
+    {
+        "authors": [
+            "Haiqin Zhang",
+            "Zheng Chen",
+            "Wei-ying Ma",
+            "Qingsheng Cai"
+        ],
+        "title": "A Study for Document Summarization Based on Personal Annotation",
+        "url": "https://www.aclweb.org/anthology/W03-0506/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-88"
+    },
+    {
+        "authors": [
+            "Manabu Okumura",
+            "Takahiro Fukusima",
+            "Hidetsugu Nanba"
+        ],
+        "title": "Text Summarization Challenge 2 - Text summarization evaluation at NTCIR Workshop 3",
+        "url": "https://www.aclweb.org/anthology/W03-0507/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-89"
+    },
+    {
+        "authors": [
+            "Hans van Halteren",
+            "Simone Teufel"
+        ],
+        "title": "Examining the consensus between human summaries: initial experiments with factoid analysis",
+        "url": "https://www.aclweb.org/anthology/W03-0508/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-90"
+    },
+    {
+        "authors": [
+            "Satoshi Sekine",
+            "Chikashi Nobata"
+        ],
+        "title": "A survey for Multi-Document Summarization",
+        "url": "https://www.aclweb.org/anthology/W03-0509/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-91"
+    },
+    {
+        "authors": [
+            "Chin-Yew Lin",
+            "Eduard Hovy"
+        ],
+        "title": "The Potential and Limitations of Automatic Sentence Extraction for Summarization",
+        "url": "https://www.aclweb.org/anthology/W03-0510/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-92"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the HLT-NAACL 2003 Workshop on Learning Word Meaning from Non-Linguistic Data",
+        "url": "https://www.aclweb.org/anthology/W03-0600/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-93"
+    },
+    {
+        "authors": [
+            "Kobus Barnard",
+            "Matthew Johnson",
+            "David Forsyth"
+        ],
+        "title": "Word Sense Disambiguation with Pictures",
+        "url": "https://www.aclweb.org/anthology/W03-0601/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-94"
+    },
+    {
+        "authors": [
+            "Jaety Edwards",
+            "Ryan White",
+            "David Forsyth"
+        ],
+        "title": "Words and Pictures in the News",
+        "url": "https://www.aclweb.org/anthology/W03-0602/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-95"
+    },
+    {
+        "authors": [
+            "Peter Gorniak",
+            "Deb Roy"
+        ],
+        "title": "Understanding Complex Visually Referring Utterances",
+        "url": "https://www.aclweb.org/anthology/W03-0603/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-96"
+    },
+    {
+        "authors": [
+            "Sven Wachsmuth",
+            "Suzanne Stevenson",
+            "Sven Dickinson"
+        ],
+        "title": "Towards a Framework for Learning Structured Shape Models from Text-Annotated Images",
+        "url": "https://www.aclweb.org/anthology/W03-0604/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-97"
+    },
+    {
+        "authors": [
+            "Keith Bonawitz",
+            "Anthony Kim",
+            "Seth Tardiff"
+        ],
+        "title": "An Architecture for Word Learning using Bidirectional Multimodal Structural Alignment",
+        "url": "https://www.aclweb.org/anthology/W03-0605/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-98"
+    },
+    {
+        "authors": [
+            "Peter Ford Dominey",
+            "Thomas Voegtlin"
+        ],
+        "title": "Learning Word Meaning and Grammatical Constructions from Narrated Video Events",
+        "url": "https://www.aclweb.org/anthology/W03-0606/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-99"
+    },
+    {
+        "authors": [
+            "Brian E. Pangburn",
+            "S. Sitharama Iyengar",
+            "Robert C. Mathews",
+            "Jonathan P. Ayo"
+        ],
+        "title": "EBLA: A Perceptually Grounded Model of Language Acquisition",
+        "url": "https://www.aclweb.org/anthology/W03-0607/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-100"
+    },
+    {
+        "authors": [
+            "Peter Carbonetto",
+            "Nando de Freitas"
+        ],
+        "title": "Why can’t José read? The problem of learning semantic associations in a robot environment",
+        "url": "https://www.aclweb.org/anthology/W03-0608/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-101"
+    },
+    {
+        "authors": [
+            "Tim Oates"
+        ],
+        "title": "Grounding Word Meanings in Sensor Data: Dealing with Referential Uncertainty",
+        "url": "https://www.aclweb.org/anthology/W03-0609/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-102"
+    },
+    {
+        "authors": [
+            "Deb Roy",
+            "Kai-Yuh Hsiao",
+            "Nikolaos Mavridis"
+        ],
+        "title": "Conversational Robots: Building Blocks for Grounding Word Meaning",
+        "url": "https://www.aclweb.org/anthology/W03-0610/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-103"
+    },
+    {
+        "authors": [
+            "Ehud Reiter",
+            "Somayajulu Sripada"
+        ],
+        "title": "Learning the Meaning and Usage of Time Phrases from a Parallel Text-Data Corpus",
+        "url": "https://www.aclweb.org/anthology/W03-0611/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-104"
+    },
+    {
+        "authors": [
+            "Ulla Vanhatalo",
+            "Hilary Chan"
+        ],
+        "title": "Population Testing: Extracting Semantic Information On Near-Synonymy From Native Speakers",
+        "url": "https://www.aclweb.org/anthology/W03-0612/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-105"
+    },
+    {
+        "authors": [
+            "Brian Whitman",
+            "Deb Roy",
+            "Barry Vercoe"
+        ],
+        "title": "Learning Word Meanings and Descriptive Parameter Spaces from Music",
+        "url": "https://www.aclweb.org/anthology/W03-0613/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-106"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the HLT-NAACL 2003 Workshop on Research Directions in Dialogue Processing",
+        "url": "https://www.aclweb.org/anthology/W03-0700/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-107"
+    },
+    {
+        "authors": [
+            "Joyce Y. Chai",
+            "Pengyu Hong",
+            "Michelle X. Zhou"
+        ],
+        "title": "Combining Semantic and Temporal Constraints for Multimodal Integration in Conversation Systems",
+        "url": "https://www.aclweb.org/anthology/W03-0701/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-108"
+    },
+    {
+        "authors": [
+            "Renato De Mori",
+            "Frederic Béchet"
+        ],
+        "title": "Conceptual Language Models for Dialog Systems",
+        "url": "https://www.aclweb.org/anthology/W03-0702/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-109"
+    },
+    {
+        "authors": [
+            "Katrin Kirchhoff",
+            "Mari Ostendorf"
+        ],
+        "title": "Directions For Multi-Party Human-Computer Interaction Research",
+        "url": "https://www.aclweb.org/anthology/W03-0703/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-110"
+    },
+    {
+        "authors": [
+            "Hilda Hardy",
+            "Tomek Strzalkowski",
+            "Min Wu"
+        ],
+        "title": "Dialogue Management for an Automated Multilingual Call Center",
+        "url": "https://www.aclweb.org/anthology/W03-0704/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-111"
+    },
+    {
+        "authors": [
+            "Carl Burke",
+            "Christy Doran",
+            "Abigail Gertner",
+            "Andy Gregorowicz",
+            "Lisa Harper",
+            "Joel Korb",
+            "Dan Loehr"
+        ],
+        "title": "Dialogue complexity with portability? Research directions for the Information State approach",
+        "url": "https://www.aclweb.org/anthology/W03-0705/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-112"
+    },
+    {
+        "authors": [
+            "Jody J. Daniels",
+            "Helen Wright Hastie"
+        ],
+        "title": "The Pragmatics of Taking a Spoken Language System Out of the Laboratory",
+        "url": "https://www.aclweb.org/anthology/W03-0706/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-113"
+    },
+    {
+        "authors": [
+            "James Glass",
+            "Stephanie Seneff"
+        ],
+        "title": "Flexible and Personalizable Mixed-Initiative Dialogue Systems",
+        "url": "https://www.aclweb.org/anthology/W03-0707/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-114"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the HLT-NAACL 2003 Workshop on Software Engineering and Architecture of Language Technology Systems (SEALTS)",
+        "url": "https://www.aclweb.org/anthology/W03-0800/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-115"
+    },
+    {
+        "authors": [
+            "Mary S. Neff",
+            "Roy J. Byrd",
+            "Branimir K. Boguraev"
+        ],
+        "title": "The Talent System: TEXTRACT Architecture and Data Model",
+        "url": "https://www.aclweb.org/anthology/W03-0801/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-116"
+    },
+    {
+        "authors": [
+            "Ulrich Schäfer"
+        ],
+        "title": "WHAT: An XSLT-based Infrastructure for the Integration of Natural Language Processing Components",
+        "url": "https://www.aclweb.org/anthology/W03-0802/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-117"
+    },
+    {
+        "authors": [
+            "Valentin Tablan",
+            "Kalina Bontcheva",
+            "Diana Maynard",
+            "Hamish Cunningham"
+        ],
+        "title": "OLLIE: On-Line Learning for Information Extraction",
+        "url": "https://www.aclweb.org/anthology/W03-0803/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-118"
+    },
+    {
+        "authors": [
+            "Nancy Ide",
+            "Laurent Romary",
+            "Eric de la Clergerie"
+        ],
+        "title": "International Standard for a Linguistic Annotation Framework",
+        "url": "https://www.aclweb.org/anthology/W03-0804/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-119"
+    },
+    {
+        "authors": [
+            "Baden Hughes",
+            "Steven Bird"
+        ],
+        "title": "Grid-Enabling Natural Language Engineering By Stealth",
+        "url": "https://www.aclweb.org/anthology/W03-0805/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-120"
+    },
+    {
+        "authors": [
+            "James R. Curran"
+        ],
+        "title": "Blueprint for a High Performance NLP Infrastructure",
+        "url": "https://www.aclweb.org/anthology/W03-0806/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-121"
+    },
+    {
+        "authors": [
+            "Jochen Leidner"
+        ],
+        "title": "Current Issues in Software Engineering for Natural Language Processing",
+        "url": "https://www.aclweb.org/anthology/W03-0807/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-122"
+    },
+    {
+        "authors": [
+            "Rohini K. Srihari",
+            "Wei Li",
+            "Cheng Niu",
+            "Thomas Cornell"
+        ],
+        "title": "InfoXtract: A Customizable Intermediate Level Information Extraction Engine",
+        "url": "https://www.aclweb.org/anthology/W03-0808/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-123"
+    },
+    {
+        "authors": [
+            "Iryna Gurevych",
+            "Stefan Merten",
+            "Robert Porzel"
+        ],
+        "title": "Automatic Creation of Interface Specifications from Ontologies",
+        "url": "https://www.aclweb.org/anthology/W03-0809/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-124"
+    },
+    {
+        "authors": [
+            "David Ferrucci",
+            "Adam Lally"
+        ],
+        "title": "Accelerating Corporate Research in the Development, Application, and Deployment of Human Language Technologies",
+        "url": "https://www.aclweb.org/anthology/W03-0810/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-125"
+    },
+    {
+        "authors": [
+            "Gerd Herzog",
+            "Heinz Kirchmann",
+            "Stefan Merten",
+            "Alassane Ndiaye",
+            "Peter Poller"
+        ],
+        "title": "MULTIPLATFORM Testbed: An Integration Platform for Multimodal Dialog Systems",
+        "url": "https://www.aclweb.org/anthology/W03-0811/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-126"
+    },
+    {
+        "authors": [
+            "Hans-Ulrich Krieger"
+        ],
+        "title": "SDL—A Description Language for Building NLP Systems",
+        "url": "https://www.aclweb.org/anthology/W03-0812/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-127"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the HLT-NAACL 2003 Workshop on Text Meaning",
+        "url": "https://www.aclweb.org/anthology/W03-0900/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-128"
+    },
+    {
+        "authors": [
+            "Peter Clark",
+            "Phil Harrison",
+            "John Thompson"
+        ],
+        "title": "A knowledge-driven approach to text meaning processing",
+        "url": "https://www.aclweb.org/anthology/W03-0901/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-129"
+    },
+    {
+        "authors": [
+            "Lenhart Schubert",
+            "Matthew Tong"
+        ],
+        "title": "Extracting and evaluating general world knowledge from the Brown Corpus",
+        "url": "https://www.aclweb.org/anthology/W03-0902/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-130"
+    },
+    {
+        "authors": [
+            "Iryna Gurevych",
+            "Robert Porzel",
+            "Elena Slinko",
+            "Norbert Pfleger",
+            "Jan Alexandersson",
+            "Stefan Merten"
+        ],
+        "title": "Less is More: Using a single knowledge representation in dialogue systems",
+        "url": "https://www.aclweb.org/anthology/W03-0903/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-131"
+    },
+    {
+        "authors": [
+            "Sergei Nirenburg",
+            "Marjorie McShane",
+            "Stephen Beale"
+        ],
+        "title": "Operative strategies in ontological semantics",
+        "url": "https://www.aclweb.org/anthology/W03-0904/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-132"
+    },
+    {
+        "authors": [
+            "Victor Raskin",
+            "Sergei Nirenburg",
+            "Christian F. Hempelmann",
+            "Inna Nirenburg",
+            "Katrina E. Triezenberg"
+        ],
+        "title": "The genesis of a script for bankruptcy in ontological semantics",
+        "url": "https://www.aclweb.org/anthology/W03-0905/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-133"
+    },
+    {
+        "authors": [
+            "Cleo Condoravdi",
+            "Dick Crouch",
+            "Valeria de Paiva",
+            "Reinhard Stolle",
+            "Daniel G. Bobrow"
+        ],
+        "title": "Entailment, intensionality and text understanding",
+        "url": "https://www.aclweb.org/anthology/W03-0906/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-134"
+    },
+    {
+        "authors": [
+            "Erik T. Mueller"
+        ],
+        "title": "Story understanding through multi-representation model construction",
+        "url": "https://www.aclweb.org/anthology/W03-0907/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-135"
+    },
+    {
+        "authors": [
+            "Benjamin Van Durme",
+            "Yifen Huang",
+            "Anna Kupść",
+            "Eric Nyberg"
+        ],
+        "title": "Towards light semantic processing for question answering",
+        "url": "https://www.aclweb.org/anthology/W03-0908/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-136"
+    },
+    {
+        "authors": [
+            "Manfred Stede"
+        ],
+        "title": "Surfaces and depths in text understanding: The case of newspaper commentary",
+        "url": "https://www.aclweb.org/anthology/W03-0909/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-137"
+    },
+    {
+        "authors": [
+            "Paul Kingsbury",
+            "Karin Kipper"
+        ],
+        "title": "Deriving verb-meaning clusters from syntactic structure",
+        "url": "https://www.aclweb.org/anthology/W03-0910/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-138"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "url": "https://www.aclweb.org/anthology/W03-1000/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-139"
+    },
+    {
+        "authors": [
+            "Christoph Tillmann"
+        ],
+        "title": "A Projection Extension Algorithm for Statistical Machine Translation",
+        "url": "https://www.aclweb.org/anthology/W03-1001/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-140"
+    },
+    {
+        "authors": [
+            "Charles Schafer",
+            "David Yarowsky"
+        ],
+        "title": "Statistical Machine Translation Using Coercive Two-Level Syntactic Transduction",
+        "url": "https://www.aclweb.org/anthology/W03-1002/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-141"
+    },
+    {
+        "authors": [
+            "Woosung Kim",
+            "Sanjeev Khudanpur"
+        ],
+        "title": "Cross-Lingual Lexical Triggers in Statistical Language Modeling",
+        "url": "https://www.aclweb.org/anthology/W03-1003/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-142"
+    },
+    {
+        "authors": [
+            "Regina Barzilay",
+            "Noemie Elhadad"
+        ],
+        "title": "Sentence Alignment for Monolingual Comparable Corpora",
+        "url": "https://www.aclweb.org/anthology/W03-1004/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-143"
+    },
+    {
+        "authors": [
+            "Péter Dienes",
+            "Amit Dubey"
+        ],
+        "title": "Antecedent Recovery: Experiments with a Trace Tagger",
+        "url": "https://www.aclweb.org/anthology/W03-1005/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-144"
+    },
+    {
+        "authors": [
+            "John Chen",
+            "Owen Rambow"
+        ],
+        "title": "Use of Deep Linguistic Features for the Recognition and Labeling of Semantic Arguments",
+        "url": "https://www.aclweb.org/anthology/W03-1006/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-145"
+    },
+    {
+        "authors": [
+            "Michael Fleischman",
+            "Namhee Kwon",
+            "Eduard Hovy"
+        ],
+        "title": "Maximum Entropy Models for FrameNet Classification",
+        "url": "https://www.aclweb.org/anthology/W03-1007/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-146"
+    },
+    {
+        "authors": [
+            "Daniel Gildea",
+            "Julia Hockenmaier"
+        ],
+        "title": "Identifying Semantic Roles Using Combinatory Categorial Grammar",
+        "url": "https://www.aclweb.org/anthology/W03-1008/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-147"
+    },
+    {
+        "authors": [
+            "Dmitriy Genzel",
+            "Eugene Charniak"
+        ],
+        "title": "Variation of Entropy and Parse Trees of Sentences as a Function of the Sentence Number",
+        "url": "https://www.aclweb.org/anthology/W03-1009/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-148"
+    },
+    {
+        "authors": [
+            "Timothy Baldwin",
+            "Francis Bond"
+        ],
+        "title": "A Plethora of Methods for Learning English Countability",
+        "url": "https://www.aclweb.org/anthology/W03-1010/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-149"
+    },
+    {
+        "authors": [
+            "Julie Weeds",
+            "David Weir"
+        ],
+        "title": "A General Framework for Distributional Similarity",
+        "url": "https://www.aclweb.org/anthology/W03-1011/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-150"
+    },
+    {
+        "authors": [
+            "Libin Shen",
+            "Anoop Sarkar",
+            "Aravind Joshi"
+        ],
+        "title": "Using LTAG Based Features in Parse Reranking",
+        "url": "https://www.aclweb.org/anthology/W03-1012/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-151"
+    },
+    {
+        "authors": [
+            "Stephen Clark",
+            "James Curran"
+        ],
+        "title": "Log-Linear Models for Wide-Coverage CCG Parsing",
+        "url": "https://www.aclweb.org/anthology/W03-1013/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-152"
+    },
+    {
+        "authors": [
+            "Ellen Riloff",
+            "Janyce Wiebe"
+        ],
+        "title": "Learning Extraction Patterns for Subjective Expressions",
+        "url": "https://www.aclweb.org/anthology/W03-1014/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-153"
+    },
+    {
+        "authors": [
+            "Vincent Ng",
+            "Claire Cardie"
+        ],
+        "title": "Bootstrapping Coreference Classifiers with Multiple Machine Learning Algorithms",
+        "url": "https://www.aclweb.org/anthology/W03-1015/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-154"
+    },
+    {
+        "authors": [
+            "Pablo Ariel Duboue",
+            "Kathleen R. McKeown"
+        ],
+        "title": "Statistical Acquisition of Content Selection Rules for Natural Language Generation",
+        "url": "https://www.aclweb.org/anthology/W03-1016/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-155"
+    },
+    {
+        "authors": [
+            "Hong Yu",
+            "Vasileios Hatzivassiloglou"
+        ],
+        "title": "Towards Answering Opinion Questions: Separating Facts from Opinions and Identifying the Polarity of Opinion Sentences",
+        "url": "https://www.aclweb.org/anthology/W03-1017/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-156"
+    },
+    {
+        "authors": [
+            "Jun’ichi Kazama",
+            "Jun’ichi Tsujii"
+        ],
+        "title": "Evaluation and Extension of Maximum Entropy Models with Inequality Constraints",
+        "url": "https://www.aclweb.org/anthology/W03-1018/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-157"
+    },
+    {
+        "authors": [
+            "Yasemin Altun",
+            "Mark Johnson",
+            "Thomas Hofmann"
+        ],
+        "title": "Investigating Loss Functions and Optimization Methods for Discriminative Learning of Label Sequences",
+        "url": "https://www.aclweb.org/anthology/W03-1019/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-158"
+    },
+    {
+        "authors": [
+            "Yaqian Zhou",
+            "Fuliang Weng",
+            "Lide Wu",
+            "Hauke Schmidt"
+        ],
+        "title": "A Fast Algorithm for Feature Selection in Conditional Maximum Entropy Modeling",
+        "url": "https://www.aclweb.org/anthology/W03-1020/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-159"
+    },
+    {
+        "authors": [
+            "Peng Xu",
+            "Ahmad Emami",
+            "Frederick Jelinek"
+        ],
+        "title": "Training Connectionist Models for the Structured Language Model",
+        "url": "https://www.aclweb.org/anthology/W03-1021/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-160"
+    },
+    {
+        "authors": [
+            "Massimiliano Ciaramita",
+            "Mark Johnson"
+        ],
+        "title": "Supersense Tagging of Unknown Nouns in WordNet",
+        "url": "https://www.aclweb.org/anthology/W03-1022/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-161"
+    },
+    {
+        "authors": [
+            "Natalia N. Modjeska",
+            "Katja Markert",
+            "Malvina Nissim"
+        ],
+        "title": "Using the Web in Machine Learning for Other-Anaphora Resolution",
+        "url": "https://www.aclweb.org/anthology/W03-1023/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-162"
+    },
+    {
+        "authors": [
+            "Hideki Isozaki",
+            "Tsutomu Hirao"
+        ],
+        "title": "Japanese Zero Pronoun Resolution based on Ranking Rules and Machine Learning",
+        "url": "https://www.aclweb.org/anthology/W03-1024/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-163"
+    },
+    {
+        "authors": [
+            "Xiaoqiang Luo"
+        ],
+        "title": "A Maximum Entropy Chinese Character-Based Parser",
+        "url": "https://www.aclweb.org/anthology/W03-1025/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-164"
+    },
+    {
+        "authors": [
+            "Hongyan Jing",
+            "Radu Florian",
+            "Xiaoqiang Luo",
+            "Tong Zhang",
+            "Abraham Ittycheriah"
+        ],
+        "title": "HowtogetaChineseName(Entity): Segmentation and Combination Issues",
+        "url": "https://www.aclweb.org/anthology/W03-1026/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-165"
+    },
+    {
+        "authors": [
+            "Manabu Sassano"
+        ],
+        "title": "Virtual Examples for Text Classification with Support Vector Machines",
+        "url": "https://www.aclweb.org/anthology/W03-1027/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-166"
+    },
+    {
+        "authors": [
+            "Anette Hulth"
+        ],
+        "title": "Improved Automatic Keyword Extraction Given More Linguistic Knowledge",
+        "url": "https://www.aclweb.org/anthology/W03-1028/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-167"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the Sixth International Workshop on Information Retrieval with Asian Languages",
+        "url": "https://www.aclweb.org/anthology/W03-1100/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-168"
+    },
+    {
+        "authors": [
+            "Chin-Yew Lin"
+        ],
+        "title": "Improving Summarization Performance by Sentence Compression — A Pilot Study",
+        "url": "https://www.aclweb.org/anthology/W03-1101/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-169"
+    },
+    {
+        "authors": [
+            "Chuleerat Jaruskulchai",
+            "Canasai Kruengkrai"
+        ],
+        "title": "A Practical Text Summarizer by Paragraph Extraction for Thai",
+        "url": "https://www.aclweb.org/anthology/W03-1102/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-170"
+    },
+    {
+        "authors": [
+            "Qing Li",
+            "Byeong Man Kim"
+        ],
+        "title": "An Approach for Combining Content-based and Collaborative Filters",
+        "url": "https://www.aclweb.org/anthology/W03-1103/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-171"
+    },
+    {
+        "authors": [
+            "Liang Chen",
+            "Naoyuki Tokuda",
+            "Akira Nagai"
+        ],
+        "title": "A Differential LSI Method for Document Classification",
+        "url": "https://www.aclweb.org/anthology/W03-1104/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-172"
+    },
+    {
+        "authors": [
+            "Sang-Bum Kim",
+            "Hee-Cheol Seo",
+            "Hae-Chang Rim"
+        ],
+        "title": "Poisson Naive Bayes for Text Classification with Feature Weighting",
+        "url": "https://www.aclweb.org/anthology/W03-1105/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-173"
+    },
+    {
+        "authors": [
+            "Fuchun Peng",
+            "Xiangji Huang",
+            "Dale Schuurmans",
+            "Shaojun Wang"
+        ],
+        "title": "Text Classification in Asian Languages without Word Segmentation",
+        "url": "https://www.aclweb.org/anthology/W03-1106/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-174"
+    },
+    {
+        "authors": [
+            "Mineki Takechi",
+            "Takenobu Tokunaga",
+            "Yuji Matsumoto",
+            "Hozumi Tanaka"
+        ],
+        "title": "Feature Selection in Categorizing Procedural Expressions",
+        "url": "https://www.aclweb.org/anthology/W03-1107/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-175"
+    },
+    {
+        "authors": [
+            "Fatiha Sadat",
+            "Masatoshi Yoshikawa",
+            "Shunsuke Uemura"
+        ],
+        "title": "Learning Bilingual Translations from Comparable Corpora to Cross-Language Information Retrieval: Hybrid Statistics-based and Linguistics-based Approach",
+        "url": "https://www.aclweb.org/anthology/W03-1108/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-176"
+    },
+    {
+        "authors": [
+            "Tetsuya Sakai",
+            "Makoto Koyama",
+            "Masaru Suzuki",
+            "Akira Kumano",
+            "Toshihiko Manabe"
+        ],
+        "title": "BRIDJE over a Language Barrier: Cross-Language Information Access by Integrating Translation and Retrieval",
+        "url": "https://www.aclweb.org/anthology/W03-1109/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-177"
+    },
+    {
+        "authors": [
+            "Gina-Anne Levow"
+        ],
+        "title": "Issues in Pre- and Post-translation Document Expansion: Untranslatable Cognates and Missegmented Words",
+        "url": "https://www.aclweb.org/anthology/W03-1110/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-178"
+    },
+    {
+        "authors": [
+            "Yinghui Xu",
+            "Kyoji Umemura"
+        ],
+        "title": "Very Low Dimensional Latent Semantic Indexing for Local Query Regions",
+        "url": "https://www.aclweb.org/anthology/W03-1111/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-179"
+    },
+    {
+        "authors": [
+            "Hyo-Jung Oh",
+            "Myung-Gil Jang",
+            "Moon-Soo Chang"
+        ],
+        "title": "AnyQ: Answer Set based Information Retrieval System",
+        "url": "https://www.aclweb.org/anthology/W03-1112/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-180"
+    },
+    {
+        "authors": [
+            "Eiko Yamamoto",
+            "Masahiro Kishida",
+            "Yoshinori Takenami",
+            "Yoshiyuki Takeda",
+            "Kyoji Umemura"
+        ],
+        "title": "Dynamic Programming Matching for Large Scale Information Retrieval",
+        "url": "https://www.aclweb.org/anthology/W03-1113/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-181"
+    },
+    {
+        "authors": [
+            "Kam-Fai Wong",
+            "Nam-Kiu Chan",
+            "Kam-Lai Wong"
+        ],
+        "title": "Improving Document Clustering by Utilizing Meta-Data",
+        "url": "https://www.aclweb.org/anthology/W03-1114/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-182"
+    },
+    {
+        "authors": [
+            "Nobuyoshi Sato",
+            "Minoru Uehara",
+            "Yoshifumi Sakai"
+        ],
+        "title": "Temporal Ranking for Fresh Information Retrieval",
+        "url": "https://www.aclweb.org/anthology/W03-1115/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-183"
+    },
+    {
+        "authors": [
+            "Byeong Man Kim",
+            "Qing Li",
+            "Jong Wan Kim"
+        ],
+        "title": "Extraction of User Preferences from a Few Positive Documents",
+        "url": "https://www.aclweb.org/anthology/W03-1116/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-184"
+    },
+    {
+        "authors": [
+            "Seung-Shik Kang"
+        ],
+        "title": "Keyword-based Document Clustering",
+        "url": "https://www.aclweb.org/anthology/W03-1117/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-185"
+    },
+    {
+        "authors": [
+            "Shih-Hung Wu",
+            "Tzong-Han Tsai",
+            "Wen-Lian Hsu"
+        ],
+        "title": "Text Categorization Using Automatically Acquired Domain Ontology",
+        "url": "https://www.aclweb.org/anthology/W03-1118/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-186"
+    },
+    {
+        "authors": [
+            "Minh Le Nguyen",
+            "Susumu Horiguchi"
+        ],
+        "title": "A Sentence Reduction using Syntax Control",
+        "url": "https://www.aclweb.org/anthology/W03-1119/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-187"
+    },
+    {
+        "authors": [
+            "Fuminori Kimura",
+            "Akira Maeda",
+            "Masatoshi Yoshikawa",
+            "Shunsuke Uemura"
+        ],
+        "title": "Cross-Language Information Retrieval Based on Category Matching Between Language Versions of a Web Directory",
+        "url": "https://www.aclweb.org/anthology/W03-1120/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-188"
+    },
+    {
+        "authors": [
+            "Euisok Chung",
+            "Yi-Gyu Hwang",
+            "Myung-Gil Jang"
+        ],
+        "title": "Korean Named Entity Recognition using HMM and CoTraining Model",
+        "url": "https://www.aclweb.org/anthology/W03-1121/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-189"
+    },
+    {
+        "authors": [
+            "Key-Sun Choi",
+            "Jae-Ho Kim",
+            "Masaru Miyazaki",
+            "Jun Goto",
+            "Yeun-Bae Kim"
+        ],
+        "title": "Question-Answering Based on Virtually Integrated Lexical Knowledge Base",
+        "url": "https://www.aclweb.org/anthology/W03-1122/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-190"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the ACL 2003 Workshop on Multilingual Summarization and Question Answering",
+        "url": "https://www.aclweb.org/anthology/W03-1200/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-191"
+    },
+    {
+        "authors": [
+            "Ganesh Ramakrishnan",
+            "Apurva Jadhav",
+            "Ashutosh Joshi",
+            "Soumen Chakrabarti",
+            "Pushpak Bhattacharyya"
+        ],
+        "title": "Question Answering via Bayesian Inference on Lexical Relations",
+        "url": "https://www.aclweb.org/anthology/W03-1201/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-192"
+    },
+    {
+        "authors": [
+            "Stephen Wan",
+            "Mark Dras",
+            "Cécile Paris",
+            "Robert Dale"
+        ],
+        "title": "Using Thematic Information in Statistical Headline Generation",
+        "url": "https://www.aclweb.org/anthology/W03-1202/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-193"
+    },
+    {
+        "authors": [
+            "Pascale Fung",
+            "Grace Ngai",
+            "Chi-Shun Cheung"
+        ],
+        "title": "Combining Optimal Clustering and Hidden Markov Models for Extractive Summarization",
+        "url": "https://www.aclweb.org/anthology/W03-1203/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-194"
+    },
+    {
+        "authors": [
+            "Chikashi Nobata",
+            "Satoshi Sekine",
+            "Hitoshi Isahara"
+        ],
+        "title": "Evaluation of Features for Sentence Extraction on Different Types of Corpora",
+        "url": "https://www.aclweb.org/anthology/W03-1204/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-195"
+    },
+    {
+        "authors": [
+            "Constantin Orasan"
+        ],
+        "title": "An Evolutionary Approach for Improving the Quality of Automatic Summaries",
+        "url": "https://www.aclweb.org/anthology/W03-1205/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-196"
+    },
+    {
+        "authors": [
+            "Sharon Small",
+            "Ting Liu",
+            "Nobuyuki Shimizu",
+            "Tomek Strzalkowski"
+        ],
+        "title": "HITIQA: An Interactive Question Answering System: A Preliminary Report",
+        "url": "https://www.aclweb.org/anthology/W03-1206/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-197"
+    },
+    {
+        "authors": [
+            "Roxana Girju",
+            "Manju Putcha",
+            "Dan Moldovan"
+        ],
+        "title": "Discovery of Manner Relations and Their Applicability to Question Answering",
+        "url": "https://www.aclweb.org/anthology/W03-1207/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-198"
+    },
+    {
+        "authors": [
+            "Jun Suzuki",
+            "Hirotoshi Taira",
+            "Yutaka Sasaki",
+            "Eisaku Maeda"
+        ],
+        "title": "Question Classification using HDAG Kernel",
+        "url": "https://www.aclweb.org/anthology/W03-1208/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-199"
+    },
+    {
+        "authors": [
+            "Deepak Ravichandran",
+            "Eduard Hovy",
+            "Franz Josef Och"
+        ],
+        "title": "Statistical QA - Classifier vs. Re-ranker: What’s the difference?",
+        "url": "https://www.aclweb.org/anthology/W03-1209/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-200"
+    },
+    {
+        "authors": [
+            "Roxana Girju"
+        ],
+        "title": "Automatic Detection of Causal Relations for Question Answering",
+        "url": "https://www.aclweb.org/anthology/W03-1210/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-201"
+    },
+    {
+        "authors": [
+            "Wei Li",
+            "Rohini Srihari",
+            "Cheng Niu",
+            "Xiaoge Li"
+        ],
+        "title": "Question Answering on a Case Insensitive Corpus",
+        "url": "https://www.aclweb.org/anthology/W03-1211/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-202"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the ACL 2003 Workshop on Natural Language Processing in Biomedicine",
+        "url": "https://www.aclweb.org/anthology/W03-1300/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-203"
+    },
+    {
+        "authors": [
+            "Alex Morgan",
+            "Lynette Hirschman",
+            "Alexander Yeh",
+            "Marc Colosimo"
+        ],
+        "title": "Gene Name Extraction Using FlyBase Resources",
+        "url": "https://www.aclweb.org/anthology/W03-1301/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-204"
+    },
+    {
+        "authors": [
+            "Dominic Widdows",
+            "Stanley Peters",
+            "Scott Cederberg",
+            "Chiu-Ki Chan",
+            "Diana Steffen",
+            "Paul Buitelaar"
+        ],
+        "title": "Unsupervised Monolingual and Bilingual Word-Sense Disambiguation of Medical Documents using UMLS",
+        "url": "https://www.aclweb.org/anthology/W03-1302/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-205"
+    },
+    {
+        "authors": [
+            "Irena Spasic",
+            "Goran Nenadic",
+            "Sophia Ananiadou"
+        ],
+        "title": "Using Domain-Specific Verbs for Term Classification",
+        "url": "https://www.aclweb.org/anthology/W03-1303/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-206"
+    },
+    {
+        "authors": [
+            "Wen-Juan Hou",
+            "Hsin-Hsi Chen"
+        ],
+        "title": "Enhancing Performance of Protein Name Recognizers Using Collocation",
+        "url": "https://www.aclweb.org/anthology/W03-1304/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-207"
+    },
+    {
+        "authors": [
+            "Ki-Joong Lee",
+            "Young-Sook Hwang",
+            "Hae-Chang Rim"
+        ],
+        "title": "Two-Phase Biomedical NE Recognition based on SVMs",
+        "url": "https://www.aclweb.org/anthology/W03-1305/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-208"
+    },
+    {
+        "authors": [
+            "Yoshimasa Tsuruoka",
+            "Jun’ichi Tsujii"
+        ],
+        "title": "Boosting Precision and Recall of Dictionary-Based Protein Name Recognition",
+        "url": "https://www.aclweb.org/anthology/W03-1306/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-209"
+    },
+    {
+        "authors": [
+            "Dan Shen",
+            "Jie Zhang",
+            "Guodong Zhou",
+            "Jian Su",
+            "Chew-Lim Tan"
+        ],
+        "title": "Effective Adaptation of Hidden Markov Model-based Named Entity Recognizer for Biomedical Domain",
+        "url": "https://www.aclweb.org/anthology/W03-1307/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-210"
+    },
+    {
+        "authors": [
+            "Koichi Takeuchi",
+            "Nigel Collier"
+        ],
+        "title": "Bio-Medical Entity Extraction using Support Vector Machines",
+        "url": "https://www.aclweb.org/anthology/W03-1308/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-211"
+    },
+    {
+        "authors": [
+            "Kaoru Yamamoto",
+            "Taku Kudo",
+            "Akihiko Konagaya",
+            "Yuji Matsumoto"
+        ],
+        "title": "Protein Name Tagging for Biomedical Annotation in Text",
+        "url": "https://www.aclweb.org/anthology/W03-1309/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-212"
+    },
+    {
+        "authors": [
+            "Yun Niu",
+            "Graeme Hirst",
+            "Gregory McArthur",
+            "Patricia Rodriguez-Gianolli"
+        ],
+        "title": "Answering Clinical Questions with Role Identification",
+        "url": "https://www.aclweb.org/anthology/W03-1310/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-213"
+    },
+    {
+        "authors": [
+            "Eneida A. Mendonca",
+            "Janet Haas",
+            "Lyudmila Shagina",
+            "Elaine Larson",
+            "Carol Friedman"
+        ],
+        "title": "Extracting Information on Pneumonia in Infants Using Natural Language Processing of Radiology Reports",
+        "url": "https://www.aclweb.org/anthology/W03-1311/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-214"
+    },
+    {
+        "authors": [
+            "Serguei V. Pakhomov",
+            "James Buntrock",
+            "Christopher G. Chute"
+        ],
+        "title": "Identification of Patients with Congestive Heart Failure using a Binary Classifier: A Case Study.",
+        "url": "https://www.aclweb.org/anthology/W03-1312/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-215"
+    },
+    {
+        "authors": [
+            "Tomaz Erjavec",
+            "Jin-Dong Kim",
+            "Tomoko Ohta",
+            "Yuka Tateisi",
+            "Jun’ichi Tsujii"
+        ],
+        "title": "Encoding Biomedical Resources in TEI: The Case of the GENIA Corpus",
+        "url": "https://www.aclweb.org/anthology/W03-1313/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-216"
+    },
+    {
+        "authors": [
+            "Olivier Bodenreider",
+            "Serguei V. Pakhomov"
+        ],
+        "title": "Exploring Adjectival Modification in Biomedical Discourse Across Two Genres",
+        "url": "https://www.aclweb.org/anthology/W03-1314/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-217"
+    },
+    {
+        "authors": [
+            "Manabu Torii",
+            "Sachin Kamboj",
+            "K. Vijay-Shanker"
+        ],
+        "title": "An Investigation of Various Information Sources for Classifying Biological names",
+        "url": "https://www.aclweb.org/anthology/W03-1315/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-218"
+    },
+    {
+        "authors": [
+            "Goran Nenadic",
+            "Simon Rice",
+            "Irena Spasic",
+            "Sophia Ananiadou",
+            "Benjamin Stapley"
+        ],
+        "title": "Selecting Text Features for Gene Name Classification: from Documents to Terms",
+        "url": "https://www.aclweb.org/anthology/W03-1316/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-219"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the ACL 2003 Workshop on the Lexicon and Figurative Language",
+        "url": "https://www.aclweb.org/anthology/W03-1400/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-220"
+    },
+    {
+        "authors": [
+            "Wim Peters"
+        ],
+        "title": "Metonymy as a Cross-lingual Phenomenon",
+        "url": "https://www.aclweb.org/anthology/W03-1401/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-221"
+    },
+    {
+        "authors": [
+            "Antonietta Alonge",
+            "Margherita Castelli"
+        ],
+        "title": "Encoding Information on Metaphoric Expressions in WordNet-like Resources",
+        "url": "https://www.aclweb.org/anthology/W03-1402/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-222"
+    },
+    {
+        "authors": [
+            "Birte Lönneker"
+        ],
+        "title": "Is There a Way to Represent Metaphors in WordNets? Insights from the Hamburg Metaphor Database",
+        "url": "https://www.aclweb.org/anthology/W03-1403/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-223"
+    },
+    {
+        "authors": [
+            "Tony Veale"
+        ],
+        "title": "Systematicity and the Lexicon in Creative Metaphor",
+        "url": "https://www.aclweb.org/anthology/W03-1404/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-224"
+    },
+    {
+        "authors": [
+            "Kathleen Ahrens",
+            "Siaw Fong Chung",
+            "Chu-Ren Huang"
+        ],
+        "title": "Conceptual Metaphors: Ontology-based Representation and Corpora Driven Mapping Principles",
+        "url": "https://www.aclweb.org/anthology/W03-1405/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-225"
+    },
+    {
+        "authors": [
+            "Sheila R. Glasbey"
+        ],
+        "title": "Let’s Paint the Town Red for a Few Hours: Composition of Aspect in Idioms",
+        "url": "https://www.aclweb.org/anthology/W03-1406/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-226"
+    },
+    {
+        "authors": [
+            "Yukiko Sasaki Alam"
+        ],
+        "title": "The Organization of the Lexicon: The Polysemy of Grow and Disambiguation",
+        "url": "https://www.aclweb.org/anthology/W03-1407/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-227"
+    },
+    {
+        "authors": [
+            "Chiaki Ohkura"
+        ],
+        "title": "The Semantics of Metaphor in the Game Theoretic Semantics with at Least Two Coordination Equilibria",
+        "url": "https://www.aclweb.org/anthology/W03-1408/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-228"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the ACL 2003 Workshop on Multilingual and Mixed-language Named Entity Recognition",
+        "url": "https://www.aclweb.org/anthology/W03-1500/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-229"
+    },
+    {
+        "authors": [
+            "Hsin-Hsi Chen",
+            "Changhua Yang",
+            "Ying Lin"
+        ],
+        "title": "Learning Formulation and Transformation Rules for Multilingual Named Entities",
+        "url": "https://www.aclweb.org/anthology/W03-1501/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-230"
+    },
+    {
+        "authors": [
+            "Fei Huang",
+            "Stephan Vogel",
+            "Alex Waibel"
+        ],
+        "title": "Automatic Extraction of Named Entity Translingual Equivalence Based on Multi-Feature Cost Minimization",
+        "url": "https://www.aclweb.org/anthology/W03-1502/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-231"
+    },
+    {
+        "authors": [
+            "Tadashi Kumano",
+            "Hideki Kashioka",
+            "Hideki Tanaka",
+            "Takahiro Fukusima"
+        ],
+        "title": "Construction and Analysis of Japanese-English Broadcast News Corpus with Named Entity Tags",
+        "url": "https://www.aclweb.org/anthology/W03-1503/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-232"
+    },
+    {
+        "authors": [
+            "Lluís Màrquez",
+            "Adrià de Gispert",
+            "Xavier Carreras",
+            "Lluís Padró"
+        ],
+        "title": "Low-cost Named Entity Classification for Catalan: Exploiting Multilingual Resources and Unlabeled Data",
+        "url": "https://www.aclweb.org/anthology/W03-1504/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-233"
+    },
+    {
+        "authors": [
+            "Diana Maynard",
+            "Valentin Tablan",
+            "Hamish Cunningham"
+        ],
+        "title": "NE Recognition Without Training Data on a Language You Don’t Speak",
+        "url": "https://www.aclweb.org/anthology/W03-1505/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-234"
+    },
+    {
+        "authors": [
+            "Kuniko Saito",
+            "Masaaki Nagata"
+        ],
+        "title": "Multi-Language Named-Entity Recognition System based on HMM",
+        "url": "https://www.aclweb.org/anthology/W03-1506/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-235"
+    },
+    {
+        "authors": [
+            "Stephanie Strassel",
+            "Alexis Mitchell"
+        ],
+        "title": "Multilingual Resources for Entity Extraction",
+        "url": "https://www.aclweb.org/anthology/W03-1507/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-236"
+    },
+    {
+        "authors": [
+            "Paola Virga",
+            "Sanjeev Khudanpur"
+        ],
+        "title": "Transliteration of Proper Names in Cross-Lingual Information Retrieval",
+        "url": "https://www.aclweb.org/anthology/W03-1508/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-237"
+    },
+    {
+        "authors": [
+            "Youzheng Wu",
+            "Jun Zhao",
+            "Bo Xu"
+        ],
+        "title": "Chinese Named Entity Recognition Combining Statistical Model wih Human Knowledge",
+        "url": "https://www.aclweb.org/anthology/W03-1509/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-238"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the Second International Workshop on Paraphrasing",
+        "url": "https://www.aclweb.org/anthology/W03-1600/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-239"
+    },
+    {
+        "authors": [
+            "Raymond Kozlowski",
+            "Kathleen F. McCoy",
+            "K. Vijay-Shanker"
+        ],
+        "title": "Generation of Single-sentence Paraphrases from Predicate/Argument Structure using Lexico-grammatical Resources",
+        "url": "https://www.aclweb.org/anthology/W03-1601/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-240"
+    },
+    {
+        "authors": [
+            "Kentaro Inui",
+            "Atsushi Fujita",
+            "Tetsuro Takahashi",
+            "Ryu Iida",
+            "Tomoya Iwakura"
+        ],
+        "title": "Text Simplification for Reading Assistance: A Project Note",
+        "url": "https://www.aclweb.org/anthology/W03-1602/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-241"
+    },
+    {
+        "authors": [
+            "Hiroyuki Okamoto",
+            "Kengo Sato",
+            "Hiroaki Saito"
+        ],
+        "title": "Preferential Presentation of Japanese Near-synonyms using Definition Statements",
+        "url": "https://www.aclweb.org/anthology/W03-1603/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-242"
+    },
+    {
+        "authors": [
+            "Fabio Rinaldi",
+            "James Dowdall",
+            "Kaarel Kaljurand",
+            "Michael Hess",
+            "Diego Mollá"
+        ],
+        "title": "Exploiting Paraphrases in a Question Answering System",
+        "url": "https://www.aclweb.org/anthology/W03-1604/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-243"
+    },
+    {
+        "authors": [
+            "Noriko Tomuro"
+        ],
+        "title": "Interrogative Reformulation Patterns and Acquisition of Question Paraphrases",
+        "url": "https://www.aclweb.org/anthology/W03-1605/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-244"
+    },
+    {
+        "authors": [
+            "Caroline Brun",
+            "Caroline Hagège"
+        ],
+        "title": "Normalization and Paraphrasing Using Symbolic Methods",
+        "url": "https://www.aclweb.org/anthology/W03-1606/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-245"
+    },
+    {
+        "authors": [
+            "Hiroko Inui",
+            "Masao Utiyama",
+            "Hitoshi Isahara"
+        ],
+        "title": "Criterion for Judging Request Intention in Response Texts of Open-Ended Questionnaires",
+        "url": "https://www.aclweb.org/anthology/W03-1607/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-246"
+    },
+    {
+        "authors": [
+            "Ali Ibrahim",
+            "Boris Katz",
+            "Jimmy Lin"
+        ],
+        "title": "Extracting Structural Paraphrases from Aligned Monolingual Corpora",
+        "url": "https://www.aclweb.org/anthology/W03-1608/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-247"
+    },
+    {
+        "authors": [
+            "Yusuke Shinyama",
+            "Satoshi Sekine"
+        ],
+        "title": "Paraphrase Acquisition for Information Extraction",
+        "url": "https://www.aclweb.org/anthology/W03-1609/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-248"
+    },
+    {
+        "authors": [
+            "Hua Wu",
+            "Ming Zhou"
+        ],
+        "title": "Optimizing Synonym Extraction Using Monolingual and Bilingual Resources",
+        "url": "https://www.aclweb.org/anthology/W03-1610/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-249"
+    },
+    {
+        "authors": [
+            "Takenobu Tokunaga",
+            "Hozumi Tanaka",
+            "Kenji Kimura"
+        ],
+        "title": "Paraphrasing Japanese Noun Phrases using Character-based Indexing",
+        "url": "https://www.aclweb.org/anthology/W03-1611/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-250"
+    },
+    {
+        "authors": [
+            "Hiroshi Kanayama"
+        ],
+        "title": "Paraphrasing Rules for Automatic Evaluation of Translation into Japanese",
+        "url": "https://www.aclweb.org/anthology/W03-1612/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-251"
+    },
+    {
+        "authors": [
+            "Ingrid Zukerman",
+            "Sarah George",
+            "Yingying Wen"
+        ],
+        "title": "Lexical Paraphrasing for Document Retrieval and Node Identification",
+        "url": "https://www.aclweb.org/anthology/W03-1613/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-252"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the Second SIGHAN Workshop on Chinese Language Processing",
+        "url": "https://www.aclweb.org/anthology/W03-1700/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-253"
+    },
+    {
+        "authors": [
+            "Mu Li",
+            "Jianfeng Gao",
+            "Chang-Ning Huang",
+            "Jianfeng Li"
+        ],
+        "title": "Unsupervised Training for Overlapping Ambiguity Resolution in Chinese Word Segmentation",
+        "url": "https://www.aclweb.org/anthology/W03-1701/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-254"
+    },
+    {
+        "authors": [
+            "Tracy Lin",
+            "Jason S. Chang"
+        ],
+        "title": "Class Based Sense Definition Model for Word Sense Tagging and Disambiguation",
+        "url": "https://www.aclweb.org/anthology/W03-1702/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-255"
+    },
+    {
+        "authors": [
+            "Ding Liu",
+            "Chengqing Zong"
+        ],
+        "title": "Utterance Segmentation Using Combined Approach Based on Bi-directional N-gram and Maximum Entropy",
+        "url": "https://www.aclweb.org/anthology/W03-1703/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-256"
+    },
+    {
+        "authors": [
+            "Shengfen Luo",
+            "Maosong Sun"
+        ],
+        "title": "Two-Character Chinese Word Extraction Based on Hybrid of Internal and Contextual Measures",
+        "url": "https://www.aclweb.org/anthology/W03-1704/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-257"
+    },
+    {
+        "authors": [
+            "Wei-Yun Ma",
+            "Keh-Jiann Chen"
+        ],
+        "title": "A Bottom-up Merging Algorithm for Chinese Unknown Word Extraction",
+        "url": "https://www.aclweb.org/anthology/W03-1705/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-258"
+    },
+    {
+        "authors": [
+            "Honglin Sun",
+            "Dan Jurafsky"
+        ],
+        "title": "The Effect of Rhythm on Structural Disambiguation in Chinese",
+        "url": "https://www.aclweb.org/anthology/W03-1706/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-259"
+    },
+    {
+        "authors": [
+            "Nianwen Xue",
+            "Martha Palmer"
+        ],
+        "title": "Annotating the Propositions in the Penn Chinese Treebank",
+        "url": "https://www.aclweb.org/anthology/W03-1707/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-260"
+    },
+    {
+        "authors": [
+            "Tianfang Yao",
+            "Wei Ding",
+            "Gregor Erbach"
+        ],
+        "title": "CHINERS: A Chinese Named Entity Recognition System for the Sports Domain",
+        "url": "https://www.aclweb.org/anthology/W03-1708/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-261"
+    },
+    {
+        "authors": [
+            "Hua-Ping Zhang",
+            "Qun Liu",
+            "Xue-Qi Cheng",
+            "Hao Zhang",
+            "Hong-Kui Yu"
+        ],
+        "title": "Chinese Lexical Analysis Using Hierarchical Hidden Markov Model",
+        "url": "https://www.aclweb.org/anthology/W03-1709/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-262"
+    },
+    {
+        "authors": [
+            "GuoDong Zhou"
+        ],
+        "title": "Modeling of Long Distance Context Dependency in Chinese",
+        "url": "https://www.aclweb.org/anthology/W03-1710/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-263"
+    },
+    {
+        "authors": [
+            "GuoDong Zhou",
+            "Jian Su"
+        ],
+        "title": "A Chinese Efficient Analyser Integrating Word Segmentation, Part-Of-Speech Tagging, Partial Parsing and Full Parsing",
+        "url": "https://www.aclweb.org/anthology/W03-1711/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-264"
+    },
+    {
+        "authors": [
+            "Mingqin Li",
+            "Juanzi Li",
+            "Zhendong Dong",
+            "Zuoying Wang",
+            "Dajin Lu"
+        ],
+        "title": "Building a Large Chinese Corpus Annotated with Semantic Dependency",
+        "url": "https://www.aclweb.org/anthology/W03-1712/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-265"
+    },
+    {
+        "authors": [
+            "Sujian Li",
+            "Houfeng Wang",
+            "Shiwen Yu",
+            "Chengsheng Xin"
+        ],
+        "title": "News-Oriented Automatic Chinese Keyword Indexing",
+        "url": "https://www.aclweb.org/anthology/W03-1713/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-266"
+    },
+    {
+        "authors": [
+            "Qing Ma",
+            "Yujie Zhang",
+            "Masaki Murata",
+            "Hitoshi Isahara"
+        ],
+        "title": "Semantic Maps for Word Alignment in Bilingual Parallel Corpora",
+        "url": "https://www.aclweb.org/anthology/W03-1714/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-267"
+    },
+    {
+        "authors": [
+            "Oliver Streiter"
+        ],
+        "title": "Abductive Explanation-based Learning Improves Parsing Accuracy and Efficiency",
+        "url": "https://www.aclweb.org/anthology/W03-1715/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-268"
+    },
+    {
+        "authors": [
+            "Hui Wang",
+            "Shiwen Yu"
+        ],
+        "title": "The semantic Knowledge-base of Contemporary Chinese and Its Applications in WSD",
+        "url": "https://www.aclweb.org/anthology/W03-1716/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-269"
+    },
+    {
+        "authors": [
+            "Andi Wu"
+        ],
+        "title": "Learning Verb-Noun Relations to Improve Parsing",
+        "url": "https://www.aclweb.org/anthology/W03-1717/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-270"
+    },
+    {
+        "authors": [
+            "Xiaodan Zhu",
+            "Mu Li",
+            "Jianfeng Gao",
+            "Chang-Ning Huang"
+        ],
+        "title": "Single Character Chinese Named Entity Recognition",
+        "url": "https://www.aclweb.org/anthology/W03-1718/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-271"
+    },
+    {
+        "authors": [
+            "Richard Sproat",
+            "Thomas Emerson"
+        ],
+        "title": "The First International Chinese Word Segmentation Bakeoff",
+        "url": "https://www.aclweb.org/anthology/W03-1719/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-272"
+    },
+    {
+        "authors": [
+            "Masayuki Asahara",
+            "Chooi Ling Goh",
+            "Xiaojie Wang",
+            "Yuji Matsumoto"
+        ],
+        "title": "Combining Segmenter and Chunker for Chinese Word Segmentation",
+        "url": "https://www.aclweb.org/anthology/W03-1720/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-273"
+    },
+    {
+        "authors": [
+            "Aitao Chen"
+        ],
+        "title": "Chinese Word Segmentation Using Minimal Linguistic Knowledge",
+        "url": "https://www.aclweb.org/anthology/W03-1721/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-274"
+    },
+    {
+        "authors": [
+            "Huiming Duan",
+            "Xiaojing Bai",
+            "Baobao Chang",
+            "Shiwen Yu"
+        ],
+        "title": "Chinese Word Segmentation at Peking University",
+        "url": "https://www.aclweb.org/anthology/W03-1722/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-275"
+    },
+    {
+        "authors": [
+            "Guohong Fu",
+            "Kang-Kwong Luke"
+        ],
+        "title": "A Two-stage Statistical Word Segmentation System for Chinese",
+        "url": "https://www.aclweb.org/anthology/W03-1723/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-276"
+    },
+    {
+        "authors": [
+            "Chunyu Kit",
+            "Zhiming Xu",
+            "Jonathan J. Webster"
+        ],
+        "title": "Integrating Ngram Model and Case-based Learning for Chinese Word Segmentation",
+        "url": "https://www.aclweb.org/anthology/W03-1724/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-277"
+    },
+    {
+        "authors": [
+            "Q. Lu",
+            "S. T. Chan",
+            "R. F. Xu",
+            "T. S. Chiu",
+            "B. L. Li",
+            "S. W. Yu"
+        ],
+        "title": "A Unicode Based Adaptive Segmentor",
+        "url": "https://www.aclweb.org/anthology/W03-1725/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-278"
+    },
+    {
+        "authors": [
+            "Wei-Yun Ma",
+            "Keh-Jiann Chen"
+        ],
+        "title": "Introduction to CKIP Chinese Word Segmentation System for the First International Chinese Word Segmentation Bakeoff",
+        "url": "https://www.aclweb.org/anthology/W03-1726/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-279"
+    },
+    {
+        "authors": [
+            "Andi Wu"
+        ],
+        "title": "Chinese Word Segmentation in MSR-NLP",
+        "url": "https://www.aclweb.org/anthology/W03-1727/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-280"
+    },
+    {
+        "authors": [
+            "Nianwen Xue",
+            "Libin Shen"
+        ],
+        "title": "Chinese Word Segmentation as LMR Tagging",
+        "url": "https://www.aclweb.org/anthology/W03-1728/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-281"
+    },
+    {
+        "authors": [
+            "Jin Yang",
+            "Jean Senellart",
+            "Remi Zajac"
+        ],
+        "title": "SYSTRAN’s Chinese Word Segmentation",
+        "url": "https://www.aclweb.org/anthology/W03-1729/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-282"
+    },
+    {
+        "authors": [
+            "Hua-Ping Zhang",
+            "Hong-Kui Yu",
+            "De-Yi Xiong",
+            "Qun Liu"
+        ],
+        "title": "HHMM-based Chinese Lexical Analyzer ICTCLAS",
+        "url": "https://www.aclweb.org/anthology/W03-1730/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-283"
+    },
+    {
+        "authors": [
+            "GuoDong Zhou"
+        ],
+        "title": "Chunking-based Chinese Word Tokenization",
+        "url": "https://www.aclweb.org/anthology/W03-1731/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-284"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the ACL 2003 Workshop on Multiword Expressions: Analysis, Acquisition and Treatment",
+        "url": "https://www.aclweb.org/anthology/W03-1800/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-285"
+    },
+    {
+        "authors": [
+            "James Dowdall",
+            "Fabio Rinaldi",
+            "Fidelia Ibekwe-SanJuan",
+            "Eric SanJuan"
+        ],
+        "title": "Complex Structuring of Term Variants for Question Answering",
+        "url": "https://www.aclweb.org/anthology/W03-1801/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-286"
+    },
+    {
+        "authors": [
+            "Béatrice Daille"
+        ],
+        "title": "Conceptual Structuring through Term Variations",
+        "url": "https://www.aclweb.org/anthology/W03-1802/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-287"
+    },
+    {
+        "authors": [
+            "Takaaki Tanaka",
+            "Timothy Baldwin"
+        ],
+        "title": "Noun-Noun Compound Machine Translation A Feasibility Study on Shallow Processing",
+        "url": "https://www.aclweb.org/anthology/W03-1803/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-288"
+    },
+    {
+        "authors": [
+            "Alexandre Gil",
+            "Gaël Dias"
+        ],
+        "title": "Using Masks, Suffix Array-based Data Structures and Multidimensional Arrays to Compute Positional Ngram Statistics from Corpora",
+        "url": "https://www.aclweb.org/anthology/W03-1804/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-289"
+    },
+    {
+        "authors": [
+            "Takashi Tomokiyo",
+            "Matthew Hurst"
+        ],
+        "title": "A Language Model Approach to Keyphrase Extraction",
+        "url": "https://www.aclweb.org/anthology/W03-1805/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-290"
+    },
+    {
+        "authors": [
+            "Gaël Dias"
+        ],
+        "title": "Multiword Unit Hybrid Extraction",
+        "url": "https://www.aclweb.org/anthology/W03-1806/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-291"
+    },
+    {
+        "authors": [
+            "Scott S. L. Piao",
+            "Paul Rayson",
+            "Dawn Archer",
+            "Andrew Wilson",
+            "Tony McEnery"
+        ],
+        "title": "Extracting Multiword Expressions with A Semantic Tagger",
+        "url": "https://www.aclweb.org/anthology/W03-1807/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-292"
+    },
+    {
+        "authors": [
+            "Aline Villavicencio"
+        ],
+        "title": "Verb-Particle Constructions and Lexical Resources",
+        "url": "https://www.aclweb.org/anthology/W03-1808/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-293"
+    },
+    {
+        "authors": [
+            "Colin Bannard",
+            "Timothy Baldwin",
+            "Alex Lascarides"
+        ],
+        "title": "A Statistical Approach to the Semantics of Verb-Particles",
+        "url": "https://www.aclweb.org/anthology/W03-1809/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-294"
+    },
+    {
+        "authors": [
+            "Diana McCarthy",
+            "Bill Keller",
+            "John Carroll"
+        ],
+        "title": "Detecting a Continuum of Compositionality in Phrasal Verbs",
+        "url": "https://www.aclweb.org/anthology/W03-1810/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-295"
+    },
+    {
+        "authors": [
+            "Kiyoko Uchiyama",
+            "Shun Ishizaki"
+        ],
+        "title": "A Disambiguation Method for Japanese Compound Verbs",
+        "url": "https://www.aclweb.org/anthology/W03-1811/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-296"
+    },
+    {
+        "authors": [
+            "Timothy Baldwin",
+            "Colin Bannard",
+            "Takaaki Tanaka",
+            "Dominic Widdows"
+        ],
+        "title": "An Empirical Model of Multiword Expression Decomposability",
+        "url": "https://www.aclweb.org/anthology/W03-1812/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-297"
+    },
+    {
+        "authors": [
+            "Beata Trawinski"
+        ],
+        "title": "Licensing Complex Prepositions via Lexical Constraints",
+        "url": "https://www.aclweb.org/anthology/W03-1813/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-298"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the ACL 2003 Workshop on Linguistic Annotation: Getting the Model Right",
+        "url": "https://www.aclweb.org/anthology/W03-1900/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-299"
+    },
+    {
+        "authors": [
+            "Nancy Ide",
+            "Laurent Romary"
+        ],
+        "title": "Outline of the International Standard Linguistic Annotation Framework",
+        "url": "https://www.aclweb.org/anthology/W03-1901/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-300"
+    },
+    {
+        "authors": [
+            "Renata Vieira",
+            "Caroline Gasperin",
+            "Rodrigo Goulart",
+            "Susanne Salmon-Alt"
+        ],
+        "title": "From Concrete to Virtual Annotation Mark-up Language: The Case of COMMOn-REFs",
+        "url": "https://www.aclweb.org/anthology/W03-1902/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-301"
+    },
+    {
+        "authors": [
+            "Philipp Cimiano",
+            "Siegfried Handschuh"
+        ],
+        "title": "Ontology-based Linguistic Annotation",
+        "url": "https://www.aclweb.org/anthology/W03-1903/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-302"
+    },
+    {
+        "authors": [
+            "Srinivas Narayanan",
+            "Miriam R. L. Petruck",
+            "Collin F. Baker",
+            "Charles J. Fillmore"
+        ],
+        "title": "Putting FrameNet Data into the ISO Linguistic Annotation Framework",
+        "url": "https://www.aclweb.org/anthology/W03-1904/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-303"
+    },
+    {
+        "authors": [
+            "Nancy Ide",
+            "Alessandro Lenci",
+            "Nicoletta Calzolari"
+        ],
+        "title": "RDF Instantiation of ISLE/MILE Lexical Entries",
+        "url": "https://www.aclweb.org/anthology/W03-1905/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-304"
+    },
+    {
+        "authors": [
+            "Fabio Rinaldi",
+            "James Dowdall",
+            "Michael Hess",
+            "Kaarel Kaljurand",
+            "Andreas Persidis"
+        ],
+        "title": "Parmenides: An Opportunity for ISO TC37 SC4?",
+        "url": "https://www.aclweb.org/anthology/W03-1906/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-305"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the ACL-2003 Workshop on Patent Corpus Processing",
+        "url": "https://www.aclweb.org/anthology/W03-2000/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-306"
+    },
+    {
+        "authors": [
+            "Liang Chen",
+            "Naoyuki Tokuda",
+            "Hisahiro Adachi"
+        ],
+        "title": "A Patent Document Retrieval System Addressing Both Semantic and Syntactic Properties",
+        "url": "https://www.aclweb.org/anthology/W03-2001/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-307"
+    },
+    {
+        "authors": [
+            "Jean-Charles Lamirel",
+            "Shadi Al Shehabi",
+            "Martial Hoffmann",
+            "Claire Francois"
+        ],
+        "title": "Intelligent Patent Analysis through the Use of a Neural Network: Experiment of Multi-Viewpoint Analysis with the MultiSOM Model",
+        "url": "https://www.aclweb.org/anthology/W03-2002/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-308"
+    },
+    {
+        "authors": [
+            "Makoto Iwayama",
+            "Atsushi Fujii",
+            "Noriko Kando",
+            "Akihiko Takano"
+        ],
+        "title": "Overview of Patent Retrieval Task at NTCIR-3",
+        "url": "https://www.aclweb.org/anthology/W03-2003/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-309"
+    },
+    {
+        "authors": [
+            "Kazuaki Kishida"
+        ],
+        "title": "Pseudo Relevance Feedback Method based on Taylor Expansion of Retrieval Function in NTCIR-3 Patent Retrieval Task",
+        "url": "https://www.aclweb.org/anthology/W03-2004/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-310"
+    },
+    {
+        "authors": [
+            "Hideo Itoh",
+            "Hiroko Mano",
+            "Yasushi Ogawa"
+        ],
+        "title": "Term Distillation in Patent Retrieval",
+        "url": "https://www.aclweb.org/anthology/W03-2005/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-311"
+    },
+    {
+        "authors": [
+            "Khurshid Ahmad",
+            "AbdulMohsen Al-Thubaity"
+        ],
+        "title": "Can Text Analysis Tell us Something about Technology Progress?",
+        "url": "https://www.aclweb.org/anthology/W03-2006/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-312"
+    },
+    {
+        "authors": [
+            "Akihiro Shinmori",
+            "Manabu Okumura",
+            "Yuzo Marukawa",
+            "Makoto Iwayama"
+        ],
+        "title": "Patent Claim Processing for Readability - Structure Analysis and Term Explanation",
+        "url": "https://www.aclweb.org/anthology/W03-2007/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-313"
+    },
+    {
+        "authors": [
+            "Svetlana Sheremetyeva"
+        ],
+        "title": "Natural Language Analysis of Patent Claims",
+        "url": "https://www.aclweb.org/anthology/W03-2008/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-314"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the Fourth SIGdial Workshop of Discourse and Dialogue",
+        "url": "https://www.aclweb.org/anthology/W03-2100/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-315"
+    },
+    {
+        "authors": [
+            "Sandra Carberry",
+            "Stephanie Elzer",
+            "Nancy Green",
+            "Kathleen McCoy",
+            "Daniel Chester"
+        ],
+        "title": "Understanding Information Graphics: A Discourse-Level Problem",
+        "url": "https://www.aclweb.org/anthology/W03-2101/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-316"
+    },
+    {
+        "authors": [
+            "Theresa Wilson",
+            "Janyce Wiebe"
+        ],
+        "title": "Annotating Opinions in the World Press",
+        "url": "https://www.aclweb.org/anthology/W03-2102/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-317"
+    },
+    {
+        "authors": [
+            "Matthew Purver",
+            "Patrick G.T. Healey",
+            "James King",
+            "Jonathan Ginzburg",
+            "Greg J. Mills"
+        ],
+        "title": "Answering Clarification Questions",
+        "url": "https://www.aclweb.org/anthology/W03-2103/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-318"
+    },
+    {
+        "authors": [
+            "Sarah George",
+            "Ingrid Zukerman"
+        ],
+        "title": "An Information-theoretic Approach for Argument Interpretation",
+        "url": "https://www.aclweb.org/anthology/W03-2104/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-319"
+    },
+    {
+        "authors": [
+            "Yukiko Kawaguchi"
+        ],
+        "title": "Conversational inferences: the hard way and the easy way",
+        "url": "https://www.aclweb.org/anthology/W03-2105/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-320"
+    },
+    {
+        "authors": [
+            "David Schlangen",
+            "Alex Lascarides"
+        ],
+        "title": "The interpretation of non-sentential utterances in dialogue",
+        "url": "https://www.aclweb.org/anthology/W03-2106/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-321"
+    },
+    {
+        "authors": [
+            "Kazunori Komatani",
+            "Fumihiro Adachi",
+            "Shinichi Ueno",
+            "Tatsuya Kawahara",
+            "Hiroshi G. Okuno"
+        ],
+        "title": "Flexible Spoken Dialogue System based on User Models and Dynamic Generation of VoiceXML Scripts",
+        "url": "https://www.aclweb.org/anthology/W03-2107/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-322"
+    },
+    {
+        "authors": [
+            "Kanayo Ogura",
+            "Takeshi Masuda",
+            "Masato Ishizaki"
+        ],
+        "title": "Building a New Internet Chat System for Sharing Timing Information",
+        "url": "https://www.aclweb.org/anthology/W03-2108/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-323"
+    },
+    {
+        "authors": [
+            "Masamitsu Umeda",
+            "Satoru Kogure",
+            "Seiichi Nakagawa"
+        ],
+        "title": "Interpreter for Highly Portable Spoken Dialogue System",
+        "url": "https://www.aclweb.org/anthology/W03-2109/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-324"
+    },
+    {
+        "authors": [
+            "Dominique Estival",
+            "Michael Broughton",
+            "Andrew Zschorn",
+            "Elizabeth Pronger"
+        ],
+        "title": "Spoken Dialogue for Virtual Advisers in a semi-immersive Command and Control environment",
+        "url": "https://www.aclweb.org/anthology/W03-2110/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-325"
+    },
+    {
+        "authors": [
+            "Jason D. Williams",
+            "Steve Young"
+        ],
+        "title": "Using Wizard-of-Oz simulations to bootstrap Reinforcement - Learning based dialog management systems",
+        "url": "https://www.aclweb.org/anthology/W03-2111/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-326"
+    },
+    {
+        "authors": [
+            "Hiroya Murao",
+            "Nobuo Kawaguchi",
+            "Shigeki Matsubara",
+            "Yukiko Yamaguchi",
+            "Yasuyoshi Inagaki"
+        ],
+        "title": "Example-based Spoken Dialogue System using WOZ System Log",
+        "url": "https://www.aclweb.org/anthology/W03-2112/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-327"
+    },
+    {
+        "authors": [
+            "Annika Flycht-Eriksson",
+            "Arne Jönsson"
+        ],
+        "title": "Some empirical findings on dialogue management and domain ontologies in dialogue systems - Implications from an evaluation of BirdQuest",
+        "url": "https://www.aclweb.org/anthology/W03-2113/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-328"
+    },
+    {
+        "authors": [
+            "Oliver Lemon",
+            "Lawrence Cavedon",
+            "Barbara Kelly"
+        ],
+        "title": "Managing Dialogue Interaction: A Multi-Layered Approach",
+        "url": "https://www.aclweb.org/anthology/W03-2114/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-329"
+    },
+    {
+        "authors": [
+            "Robert Porzel",
+            "Iryna Gurevych",
+            "Christof E. Müller"
+        ],
+        "title": "Ontology-based Contextual Coherence Scoring",
+        "url": "https://www.aclweb.org/anthology/W03-2115/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-330"
+    },
+    {
+        "authors": [
+            "Kazunari Ito",
+            "Hiroaki Saito"
+        ],
+        "title": "An Annotation Tool for Multimodal Dialogue Corpora using Global Document Annotation",
+        "url": "https://www.aclweb.org/anthology/W03-2116/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-331"
+    },
+    {
+        "authors": [
+            "Christoph Müller",
+            "Michael Strube"
+        ],
+        "title": "Multi-Level Annotation in MMAX",
+        "url": "https://www.aclweb.org/anthology/W03-2117/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-332"
+    },
+    {
+        "authors": [
+            "Lori Levin",
+            "Chad Langley",
+            "Alon Lavie",
+            "Donna Gates",
+            "Dorcas Wallace",
+            "Kay Peterson"
+        ],
+        "title": "Domain Specific Speech Acts for Spoken Language Translation",
+        "url": "https://www.aclweb.org/anthology/W03-2118/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-333"
+    },
+    {
+        "authors": [
+            "Atsue Takeoka",
+            "Atsushi Shimojima",
+            "Yasuhiro Katagiri"
+        ],
+        "title": "Turn-taking in Graphical Communication: an exploratory study",
+        "url": "https://www.aclweb.org/anthology/W03-2119/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-334"
+    },
+    {
+        "authors": [
+            "Constantin Orăsan"
+        ],
+        "title": "PALinkA: A highly customisable tool for discourse annotation",
+        "url": "https://www.aclweb.org/anthology/W03-2120/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-335"
+    },
+    {
+        "authors": [
+            "Samson de Jager",
+            "Nick Wright",
+            "Alistair Knott"
+        ],
+        "title": "Speaker-independent context update rules for dialogue management",
+        "url": "https://www.aclweb.org/anthology/W03-2121/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-336"
+    },
+    {
+        "authors": [
+            "Naoto Iwahashi"
+        ],
+        "title": "A Method for Forming Mutual Beliefs for Communication through Human-robot Multi-modal Interaction",
+        "url": "https://www.aclweb.org/anthology/W03-2122/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-337"
+    },
+    {
+        "authors": [
+            "Johan Bos",
+            "Ewan Klein",
+            "Oliver Lemon",
+            "Tetsushi Oka"
+        ],
+        "title": "DIPPER: Description and Formalisation of an Information-State Update Dialogue System Architecture",
+        "url": "https://www.aclweb.org/anthology/W03-2123/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-338"
+    },
+    {
+        "authors": [
+            "Gina-Anne Levow"
+        ],
+        "title": "Learning to Speak to a Spoken Language System: Vocabulary Convergence in Novice Users",
+        "url": "https://www.aclweb.org/anthology/W03-2124/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-339"
+    },
+    {
+        "authors": [
+            "Gregory Aist",
+            "Manny Rayner",
+            "John Dowding",
+            "Beth Ann Hockey",
+            "Susana Early",
+            "Jim Hieronymus"
+        ],
+        "title": "A procedure assistant for astronauts in a functional programming architecture, with step previewing and spoken correction of dialogue moves",
+        "url": "https://www.aclweb.org/anthology/W03-2125/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-340"
+    },
+    {
+        "authors": [
+            "Hong-I Ng",
+            "Kim-Teng Lua"
+        ],
+        "title": "Dialog Input Ranking in a Multi-Domain Environment Using Transferable Belief Model",
+        "url": "https://www.aclweb.org/anthology/W03-2126/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-341"
+    },
+    {
+        "authors": [
+            "Richard Craggs",
+            "Mary McGee Wood"
+        ],
+        "title": "Annotating emotion in dialogue",
+        "url": "https://www.aclweb.org/anthology/W03-2127/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-342"
+    },
+    {
+        "authors": [
+            "Tiit Hennoste",
+            "Mare Koit",
+            "Andriela Rääbis",
+            "Krista Strandson",
+            "Maret Valdisoo",
+            "Evely Vutt"
+        ],
+        "title": "Developing a Typology of Dialogue Acts: Some Boundary Problems",
+        "url": "https://www.aclweb.org/anthology/W03-2128/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-343"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the 7th International EAMT workshop on MT and other language technology tools, Improving MT through other language technology tools, Resource and tools for building MT at EACL 2003",
+        "url": "https://www.aclweb.org/anthology/W03-2200/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-344"
+    },
+    {
+        "authors": [
+            "Bogdan Babych",
+            "Anthony Hartley"
+        ],
+        "title": "Improving Machine Translation Quality with Automatic Named Entity Recognition",
+        "url": "https://www.aclweb.org/anthology/W03-2201/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-345"
+    },
+    {
+        "authors": [
+            "Rob Koeling",
+            "Adam Kilgarriff",
+            "David Tugwell",
+            "Roger Evans"
+        ],
+        "title": "An Evaluation of a Lexicographers’ Workbench: building lexicons for Machine Translation",
+        "url": "https://www.aclweb.org/anthology/W03-2202/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-346"
+    },
+    {
+        "authors": [
+            "Anna Kupsc"
+        ],
+        "title": "Two Approaches to Aspect Assignment in an English-Polish Machine Translation System",
+        "url": "https://www.aclweb.org/anthology/W03-2203/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-347"
+    },
+    {
+        "authors": [
+            "Aurélien Max"
+        ],
+        "title": "Multi-language Machine Translation through Interactive Document Normalization",
+        "url": "https://www.aclweb.org/anthology/W03-2204/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-348"
+    },
+    {
+        "authors": [
+            "Francisco Nevado",
+            "Francisco Casacuberta",
+            "Enrique Vidal"
+        ],
+        "title": "Parallel Corpora Segmentation Using Anchor Words",
+        "url": "https://www.aclweb.org/anthology/W03-2205/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-349"
+    },
+    {
+        "authors": [
+            "Harold Somers",
+            "Hermione Lovel"
+        ],
+        "title": "Computer-based Support for Patients with Limited English",
+        "url": "https://www.aclweb.org/anthology/W03-2206/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-350"
+    },
+    {
+        "authors": [],
+        "title": "Author Index",
+        "url": "https://www.aclweb.org/anthology/W03-2207/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-351"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the 9th European Workshop on Natural Language Generation (ENLG-2003) at EACL 2003",
+        "url": "https://www.aclweb.org/anthology/W03-2300/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-352"
+    },
+    {
+        "authors": [
+            "Farah Benamara",
+            "Patrick Saint Dizier"
+        ],
+        "title": "Dynamic Generation of Cooperative Natural Language Responses in WEBCOOP",
+        "url": "https://www.aclweb.org/anthology/W03-2301/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-353"
+    },
+    {
+        "authors": [
+            "Nadjet Bouayad-Agha"
+        ],
+        "title": "Restricting the rhetorical input for the non-hierarchical planning of document structures",
+        "url": "https://www.aclweb.org/anthology/W03-2302/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-354"
+    },
+    {
+        "authors": [
+            "Charles Callaway"
+        ],
+        "title": "Multilingual Revision",
+        "url": "https://www.aclweb.org/anthology/W03-2303/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-355"
+    },
+    {
+        "authors": [
+            "Aggeliki Dimitromanolaki",
+            "Ion Androutsopoulos"
+        ],
+        "title": "Learning to Order Facts for Discourse Planning in Natural Language Generation",
+        "url": "https://www.aclweb.org/anthology/W03-2304/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-356"
+    },
+    {
+        "authors": [
+            "Sabine Geldof"
+        ],
+        "title": "Corpus-analysis for NLG",
+        "url": "https://www.aclweb.org/anthology/W03-2305/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-357"
+    },
+    {
+        "authors": [
+            "Helmut Horacek"
+        ],
+        "title": "Handling Dependencies in Reorganizing Content Specifications A Case Study of Case Analysis",
+        "url": "https://www.aclweb.org/anthology/W03-2306/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-358"
+    },
+    {
+        "authors": [
+            "Emiel Krahmer",
+            "Ielka van der Sluis"
+        ],
+        "title": "A New Model for Generating Multimodal Referring Expressions",
+        "url": "https://www.aclweb.org/anthology/W03-2307/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-359"
+    },
+    {
+        "authors": [
+            "Nestor Miliaev",
+            "Alison Cawsey",
+            "Greg Michaelson"
+        ],
+        "title": "Applied NLG system evaluation: FlexyCAT",
+        "url": "https://www.aclweb.org/anthology/W03-2308/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-360"
+    },
+    {
+        "authors": [
+            "Michael J. Minock"
+        ],
+        "title": "Phrasal Generator for Describing Relational Database Queries",
+        "url": "https://www.aclweb.org/anthology/W03-2309/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-361"
+    },
+    {
+        "authors": [
+            "Alessandra Novello",
+            "Charles B. Callaway"
+        ],
+        "title": "Porting to an Italian Surface Realizer: A Case Study",
+        "url": "https://www.aclweb.org/anthology/W03-2310/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-362"
+    },
+    {
+        "authors": [
+            "Matthew Purver",
+            "Masayuki Otsuka"
+        ],
+        "title": "Incremental Generation by Incremental Parsing: Tactical Generation in Dynamic Syntax",
+        "url": "https://www.aclweb.org/anthology/W03-2311/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-363"
+    },
+    {
+        "authors": [
+            "Ehud Reiter",
+            "Somayajulu Sripada",
+            "Sandra Williams"
+        ],
+        "title": "Acquiring and Using Limited User Models in NLG",
+        "url": "https://www.aclweb.org/anthology/W03-2312/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-364"
+    },
+    {
+        "authors": [
+            "Cesare Rocchi",
+            "Massimo Zancanaro"
+        ],
+        "title": "Generation of Video Documentaries from Discourse Structures",
+        "url": "https://www.aclweb.org/anthology/W03-2313/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-365"
+    },
+    {
+        "authors": [
+            "Advaith Siddharthan"
+        ],
+        "title": "Preserving Discourse Structure when Simplifying Text",
+        "url": "https://www.aclweb.org/anthology/W03-2314/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-366"
+    },
+    {
+        "authors": [
+            "Leo Wanner",
+            "Bernd Bohnet",
+            "Mark Giereth"
+        ],
+        "title": "Deriving the Communicative Structure in Applied NLG",
+        "url": "https://www.aclweb.org/anthology/W03-2315/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-367"
+    },
+    {
+        "authors": [
+            "Michael White",
+            "Jason Baldridge"
+        ],
+        "title": "Adapting Chart Realization to CCG",
+        "url": "https://www.aclweb.org/anthology/W03-2316/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-368"
+    },
+    {
+        "authors": [
+            "Sandra Williams",
+            "Ehud Reiter",
+            "Liesl Osman"
+        ],
+        "title": "Experiments with discourse-level choices and readability",
+        "url": "https://www.aclweb.org/anthology/W03-2317/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-369"
+    },
+    {
+        "authors": [],
+        "title": "Author Index",
+        "url": "https://www.aclweb.org/anthology/W03-2318/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-370"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of 4th International Workshop on Linguistically Interpreted Corpora (LINC-03) at EACL 2003",
+        "url": "https://www.aclweb.org/anthology/W03-2400/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-371"
+    },
+    {
+        "authors": [
+            "Tracy Holloway King",
+            "Richard Crouch",
+            "Stefan Riezler",
+            "Mary Dalrymple",
+            "Ronald M. Kaplan"
+        ],
+        "title": "The PARC 700 Dependency Bank",
+        "url": "https://www.aclweb.org/anthology/W03-2401/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-372"
+    },
+    {
+        "authors": [
+            "Montserrat Civit",
+            "Ma. Antònia Martí",
+            "Borja Navarro",
+            "Núria Bufí",
+            "Belén Fernández",
+            "Raquel Marcos"
+        ],
+        "title": "Issues in the Syntactic Annotation of Cast3LB",
+        "url": "https://www.aclweb.org/anthology/W03-2402/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-373"
+    },
+    {
+        "authors": [
+            "Kiril Simov",
+            "Petya Osenova"
+        ],
+        "title": "Practical Annotation Scheme for an HPSG Treebank of Bulgarian",
+        "url": "https://www.aclweb.org/anthology/W03-2403/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-374"
+    },
+    {
+        "authors": [
+            "Martin Forst"
+        ],
+        "title": "Treebank Conversion - Establishing a testsuite for a broad-coverage LFG from the TIGER treebank",
+        "url": "https://www.aclweb.org/anthology/W03-2404/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-375"
+    },
+    {
+        "authors": [
+            "Nart B. Atalay",
+            "Kemal Oflazer",
+            "Bilge Say"
+        ],
+        "title": "The Annotation Process in the Turkish Treebank",
+        "url": "https://www.aclweb.org/anthology/W03-2405/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-376"
+    },
+    {
+        "authors": [
+            "Jochen L. Leidner",
+            "Tiphaine Dalmas",
+            "Bonnie Webber",
+            "Johan Bos",
+            "Claire Grover"
+        ],
+        "title": "Automatic Multi-Layer Corpus Annotation for Evaluation Question Answering Methods: CBC4Kids",
+        "url": "https://www.aclweb.org/anthology/W03-2406/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-377"
+    },
+    {
+        "authors": [
+            "Petar Milin",
+            "Nada Ilic"
+        ],
+        "title": "Text as Binary Sequence: A Case of Characteristic Constant of Text",
+        "url": "https://www.aclweb.org/anthology/W03-2407/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-378"
+    },
+    {
+        "authors": [
+            "Rada Mihalcea",
+            "Timothy Chklovski"
+        ],
+        "title": "Open Mind Word Expert: Creating Large Annotated Data Collections with Web Users’ Help",
+        "url": "https://www.aclweb.org/anthology/W03-2408/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-379"
+    },
+    {
+        "authors": [
+            "Geoffrey Sampson",
+            "Anna Babarczy"
+        ],
+        "title": "Limits to annotation precision",
+        "url": "https://www.aclweb.org/anthology/W03-2409/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-380"
+    },
+    {
+        "authors": [
+            "Claire Gardent",
+            "Hélène Manuélian",
+            "Eric Kow"
+        ],
+        "title": "Which bridges for bridging definite descriptions?",
+        "url": "https://www.aclweb.org/anthology/W03-2410/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-381"
+    },
+    {
+        "authors": [
+            "David Reitter",
+            "Manfred Stede"
+        ],
+        "title": "Step by step: underspecified markup in incremental rhetorical analysis",
+        "url": "https://www.aclweb.org/anthology/W03-2411/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-382"
+    },
+    {
+        "authors": [
+            "Stella Neumann"
+        ],
+        "title": "Exploitation of an SFL-annotated multilingual register corpus",
+        "url": "https://www.aclweb.org/anthology/W03-2412/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-383"
+    },
+    {
+        "authors": [
+            "Nelleke Oostdijk",
+            "Daan Broeder"
+        ],
+        "title": "The Spoken Dutch Corpus and its Exploitation Environment",
+        "url": "https://www.aclweb.org/anthology/W03-2413/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-384"
+    },
+    {
+        "authors": [
+            "Ineke Schuurman",
+            "Machteld Schouppe",
+            "Heleen Hoekstra",
+            "Ton van der Wouden"
+        ],
+        "title": "CGN, an annotated corpus of spoken Dutch",
+        "url": "https://www.aclweb.org/anthology/W03-2414/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-385"
+    },
+    {
+        "authors": [
+            "Adam Przepiórkowski",
+            "Marcin Woliński"
+        ],
+        "title": "The Unberable Lightness of Tagging* A Case Study in Morphosyntactic Tagging of Polish",
+        "url": "https://www.aclweb.org/anthology/W03-2415/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-386"
+    },
+    {
+        "authors": [
+            "Tomaz Erjavec",
+            "Jin-Dong Kim",
+            "Tomoko Ohta",
+            "Yuka Tateisi",
+            "Jun-ichi Tsujii"
+        ],
+        "title": "Stretching TEI: Converting the Genia Corpus",
+        "url": "https://www.aclweb.org/anthology/W03-2416/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-387"
+    },
+    {
+        "authors": [
+            "Alexandra Kinyon",
+            "Owen Rambow"
+        ],
+        "title": "The MetaGrammar: a cross-framework and cross-language test-suite generation tool",
+        "url": "https://www.aclweb.org/anthology/W03-2417/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-388"
+    },
+    {
+        "authors": [],
+        "title": "Author Index",
+        "url": "https://www.aclweb.org/anthology/W03-2418/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-389"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the 2003 EACL Workshop on Language Modeling for Text Entry Methods",
+        "url": "https://www.aclweb.org/anthology/W03-2500/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-390"
+    },
+    {
+        "authors": [
+            "Johannes Matiasek",
+            "Marco Baroni"
+        ],
+        "title": "Exploiting Long Distance Collocational Relations in Predictive Typing",
+        "url": "https://www.aclweb.org/anthology/W03-2501/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-391"
+    },
+    {
+        "authors": [
+            "Afsaneh Fazly",
+            "Graeme Hirst"
+        ],
+        "title": "Testing the Efficacy of Part-of-Speech Information in Word Completion",
+        "url": "https://www.aclweb.org/anthology/W03-2502/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-392"
+    },
+    {
+        "authors": [
+            "Ed Schofield"
+        ],
+        "title": "Language-Models for Questions",
+        "url": "https://www.aclweb.org/anthology/W03-2503/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-393"
+    },
+    {
+        "authors": [
+            "Veska Noncheva",
+            "Joaqium Ferreira da Silva",
+            "Gabriel Lopes"
+        ],
+        "title": "Automatic Acquisition of Word Interaction Patterns from Corpora",
+        "url": "https://www.aclweb.org/anthology/W03-2504/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-394"
+    },
+    {
+        "authors": [
+            "Howard Gutowitz"
+        ],
+        "title": "Barriers to Adoption of Dictionary-Based Text-Entry Methods: A Field Study",
+        "url": "https://www.aclweb.org/anthology/W03-2505/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-395"
+    },
+    {
+        "authors": [
+            "Jon Hasselgren",
+            "Erik Montnemery",
+            "Pierre Nugues",
+            "Markus Svensson"
+        ],
+        "title": "HMS: A Predictive Text Entry Method Using Bigrams",
+        "url": "https://www.aclweb.org/anthology/W03-2506/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-396"
+    },
+    {
+        "authors": [
+            "Nils Klarlund",
+            "Michael Riley"
+        ],
+        "title": "Word N-Grams for Cluster Keyboards",
+        "url": "https://www.aclweb.org/anthology/W03-2507/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-397"
+    },
+    {
+        "authors": [
+            "Anders S. Johansen",
+            "John P. Hansen",
+            "Dan W. Hansen",
+            "Kenji Itoh",
+            "Satoru Mashino"
+        ],
+        "title": "Language Technology in a Predictive, Restricted On-Screen Keyboard with Dynamic Layout for Severely Disabled People",
+        "url": "https://www.aclweb.org/anthology/W03-2508/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-398"
+    },
+    {
+        "authors": [
+            "Karin Harbusch",
+            "Sasa Hasan",
+            "Hajo Hoffmann",
+            "Michael Kühn",
+            "Bernhard Schüler"
+        ],
+        "title": "Domain-Specific Disambiguation for Typing with Ambiguous Keyboards",
+        "url": "https://www.aclweb.org/anthology/W03-2509/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-399"
+    },
+    {
+        "authors": [],
+        "title": "Author Index",
+        "url": "https://www.aclweb.org/anthology/W03-2510/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-400"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the 2003 EACL Workshop on The Computational Treatment of Anaphora",
+        "url": "https://www.aclweb.org/anthology/W03-2600/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-401"
+    },
+    {
+        "authors": [
+            "Judita Preiss",
+            "Ted Briscoe"
+        ],
+        "title": "Intermediate Parsing for Anaphora Resolution? Implementing the Lappin and Leass non-coreference filters",
+        "url": "https://www.aclweb.org/anthology/W03-2601/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-402"
+    },
+    {
+        "authors": [
+            "Advaith Siddharthan"
+        ],
+        "title": "Resolving Pronouns Robustly: Plumbing the Depths of Shallowness",
+        "url": "https://www.aclweb.org/anthology/W03-2602/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-403"
+    },
+    {
+        "authors": [
+            "Gerlof Bouma"
+        ],
+        "title": "Doing Dutch Pronouns Automatically in Optimality Theory",
+        "url": "https://www.aclweb.org/anthology/W03-2603/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-404"
+    },
+    {
+        "authors": [
+            "Ryu Iida",
+            "Kentaro Inui",
+            "Hiroya Takamura",
+            "Yuji Matsumoto"
+        ],
+        "title": "Incorporating Contextual Cues in Trainable Models for Coreference Resolution",
+        "url": "https://www.aclweb.org/anthology/W03-2604/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-405"
+    },
+    {
+        "authors": [
+            "Massimo Poesio"
+        ],
+        "title": "Associative Descriptions and Salience: A Preliminary Investigation",
+        "url": "https://www.aclweb.org/anthology/W03-2605/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-406"
+    },
+    {
+        "authors": [
+            "Katja Markert",
+            "Malvina Nissim",
+            "Natalia Modjeska"
+        ],
+        "title": "Using the Web for Nominal Anaphora Resolution",
+        "url": "https://www.aclweb.org/anthology/W03-2606/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-407"
+    },
+    {
+        "authors": [
+            "Razvan Bunescu"
+        ],
+        "title": "Associative Anaphora Resolution: A Web-Based Approach",
+        "url": "https://www.aclweb.org/anthology/W03-2607/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-408"
+    },
+    {
+        "authors": [
+            "Eleni Miltsakaki",
+            "Cassandre Creswell",
+            "Katherine Forbes",
+            "Aravind Joshi",
+            "Bonnie Webber"
+        ],
+        "title": "Anaphoric arguments of discourse connectives: Semantic properties of antecedents versus non-antecedents",
+        "url": "https://www.aclweb.org/anthology/W03-2608/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-409"
+    },
+    {
+        "authors": [
+            "Peter Bosch",
+            "Tom Rozario",
+            "Yufan Zhao"
+        ],
+        "title": "Demonstrative Pronouns and Personal Pronouns: German der vs er",
+        "url": "https://www.aclweb.org/anthology/W03-2609/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-410"
+    },
+    {
+        "authors": [],
+        "title": "Author Index",
+        "url": "https://www.aclweb.org/anthology/W03-2610/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-411"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the 2003 EACL Workshop on Dialogue Systems: interaction, adaptation and styes of management",
+        "url": "https://www.aclweb.org/anthology/W03-2700/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-412"
+    },
+    {
+        "authors": [
+            "Kristiina Jokinen",
+            "Björn Gämback",
+            "William Black",
+            "Roberta Catizone",
+            "Yorick Wilks"
+        ],
+        "title": "Introduction: Dialogue Systems: Interaction, Adaptation and Styles of Management",
+        "url": "https://www.aclweb.org/anthology/W03-2701/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-413"
+    },
+    {
+        "authors": [
+            "John A. Bateman",
+            "Kerstin Fischer",
+            "Thora Tenbrink"
+        ],
+        "title": "Why a Static Interpretation Is Not Sufficient in Spatial Communication",
+        "url": "https://www.aclweb.org/anthology/W03-2702/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-414"
+    },
+    {
+        "authors": [
+            "William Black",
+            "Paul Thompson",
+            "Adam Funk",
+            "Andrew Conroy"
+        ],
+        "title": "Learning to Classify Utterances in a Task-Oriented Dialogue",
+        "url": "https://www.aclweb.org/anthology/W03-2703/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-415"
+    },
+    {
+        "authors": [
+            "Péter Boda",
+            "Suresh Chande",
+            "Elviira Hartikainen",
+            "Nidhi Gupta",
+            "Sirpa Autere"
+        ],
+        "title": "Flexibility and Efficiency through Personalisation? Experiments with a conversational Program Guide Information System",
+        "url": "https://www.aclweb.org/anthology/W03-2704/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-416"
+    },
+    {
+        "authors": [
+            "Roberta Catizone",
+            "Andrea Setzer",
+            "Yorick Wilks"
+        ],
+        "title": "Multimodal Dialogue Management in the COMIC Project",
+        "url": "https://www.aclweb.org/anthology/W03-2705/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-417"
+    },
+    {
+        "authors": [
+            "Matthias Denecke"
+        ],
+        "title": "Policies and Procedure for Spoken Dialogue Systems",
+        "url": "https://www.aclweb.org/anthology/W03-2706/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-418"
+    },
+    {
+        "authors": [
+            "Armin Fiedler",
+            "Dimitra Tsovaltzi"
+        ],
+        "title": "Automating Hinting in Mathematical Tutorial Dialogue",
+        "url": "https://www.aclweb.org/anthology/W03-2707/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-419"
+    },
+    {
+        "authors": [
+            "Antti Kerminen",
+            "Kristiina Jokinen"
+        ],
+        "title": "Distributed Dialogue Management in a Blackboard Architecture",
+        "url": "https://www.aclweb.org/anthology/W03-2708/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-420"
+    },
+    {
+        "authors": [
+            "Oliver Lemon",
+            "Lawrence Cavedon"
+        ],
+        "title": "Multi-Level Architecture for Natural Activity-Oriented Dialogue",
+        "url": "https://www.aclweb.org/anthology/W03-2709/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-421"
+    },
+    {
+        "authors": [
+            "Piroska Lendvai",
+            "Antal van den Bosch",
+            "Emiel Krahmer"
+        ],
+        "title": "Machine Learning for Shallow Interpretation of User Utterances in Spoken Dialogue Systems",
+        "url": "https://www.aclweb.org/anthology/W03-2710/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-422"
+    },
+    {
+        "authors": [
+            "Kunio Matsui",
+            "Hozumi Tanaka"
+        ],
+        "title": "The Interactive Navigation to the Stored Q&A data using Simple Questions",
+        "url": "https://www.aclweb.org/anthology/W03-2711/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-423"
+    },
+    {
+        "authors": [
+            "Bryan McEleney",
+            "Gregory O’Hare"
+        ],
+        "title": "An Agent Design for Effective Negotiation Dialogues",
+        "url": "https://www.aclweb.org/anthology/W03-2712/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-424"
+    },
+    {
+        "authors": [
+            "Botond Pakucs"
+        ],
+        "title": "SesaME: A Framework for Personalised and Adaptive Speech Interfaces",
+        "url": "https://www.aclweb.org/anthology/W03-2713/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-425"
+    },
+    {
+        "authors": [
+            "Allan Ramsay",
+            "Helen Gaylard"
+        ],
+        "title": "A Constructive View of Discourse Operators",
+        "url": "https://www.aclweb.org/anthology/W03-2714/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-426"
+    },
+    {
+        "authors": [
+            "Christophe Dupriez",
+            "Mélanie Roland"
+        ],
+        "title": "Generic Dialogue Structure for Vocal Access to Indexed Databases",
+        "url": "https://www.aclweb.org/anthology/W03-2715/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-427"
+    },
+    {
+        "authors": [],
+        "title": "Author Index",
+        "url": "https://www.aclweb.org/anthology/W03-2716/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-428"
+    },
+    {
+        "authors": [
+            "Katerina Pastra"
+        ],
+        "title": "Proceedings of the EACL 2003 Workshop on Evaluation Initiatives in Natural Language Processing: are evaluation methods, metrics and resources reusable?",
+        "url": "https://www.aclweb.org/anthology/W03-2800/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-429"
+    },
+    {
+        "authors": [
+            "Kalina Bontcheva"
+        ],
+        "title": "Reuse and Challenges in Evaluating Language Generation Systems: Position Paper",
+        "url": "https://www.aclweb.org/anthology/W03-2801/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-430"
+    },
+    {
+        "authors": [
+            "Laurence Devillers",
+            "Hélène Maynard",
+            "Patrick Paroubek",
+            "Sophie Rosset"
+        ],
+        "title": "The PEACE SLDS understanding evaluation paradigm of the French MEDIA campaign",
+        "url": "https://www.aclweb.org/anthology/W03-2802/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-431"
+    },
+    {
+        "authors": [
+            "Will Lowe",
+            "Gary King"
+        ],
+        "title": "Some statistical methods for evaluating information extraction systems",
+        "url": "https://www.aclweb.org/anthology/W03-2803/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-432"
+    },
+    {
+        "authors": [
+            "Jesús Tomás",
+            "Josep Àngel Mas",
+            "Francisco Casacuberta"
+        ],
+        "title": "A Quantitative Method for Machine Translation Evaluation",
+        "url": "https://www.aclweb.org/anthology/W03-2804/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-433"
+    },
+    {
+        "authors": [
+            "Katerina Pastra",
+            "Horacio Saggion"
+        ],
+        "title": "Colouring Summaries BLEU",
+        "url": "https://www.aclweb.org/anthology/W03-2805/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-434"
+    },
+    {
+        "authors": [
+            "Diego Mollá",
+            "Ben Hutchinson"
+        ],
+        "title": "Intrinsic versus Extrinsic Evaluations of Parsing Systems",
+        "url": "https://www.aclweb.org/anthology/W03-2806/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-435"
+    },
+    {
+        "authors": [
+            "Angelo Dalli"
+        ],
+        "title": "Adaptation of the F-measure to Cluster Based Lexicon Quality Evaluation",
+        "url": "https://www.aclweb.org/anthology/W03-2807/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-436"
+    },
+    {
+        "authors": [
+            "Adam Kilgarriff"
+        ],
+        "title": "No-bureaucracy evaluation",
+        "url": "https://www.aclweb.org/anthology/W03-2808/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-437"
+    },
+    {
+        "authors": [
+            "Maghi King"
+        ],
+        "title": "Living up to standards",
+        "url": "https://www.aclweb.org/anthology/W03-2809/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-438"
+    },
+    {
+        "authors": [
+            "Kevin McTait",
+            "Khalid Choukri"
+        ],
+        "title": "Setting up an Evaluation Infrastructure for Human Language Technologies in Europe",
+        "url": "https://www.aclweb.org/anthology/W03-2810/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-439"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the 2003 EACL Workshop on Morphological Processing of Slavic Languages",
+        "url": "https://www.aclweb.org/anthology/W03-2900/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-440"
+    },
+    {
+        "authors": [
+            "Karel Pala",
+            "Radek Sedláček",
+            "Marek Veber"
+        ],
+        "title": "Relations between Inflectional and Derivation Patterns",
+        "url": "https://www.aclweb.org/anthology/W03-2901/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-441"
+    },
+    {
+        "authors": [
+            "Roger Evans",
+            "Carole Tiberius",
+            "Dunstan Brown",
+            "Greville C. Corbett"
+        ],
+        "title": "A Large-scale Inheritance-based Morphological Lexicon for Russian",
+        "url": "https://www.aclweb.org/anthology/W03-2902/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-442"
+    },
+    {
+        "authors": [
+            "Antoni Oliver",
+            "Irene Castellón",
+            "Lluís Màrquez"
+        ],
+        "title": "Automatic Lexical Acquisition from Raw Corpora: An Application to Russian",
+        "url": "https://www.aclweb.org/anthology/W03-2903/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-443"
+    },
+    {
+        "authors": [
+            "Tomaž Erjavec",
+            "Cvetana Krstev",
+            "Vladimír Petkevič",
+            "Kiril Simov",
+            "Marko Tadić",
+            "Duško Vitas"
+        ],
+        "title": "The MULTEXT-East Morphosyntactic Specification for Slavic Languages",
+        "url": "https://www.aclweb.org/anthology/W03-2904/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-444"
+    },
+    {
+        "authors": [
+            "Adam Przepiórkowski",
+            "Marcin Woliński"
+        ],
+        "title": "A Flexemic Tagset for Polish",
+        "url": "https://www.aclweb.org/anthology/W03-2905/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-445"
+    },
+    {
+        "authors": [
+            "Marko Tadić",
+            "Sanja Fulgosi"
+        ],
+        "title": "Building the Croatian Morphological Lexicon",
+        "url": "https://www.aclweb.org/anthology/W03-2906/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-446"
+    },
+    {
+        "authors": [
+            "Derrick Higgins"
+        ],
+        "title": "Unsupervised Learning of Bulgarian POS Tags",
+        "url": "https://www.aclweb.org/anthology/W03-2907/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-447"
+    },
+    {
+        "authors": [
+            "Duško Vitas",
+            "Cvetana Krstev"
+        ],
+        "title": "Composite Tense Recognition and Tagging in Serbian",
+        "url": "https://www.aclweb.org/anthology/W03-2908/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-448"
+    },
+    {
+        "authors": [
+            "Łukasz Dębowski"
+        ],
+        "title": "A Reconfigurable Stochastic Tagger for Languages with Complex Tag Structure",
+        "url": "https://www.aclweb.org/anthology/W03-2909/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-449"
+    },
+    {
+        "authors": [
+            "Milena Slavcheva"
+        ],
+        "title": "Some Aspects of the Morphological Processing of Bulgarian",
+        "url": "https://www.aclweb.org/anthology/W03-2910/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-450"
+    },
+    {
+        "authors": [
+            "Goran Nenadić",
+            "Irena Spasić",
+            "Sophia Ananiadou"
+        ],
+        "title": "Morpho-syntactic Clues for Terminological Processing in Serbian",
+        "url": "https://www.aclweb.org/anthology/W03-2911/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-451"
+    },
+    {
+        "authors": [
+            "Serge Yablonsky"
+        ],
+        "title": "Russian Morphology: Ressources and Java Software Application",
+        "url": "https://www.aclweb.org/anthology/W03-2912/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-452"
+    },
+    {
+        "authors": [],
+        "title": "Proceedings of the Eighth International Conference on Parsing Technologies",
+        "url": "https://www.aclweb.org/anthology/W03-3000/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-453"
+    },
+    {
+        "authors": [
+            "Miguel A. Alonso",
+            "Víctor J. Díaz"
+        ],
+        "title": "Parsing Tree Adjoining Grammars and Tree Insertion Grammars with Simultaneous Adjunctions",
+        "url": "https://www.aclweb.org/anthology/W03-3001/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-454"
+    },
+    {
+        "authors": [
+            "Chafik Aloulou",
+            "Lamia Hadrich Belguith",
+            "Ahmed Hadj Kacem",
+            "Souha Hammami Mezghani"
+        ],
+        "title": "Implémentation du système MASPAR selon une approche multi-agent",
+        "url": "https://www.aclweb.org/anthology/W03-3002/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-455"
+    },
+    {
+        "authors": [
+            "Denis Béchet"
+        ],
+        "title": "Incremental Parsing Of Lambek Calculus Using Proof-Net Interfaces",
+        "url": "https://www.aclweb.org/anthology/W03-3003/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-456"
+    },
+    {
+        "authors": [
+            "Philippe Blache"
+        ],
+        "title": "Meta-Level Contstraints for Linguistic Domain Interaction",
+        "url": "https://www.aclweb.org/anthology/W03-3004/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-457"
+    },
+    {
+        "authors": [
+            "Pierre Boullier"
+        ],
+        "title": "Guided Earley Parsing",
+        "url": "https://www.aclweb.org/anthology/W03-3005/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-458"
+    },
+    {
+        "authors": [
+            "Pierre Boullier"
+        ],
+        "title": "Supertagging: A Non-Statistical Parsing-Based Approach",
+        "url": "https://www.aclweb.org/anthology/W03-3006/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-459"
+    },
+    {
+        "authors": [
+            "Anna Corazza"
+        ],
+        "title": "Parsing Strategies for the Integration of Two Stochastic Context-Free Grammars",
+        "url": "https://www.aclweb.org/anthology/W03-3007/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-460"
+    },
+    {
+        "authors": [
+            "Gennaro Costagliola",
+            "Vincenzo Deufemia"
+        ],
+        "title": "Visual Language Editors based on LR Parsing Techniques",
+        "url": "https://www.aclweb.org/anthology/W03-3008/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-461"
+    },
+    {
+        "authors": [
+            "Kilian Foth",
+            "Wolfgang Menzel"
+        ],
+        "title": "Subtree Parsing to Speed up Deep Analysis",
+        "url": "https://www.aclweb.org/anthology/W03-3009/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-462"
+    },
+    {
+        "authors": [
+            "Frederik Fouvry"
+        ],
+        "title": "Constraint relaxation with weighted feature structures",
+        "url": "https://www.aclweb.org/anthology/W03-3010/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-463"
+    },
+    {
+        "authors": [
+            "James Henderson"
+        ],
+        "title": "Generative versus Discriminative Models for Statistical Left-Corner Parsing",
+        "url": "https://www.aclweb.org/anthology/W03-3011/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-464"
+    },
+    {
+        "authors": [
+            "Vladimir Kadlec",
+            "Pavel Smrz"
+        ],
+        "title": "PACE — Parser Comparison and Evaluation",
+        "url": "https://www.aclweb.org/anthology/W03-3012/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-465"
+    },
+    {
+        "authors": [
+            "Yong-Jae Kwak",
+            "So-Young Park",
+            "Hae-Chang Rim"
+        ],
+        "title": "GLR Parser with Conditional Action Model using Surface Phrasal Types for Korean",
+        "url": "https://www.aclweb.org/anthology/W03-3013/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-466"
+    },
+    {
+        "authors": [
+            "Chad Langley",
+            "Alon Lavie"
+        ],
+        "title": "Parsing Domain Actions with Phrase-Level Grammars and Memory-Based Learners",
+        "url": "https://www.aclweb.org/anthology/W03-3014/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-467"
+    },
+    {
+        "authors": [
+            "Sanghamitra Mohanty",
+            "Rakesh Chandra Balabantaray"
+        ],
+        "title": "Intelligent Parsing in Natural Language Processing",
+        "url": "https://www.aclweb.org/anthology/W03-3015/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-468"
+    },
+    {
+        "authors": [
+            "Mark-Jan Nederhof",
+            "Giorgio Satta"
+        ],
+        "title": "Probabilistic Parsing as Intersection",
+        "url": "https://www.aclweb.org/anthology/W03-3016/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-469"
+    },
+    {
+        "authors": [
+            "Joakim Nivre"
+        ],
+        "title": "An Efficient Algorithm for Projective Dependency Parsing",
+        "url": "https://www.aclweb.org/anthology/W03-3017/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-470"
+    },
+    {
+        "authors": [
+            "Tomasz Obrebski"
+        ],
+        "title": "Dependency parsing using dependency graph for storing alternative structures",
+        "url": "https://www.aclweb.org/anthology/W03-3018/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-471"
+    },
+    {
+        "authors": [
+            "Kenji Sagae",
+            "Alon Lavie"
+        ],
+        "title": "Combining Rule-based and Data-driven Techniques for Grammatical Relation Extraction in Spoken Language",
+        "url": "https://www.aclweb.org/anthology/W03-3019/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-472"
+    },
+    {
+        "authors": [
+            "Mark-Jan Nederhof",
+            "Giorgio Satta",
+            "Stuart Shieber"
+        ],
+        "title": "Partially Ordered Multiset Context-free Grammars and Free-word-order Parsing",
+        "url": "https://www.aclweb.org/anthology/W03-3020/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-473"
+    },
+    {
+        "authors": [
+            "Khalil Sima’an"
+        ],
+        "title": "On maximizing metrics for syntactic disambiguation",
+        "url": "https://www.aclweb.org/anthology/W03-3021/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-474"
+    },
+    {
+        "authors": [
+            "So-Young Park",
+            "Yong-Jae Kwak",
+            "Hoo-Jung Chung",
+            "Young-Sook Hwang",
+            "Hae-Chang Rim"
+        ],
+        "title": "Automatic Acquistion of Constraints for Efficient Korean Parsing",
+        "url": "https://www.aclweb.org/anthology/W03-3022/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-475"
+    },
+    {
+        "authors": [
+            "Hiroyasu Yamada",
+            "Yuji Matsumoto"
+        ],
+        "title": "Statistical Dependency Analysis with Support Vector Machines",
+        "url": "https://www.aclweb.org/anthology/W03-3023/",
+        "source_type": "WS",
+        "year": "2003",
+        "source": "WS03",
+        "id": "WS03-476"
+    }
+]

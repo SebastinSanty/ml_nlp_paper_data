@@ -1,0 +1,565 @@
+[
+    {
+        "authors": [
+            "Masaru Tomita"
+        ],
+        "title": "Proceedings of the First International Workshop on Parsing Technologies",
+        "url": "https://www.aclweb.org/anthology/W89-0200/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-0"
+    },
+    {
+        "authors": [
+            "Robert T. Kasper"
+        ],
+        "title": "Unification and Classification: An Experiment in Information-Based Parsing",
+        "url": "https://www.aclweb.org/anthology/W89-0201/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-1"
+    },
+    {
+        "authors": [
+            "Dale Gerdemann"
+        ],
+        "title": "Using Restriction to Optimize Unification Parsing",
+        "url": "https://www.aclweb.org/anthology/W89-0202/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-2"
+    },
+    {
+        "authors": [
+            "John T. Maxwell III",
+            "Ronald M. Kaplan"
+        ],
+        "title": "An Overview of Disjunctive Constraint Satisfaction",
+        "url": "https://www.aclweb.org/anthology/W89-0203/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-3"
+    },
+    {
+        "authors": [
+            "Bernard Lang"
+        ],
+        "title": "A Uniform Formal Framework for Parsing",
+        "url": "https://www.aclweb.org/anthology/W89-0204/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-4"
+    },
+    {
+        "authors": [
+            "Giorgio Satta",
+            "Oliviero Stock"
+        ],
+        "title": "Head-Driven Bidirectional Parsing: A Tabular Method",
+        "url": "https://www.aclweb.org/anthology/W89-0205/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-5"
+    },
+    {
+        "authors": [
+            "Martin Kay"
+        ],
+        "title": "Head-Driven Parsing",
+        "url": "https://www.aclweb.org/anthology/W89-0206/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-6"
+    },
+    {
+        "authors": [
+            "Edward Gibson"
+        ],
+        "title": "Parsing with Principles: Predicting a Phrasal Node Before Its Head Appears",
+        "url": "https://www.aclweb.org/anthology/W89-0207/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-7"
+    },
+    {
+        "authors": [
+            "Sandiway Fong",
+            "Robert C. Berwick"
+        ],
+        "title": "The Computational Implementation of Principle-Based Parsers",
+        "url": "https://www.aclweb.org/anthology/W89-0208/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-8"
+    },
+    {
+        "authors": [
+            "T. Fujisaki",
+            "F. Jelinek",
+            "J. Cocke",
+            "E. Black",
+            "T. Nishino"
+        ],
+        "title": "Probabilistic Parsing Method for Sentence Disambiguation",
+        "url": "https://www.aclweb.org/anthology/W89-0209/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-9"
+    },
+    {
+        "authors": [
+            "Keh-Yih Su",
+            "Jong-Nae Wang",
+            "Mei-Hui Su",
+            "Jing-Shin Chang"
+        ],
+        "title": "A Sequential Truncation Parsing Algorithm Based on the Score Function",
+        "url": "https://www.aclweb.org/anthology/W89-0210/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-10"
+    },
+    {
+        "authors": [
+            "J. H. Wright",
+            "E. N. Wrigley"
+        ],
+        "title": "Probabilistic LR Parsing for Speech Recognition",
+        "url": "https://www.aclweb.org/anthology/W89-0211/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-11"
+    },
+    {
+        "authors": [
+            "Dieter Huber"
+        ],
+        "title": "Parsing Speech for Structure and Prominence",
+        "url": "https://www.aclweb.org/anthology/W89-0212/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-12"
+    },
+    {
+        "authors": [
+            "Kenji Kita",
+            "Takeshi Kawabata",
+            "Hiroaki Saito"
+        ],
+        "title": "Parsing Continuous Speech by HMM-LR Method",
+        "url": "https://www.aclweb.org/anthology/W89-0213/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-13"
+    },
+    {
+        "authors": [
+            "Kiyoshi Kogure"
+        ],
+        "title": "Parsing Japanese Spoken Sentences Based on HPSG",
+        "url": "https://www.aclweb.org/anthology/W89-0214/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-14"
+    },
+    {
+        "authors": [
+            "Job M. van Zuijlen"
+        ],
+        "title": "Probabilistic Methods in Dependency Grammar Parsing",
+        "url": "https://www.aclweb.org/anthology/W89-0215/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-15"
+    },
+    {
+        "authors": [
+            "Robert E. Wall",
+            "Kent Wittenburg"
+        ],
+        "title": "Predictive Normal Forms for Composition in Categorical Grammars",
+        "url": "https://www.aclweb.org/anthology/W89-0216/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-16"
+    },
+    {
+        "authors": [
+            "Mark Steedman"
+        ],
+        "title": "Parsing Spoken Language Using Combinatory Grammars",
+        "url": "https://www.aclweb.org/anthology/W89-0217/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-17"
+    },
+    {
+        "authors": [
+            "K. Vijay-Shanker",
+            "David J. Weir"
+        ],
+        "title": "Recognition of Combinatory Categorial Grammars and Linear Indexed Grammars",
+        "url": "https://www.aclweb.org/anthology/W89-0218/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-18"
+    },
+    {
+        "authors": [
+            "Rohman Nozohoor-Farshi"
+        ],
+        "title": "Handling of Ill-Designed Grammars in Tomita’s Parsing Algorithm",
+        "url": "https://www.aclweb.org/anthology/W89-0219/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-19"
+    },
+    {
+        "authors": [
+            "James R. Kipps"
+        ],
+        "title": "Analysis of Tomita’s Algorithm for General Context-Free Parsing",
+        "url": "https://www.aclweb.org/anthology/W89-0220/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-20"
+    },
+    {
+        "authors": [
+            "Mark Johnson"
+        ],
+        "title": "The Computational Complexity of Tomita’s Algorithm",
+        "url": "https://www.aclweb.org/anthology/W89-0221/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-21"
+    },
+    {
+        "authors": [
+            "Stephanie Seneff"
+        ],
+        "title": "Probabilistic Parsing for Spoken Language Applications",
+        "url": "https://www.aclweb.org/anthology/W89-0222/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-22"
+    },
+    {
+        "authors": [
+            "James L. McClelland"
+        ],
+        "title": "Connectionist Models of Language",
+        "url": "https://www.aclweb.org/anthology/W89-0223/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-23"
+    },
+    {
+        "authors": [
+            "Ajay Jain",
+            "Alex Waibel"
+        ],
+        "title": "A Connectionist Parser Aimed at Spoken Language",
+        "url": "https://www.aclweb.org/anthology/W89-0224/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-24"
+    },
+    {
+        "authors": [
+            "Hiroaki Kitano",
+            "Teruko Mitamura",
+            "Masaru Tomita"
+        ],
+        "title": "Massively Parallel Parsing in 𝛷DmDialog: Integrated Architecture for Parsing Speech Inputs",
+        "url": "https://www.aclweb.org/anthology/W89-0225/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-25"
+    },
+    {
+        "authors": [
+            "Anton Nijholt"
+        ],
+        "title": "Parallel Parsing Strategies in Natural Language Processing",
+        "url": "https://www.aclweb.org/anthology/W89-0226/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-26"
+    },
+    {
+        "authors": [
+            "Roland Hausser"
+        ],
+        "title": "Complexity and Decidability in Left-Associative Grammar",
+        "url": "https://www.aclweb.org/anthology/W89-0227/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-27"
+    },
+    {
+        "authors": [
+            "Patrick Shann"
+        ],
+        "title": "The selection of a parsing strategy for an on-line machine translation system in a sublanguage domain. A new practical comparison",
+        "url": "https://www.aclweb.org/anthology/W89-0228/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-28"
+    },
+    {
+        "authors": [
+            "Alan W Black"
+        ],
+        "title": "Finite State Machines from Feature Grammars",
+        "url": "https://www.aclweb.org/anthology/W89-0229/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-29"
+    },
+    {
+        "authors": [
+            "Nariyoshi Yamai",
+            "Tadashi Seko",
+            "Noboru Kubo",
+            "Toru Kawata"
+        ],
+        "title": "An Effective Enumeration Algorithm of Parses for Ambiguous CFL",
+        "url": "https://www.aclweb.org/anthology/W89-0230/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-30"
+    },
+    {
+        "authors": [
+            "David Weber"
+        ],
+        "title": "A Morphological Parser for Linguistic Exploration",
+        "url": "https://www.aclweb.org/anthology/W89-0231/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-31"
+    },
+    {
+        "authors": [
+            "G. Adriaens"
+        ],
+        "title": "The Parallel Expert Parser: A Meaning-Oriented, Lexically-Guided, Parallel-Interactive Model of Natural Language Understanding",
+        "url": "https://www.aclweb.org/anthology/W89-0232/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-32"
+    },
+    {
+        "authors": [
+            "Henry S. Thompson"
+        ],
+        "title": "Chart Parsing for Loosely Coupled Parallel Systems",
+        "url": "https://www.aclweb.org/anthology/W89-0233/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-33"
+    },
+    {
+        "authors": [
+            "Hozumi Tanaka",
+            "Hiroaki Numazaki"
+        ],
+        "title": "Parallel Generalized LR Parsing based on Logic Programming",
+        "url": "https://www.aclweb.org/anthology/W89-0234/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-34"
+    },
+    {
+        "authors": [
+            "Yves Schabes",
+            "Aravind K. Joshi"
+        ],
+        "title": "The Relevance of Lexicalization to Parsing",
+        "url": "https://www.aclweb.org/anthology/W89-0235/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-35"
+    },
+    {
+        "authors": [
+            "Massimo Marino"
+        ],
+        "title": "A Framework for the Development of Natural Language Grammars",
+        "url": "https://www.aclweb.org/anthology/W89-0236/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-36"
+    },
+    {
+        "authors": [
+            "Stuart Malone",
+            "Sue Felshin"
+        ],
+        "title": "An Efficient Method for Parsing Erroneous Input",
+        "url": "https://www.aclweb.org/anthology/W89-0237/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-37"
+    },
+    {
+        "authors": [
+            "Deok Ho Yoon",
+            "Yung Taek Kim"
+        ],
+        "title": "Analysis Techniques for Korean Sentences Based on Lexical Functional Grammar",
+        "url": "https://www.aclweb.org/anthology/W89-0238/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-38"
+    },
+    {
+        "authors": [
+            "Kazunori Matsumoto",
+            "Hiroshi Sakaki",
+            "Shingo Kuroiwa"
+        ],
+        "title": "Learning Cooccurrences by using a Parser",
+        "url": "https://www.aclweb.org/anthology/W89-0239/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-39"
+    },
+    {
+        "authors": [
+            "Kenneth Church",
+            "William Gale",
+            "Patrick Hanks",
+            "Donald Hindle"
+        ],
+        "title": "Parsing, Word Associations and Typical Predicate-Argument Relations",
+        "url": "https://www.aclweb.org/anthology/W89-0240/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-40"
+    },
+    {
+        "authors": [
+            "Neil K. Simpkins",
+            "Peter J. Hancox"
+        ],
+        "title": "An Efficient, Primarily Bottom-Up Parser for Unification Grammars",
+        "url": "https://www.aclweb.org/anthology/W89-0241/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-41"
+    },
+    {
+        "authors": [
+            "Brian M. Slator",
+            "Yorick Wilks"
+        ],
+        "title": "PREMO: Parsing by Conspicuous Lexical Consumption",
+        "url": "https://www.aclweb.org/anthology/W89-0242/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-42"
+    },
+    {
+        "authors": [
+            "Masaru Tomita"
+        ],
+        "title": "Parsing 2-Dimensional Language",
+        "url": "https://www.aclweb.org/anthology/W89-0243/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-43"
+    },
+    {
+        "authors": [
+            "Karen Jensen"
+        ],
+        "title": "A Broad-Coverage Natural Language Analysis System",
+        "url": "https://www.aclweb.org/anthology/W89-0244/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-44"
+    },
+    {
+        "authors": [
+            "S Pal Asija"
+        ],
+        "title": "Pseudo Parsing Swift-Answer Algorithm",
+        "url": "https://www.aclweb.org/anthology/W89-0245/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-45"
+    },
+    {
+        "authors": [
+            "Eva Hajičová"
+        ],
+        "title": "A Dependency-Based Parser for Topic and Focus",
+        "url": "https://www.aclweb.org/anthology/W89-0246/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-46"
+    },
+    {
+        "authors": [
+            "Navin Budhiraja",
+            "Subrata Mitra",
+            "Harish Karnick",
+            "Rajeev Sangal"
+        ],
+        "title": "Parsing Generalized Phrase Structure Grammar with Dynamic Expansion",
+        "url": "https://www.aclweb.org/anthology/W89-0247/",
+        "source_type": "WS",
+        "year": "1989",
+        "source": "WS89",
+        "id": "WS89-47"
+    }
+]

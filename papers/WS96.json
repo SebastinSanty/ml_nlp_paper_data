@@ -1,0 +1,906 @@
+[
+    {
+        "authors": [],
+        "title": "Fourth Workshop on Very Large Corpora",
+        "url": "https://www.aclweb.org/anthology/W96-0100/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-0"
+    },
+    {
+        "authors": [
+            "Evelyne Tzoukermann",
+            "Dragomir R. Radev"
+        ],
+        "title": "Using Word Class for Part-of-speech Disambiguation",
+        "url": "https://www.aclweb.org/anthology/W96-0101/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-1"
+    },
+    {
+        "authors": [
+            "Walter Daelemans",
+            "Jakub Zavrel",
+            "Peter Berck",
+            "Steven Gillis"
+        ],
+        "title": "MBT: A Memory-Based Part of Speech Tagger-Generator",
+        "url": "https://www.aclweb.org/anthology/W96-0102/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-2"
+    },
+    {
+        "authors": [
+            "Akira Ushioda"
+        ],
+        "title": "Hierarchical Clustering of Words and Application to NLP Tasks",
+        "url": "https://www.aclweb.org/anthology/W96-0103/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-3"
+    },
+    {
+        "authors": [
+            "Yael Karov",
+            "Shimon Edelman"
+        ],
+        "title": "Learning Similarity-based Word Sense Disambiguation from Sparse Data",
+        "url": "https://www.aclweb.org/anthology/W96-0104/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-4"
+    },
+    {
+        "authors": [
+            "Atsushi Fujii",
+            "Kentaro Inui",
+            "Takenobu Tokunaga",
+            "Hozumi Tanaka"
+        ],
+        "title": "Selective Sampling of Effective Example Sentence Sets for Word Sense Disambiguation",
+        "url": "https://www.aclweb.org/anthology/W96-0105/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-5"
+    },
+    {
+        "authors": [
+            "Christer Samuelsson"
+        ],
+        "title": "Relating Turing’s Formula and Zipf’s Law",
+        "url": "https://www.aclweb.org/anthology/W96-0106/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-6"
+    },
+    {
+        "authors": [
+            "Mihoko Kitamura",
+            "Yuji Matsumoto"
+        ],
+        "title": "Automatic Extraction of Word Sequence Correspondences in Parallel Corpora",
+        "url": "https://www.aclweb.org/anthology/W96-0107/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-7"
+    },
+    {
+        "authors": [
+            "Xiang Tong",
+            "David A. Evans"
+        ],
+        "title": "A Statistical Approach to Automatic OCR Error Correction in Context",
+        "url": "https://www.aclweb.org/anthology/W96-0108/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-8"
+    },
+    {
+        "authors": [
+            "Tadashi Nomoto",
+            "Yuji Matsumoto"
+        ],
+        "title": "Exploiting Text Structure for Topic Identification",
+        "url": "https://www.aclweb.org/anthology/W96-0109/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-9"
+    },
+    {
+        "authors": [
+            "TungHui Chiang",
+            "Keh-Yih Su"
+        ],
+        "title": "Statistical Models for Deep-structure Disambiguation",
+        "url": "https://www.aclweb.org/anthology/W96-0110/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-10"
+    },
+    {
+        "authors": [
+            "Rens Bod"
+        ],
+        "title": "Two Questions about Data-Oriented Parsing",
+        "url": "https://www.aclweb.org/anthology/W96-0111/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-11"
+    },
+    {
+        "authors": [
+            "Hang Li"
+        ],
+        "title": "A Probabilistic Disambiguation Method Based on Psycholinguistic Principles",
+        "url": "https://www.aclweb.org/anthology/W96-0112/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-12"
+    },
+    {
+        "authors": [
+            "Mikio Yamamoto"
+        ],
+        "title": "A Re-estimation Method for Stochastic Language Modeling from Ambiguous Observations",
+        "url": "https://www.aclweb.org/anthology/W96-0113/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-13"
+    },
+    {
+        "authors": [
+            "Thanaruk Theeramunkong",
+            "Manabu Okumara"
+        ],
+        "title": "Towards Automatic Grammar Acquisition from a Bracketed Corpus",
+        "url": "https://www.aclweb.org/anthology/W96-0114/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-14"
+    },
+    {
+        "authors": [],
+        "title": "Conference on Empirical Methods in Natural Language Processing",
+        "url": "https://www.aclweb.org/anthology/W96-0200/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-15"
+    },
+    {
+        "authors": [
+            "I. Dan Melamed"
+        ],
+        "title": "A Geometric Approach to Mapping Bitext Correspondence",
+        "url": "https://www.aclweb.org/anthology/W96-0201/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-16"
+    },
+    {
+        "authors": [
+            "Xuanyin Xia",
+            "Dekai Wu"
+        ],
+        "title": "Parsing Chinese With an Almost-Context-Free Grammar",
+        "url": "https://www.aclweb.org/anthology/W96-0202/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-17"
+    },
+    {
+        "authors": [
+            "R. Basili",
+            "A. Marziali",
+            "M.T. Pazienza",
+            "P. Velardi"
+        ],
+        "title": "Unsupervised Learning of Syntactic Knowledge: Methods and Measures",
+        "url": "https://www.aclweb.org/anthology/W96-0203/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-18"
+    },
+    {
+        "authors": [
+            "Marie Meteer",
+            "Rukmini Iyer"
+        ],
+        "title": "Modeling Conversational Speech for Speech Recognition",
+        "url": "https://www.aclweb.org/anthology/W96-0204/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-19"
+    },
+    {
+        "authors": [
+            "Masaaki Nagata"
+        ],
+        "title": "Automatic Extraction of New Words from Japanese Texts using Generalized Forward-Backward Search",
+        "url": "https://www.aclweb.org/anthology/W96-0205/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-20"
+    },
+    {
+        "authors": [
+            "Thorsten Brants"
+        ],
+        "title": "Better Language Models with Model Merging",
+        "url": "https://www.aclweb.org/anthology/W96-0206/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-21"
+    },
+    {
+        "authors": [
+            "Kemal Oflazer",
+            "Gokhan Tur"
+        ],
+        "title": "Combining Hand-crafted Rules and Unsupervised Learning in Constraint-based Morphological Disambiguation",
+        "url": "https://www.aclweb.org/anthology/W96-0207/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-22"
+    },
+    {
+        "authors": [
+            "Raymond J. Mooney"
+        ],
+        "title": "Comparative Experiments on Disambiguating Word Senses: An Illustration of the Role of Bias in Machine Learning",
+        "url": "https://www.aclweb.org/anthology/W96-0208/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-23"
+    },
+    {
+        "authors": [
+            "John Carroll",
+            "Ted Briscoe"
+        ],
+        "title": "Apportioning Development Effort in a Probabilistic LR Parsing System Through Evaluation",
+        "url": "https://www.aclweb.org/anthology/W96-0209/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-24"
+    },
+    {
+        "authors": [
+            "Rebecca Bruce",
+            "Janyce Wiebe",
+            "Ted Pedersen"
+        ],
+        "title": "The Measure of a Model",
+        "url": "https://www.aclweb.org/anthology/W96-0210/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-25"
+    },
+    {
+        "authors": [
+            "Claire Cardie"
+        ],
+        "title": "Automating Feature Set Selection for Case-Based Learning of Linguistic Knowledge",
+        "url": "https://www.aclweb.org/anthology/W96-0211/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-26"
+    },
+    {
+        "authors": [
+            "Sharon A. Caraballo",
+            "Eugene Charniak"
+        ],
+        "title": "Figures of Merit for Best-First Probabilistic Chart Parsing",
+        "url": "https://www.aclweb.org/anthology/W96-0212/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-27"
+    },
+    {
+        "authors": [
+            "Adwait Ratnaparkhi"
+        ],
+        "title": "A Maximum Entropy Model for Part-Of-Speech Tagging",
+        "url": "https://www.aclweb.org/anthology/W96-0213/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-28"
+    },
+    {
+        "authors": [
+            "Joshua Goodman"
+        ],
+        "title": "Efficient Algorithms for Parsing the DOP Model",
+        "url": "https://www.aclweb.org/anthology/W96-0214/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-29"
+    },
+    {
+        "authors": [],
+        "title": "Breadth and Depth of Semantic Lexicons",
+        "url": "https://www.aclweb.org/anthology/W96-0300/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-30"
+    },
+    {
+        "authors": [
+            "Evelyne Viegas"
+        ],
+        "title": "Breadth and Depth of Semantic Lexicons - Notes on the Workshop",
+        "url": "https://www.aclweb.org/anthology/W96-0301/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-31"
+    },
+    {
+        "authors": [
+            "Leonard Talmy"
+        ],
+        "title": "How language Structures Concepts - an Outline",
+        "url": "https://www.aclweb.org/anthology/W96-0302/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-32"
+    },
+    {
+        "authors": [
+            "Ted Briscoe",
+            "Ann Copestake"
+        ],
+        "title": "Controlling the Application of Lexical Rules",
+        "url": "https://www.aclweb.org/anthology/W96-0303/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-33"
+    },
+    {
+        "authors": [
+            "Jill Burstein",
+            "Randy Kaplan",
+            "Susanne Wolff",
+            "Chi Lu"
+        ],
+        "title": "Using Lexical Semantic Techniques to Classify Free-Responses",
+        "url": "https://www.aclweb.org/anthology/W96-0304/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-34"
+    },
+    {
+        "authors": [
+            "Jason J.S. Chang",
+            "J.N. Chen"
+        ],
+        "title": "Acquisition of Computational-Semantic Lexicons from Machine Readable Lexical Resources",
+        "url": "https://www.aclweb.org/anthology/W96-0305/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-35"
+    },
+    {
+        "authors": [
+            "Bonnie J. Dorr",
+            "Doug Jones"
+        ],
+        "title": "Acquisition of Semantic Lexicons: Using Word Sense Disambiguation to Improve Precision",
+        "url": "https://www.aclweb.org/anthology/W96-0306/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-36"
+    },
+    {
+        "authors": [
+            "Brendan S. Gillon"
+        ],
+        "title": "The Lexical Semantics of English Count and Mass Nouns",
+        "url": "https://www.aclweb.org/anthology/W96-0307/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-37"
+    },
+    {
+        "authors": [
+            "Stephen Helmreich",
+            "David Farwell"
+        ],
+        "title": "Lexical Rules is Italicized",
+        "url": "https://www.aclweb.org/anthology/W96-0308/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-38"
+    },
+    {
+        "authors": [
+            "Michael Johnston",
+            "Federica Busa"
+        ],
+        "title": "Qualia Structure and the Compositional Interpretation of Compounds",
+        "url": "https://www.aclweb.org/anthology/W96-0309/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-39"
+    },
+    {
+        "authors": [
+            "Victor Raskin",
+            "Sergei Nirenburg"
+        ],
+        "title": "Lexical Rules for Deverbal Adjectives",
+        "url": "https://www.aclweb.org/anthology/W96-0310/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-40"
+    },
+    {
+        "authors": [
+            "Onur T. Sehitoglu",
+            "H. Cem Bozsahin"
+        ],
+        "title": "Morphological Productivity in the Lexicon",
+        "url": "https://www.aclweb.org/anthology/W96-0311/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-41"
+    },
+    {
+        "authors": [],
+        "title": "Eighth International Natural Language Generation Workshop",
+        "url": "https://www.aclweb.org/anthology/W96-0400/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-42"
+    },
+    {
+        "authors": [
+            "Leo Wanner",
+            "Eduard Hovy"
+        ],
+        "title": "The HealthDoc Sentence Planner",
+        "url": "https://www.aclweb.org/anthology/W96-0401/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-43"
+    },
+    {
+        "authors": [
+            "Keith Vander Linden",
+            "Barbara Di Eugenio"
+        ],
+        "title": "Learning Micro-Planning Rules for Preventive Expressions",
+        "url": "https://www.aclweb.org/anthology/W96-0402/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-44"
+    },
+    {
+        "authors": [
+            "Xiaorong Huang",
+            "Armin Fiedler"
+        ],
+        "title": "Paraphrasing and Aggregating Argumentative Texts Using Text Structure",
+        "url": "https://www.aclweb.org/anthology/W96-0403/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-45"
+    },
+    {
+        "authors": [
+            "Nicolas Nicolov",
+            "Chris Mellish",
+            "Graeme Ritchie"
+        ],
+        "title": "Approximate Generation from Non-Hierarchical Representations",
+        "url": "https://www.aclweb.org/anthology/W96-0404/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-46"
+    },
+    {
+        "authors": [
+            "Michael O’Donnell"
+        ],
+        "title": "Input Specification in the WAG Sentence Generation System",
+        "url": "https://www.aclweb.org/anthology/W96-0405/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-47"
+    },
+    {
+        "authors": [
+            "Massimo Fasciano",
+            "Guy Lapalme"
+        ],
+        "title": "PostGraphe: A System for the Generation of Statistical Graphics and Text",
+        "url": "https://www.aclweb.org/anthology/W96-0406/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-48"
+    },
+    {
+        "authors": [
+            "Svetlana Sheremetyeva",
+            "Sergei Nirenburg",
+            "Irene Nirenburg"
+        ],
+        "title": "Generating Patent Claims from Interactive Input",
+        "url": "https://www.aclweb.org/anthology/W96-0407/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-49"
+    },
+    {
+        "authors": [
+            "Kathleen F. McCoy",
+            "Christopher A. Penpington"
+        ],
+        "title": "Considering the Effects of Second Language Learning on Generation",
+        "url": "https://www.aclweb.org/anthology/W96-0408/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-50"
+    },
+    {
+        "authors": [
+            "Dilek Zeynep Hakkani",
+            "Kemal Oflazer",
+            "Ilyas Cicekli"
+        ],
+        "title": "Tactical Generation in a Free Constituent Order Language",
+        "url": "https://www.aclweb.org/anthology/W96-0409/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-51"
+    },
+    {
+        "authors": [
+            "Matthew Stone",
+            "Christine Doran"
+        ],
+        "title": "Paying Heed to Collocations",
+        "url": "https://www.aclweb.org/anthology/W96-0410/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-52"
+    },
+    {
+        "authors": [
+            "Stephan Busemann"
+        ],
+        "title": "Best-First Surface Realization",
+        "url": "https://www.aclweb.org/anthology/W96-0411/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-53"
+    },
+    {
+        "authors": [
+            "Ching-Long Yeh"
+        ],
+        "title": "An Evaluation of Anaphor Generation in Chinese",
+        "url": "https://www.aclweb.org/anthology/W96-0412/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-54"
+    },
+    {
+        "authors": [
+            "Norman Creaney"
+        ],
+        "title": "An Algorithm for Generating Quantifiers",
+        "url": "https://www.aclweb.org/anthology/W96-0413/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-55"
+    },
+    {
+        "authors": [
+            "Farid Cerbah"
+        ],
+        "title": "A Study’of some Lexical Differences between French and Englisfi Instructions in a Multilingual Generation Framework",
+        "url": "https://www.aclweb.org/anthology/W96-0414/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-56"
+    },
+    {
+        "authors": [
+            "Manfred Stede"
+        ],
+        "title": "A generative perspecl:ive on verbs and their readings",
+        "url": "https://www.aclweb.org/anthology/W96-0415/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-57"
+    },
+    {
+        "authors": [
+            "Alistair Knott",
+            "Chris Mellish",
+            "Jon Oberlander",
+            "Mick O’Donnell"
+        ],
+        "title": "Sources of Flexibility in Dynamic Hypertext Generation",
+        "url": "https://www.aclweb.org/anthology/W96-0416/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-58"
+    },
+    {
+        "authors": [
+            "Maria Milosavljevic",
+            "Robert Dale"
+        ],
+        "title": "Strategies for Comparison in Encyclopmdia Descriptions",
+        "url": "https://www.aclweb.org/anthology/W96-0417/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-59"
+    },
+    {
+        "authors": [
+            "Brigitte Grote"
+        ],
+        "title": "Matchmaking: dialogue modelling and speech generation meet",
+        "url": "https://www.aclweb.org/anthology/W96-0418/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-60"
+    },
+    {
+        "authors": [],
+        "title": "Author Index",
+        "url": "https://www.aclweb.org/anthology/W96-0419/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-61"
+    },
+    {
+        "authors": [],
+        "title": "Eighth International Natural Language Generation Workshop (Posters and Demonstrations)",
+        "url": "https://www.aclweb.org/anthology/W96-0500/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-62"
+    },
+    {
+        "authors": [
+            "Michael Elhadad",
+            "Jacques Robin"
+        ],
+        "title": "An Overview of SURGE: a Reusable Comprehensive Syntactic Realization Component",
+        "url": "https://www.aclweb.org/anthology/W96-0501/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-63"
+    },
+    {
+        "authors": [
+            "Bruce Jakeway",
+            "Chrysanne DiMarco"
+        ],
+        "title": "SPLAT: A sentence-plan authoring tool",
+        "url": "https://www.aclweb.org/anthology/W96-0502/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-64"
+    },
+    {
+        "authors": [
+            "Benoit Lavoie",
+            "Owen Rambow",
+            "Ehud Reiter"
+        ],
+        "title": "The ModelExplainer",
+        "url": "https://www.aclweb.org/anthology/W96-0503/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-65"
+    },
+    {
+        "authors": [
+            "Cécile Paris",
+            "Keith Vander Linden"
+        ],
+        "title": "DRAFTER",
+        "url": "https://www.aclweb.org/anthology/W96-0504/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-66"
+    },
+    {
+        "authors": [
+            "Richard Power",
+            "Nico Cavallotto"
+        ],
+        "title": "Multilingual generation of administrative forms",
+        "url": "https://www.aclweb.org/anthology/W96-0505/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-67"
+    },
+    {
+        "authors": [
+            "Stephen Beale",
+            "Sergei Nirenburg"
+        ],
+        "title": "PICARD: The Next Generator",
+        "url": "https://www.aclweb.org/anthology/W96-0506/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-68"
+    },
+    {
+        "authors": [
+            "José Coch"
+        ],
+        "title": "Overview of AlethGen",
+        "url": "https://www.aclweb.org/anthology/W96-0507/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-69"
+    },
+    {
+        "authors": [
+            "Hercules Dalianis",
+            "Eduard Hovy"
+        ],
+        "title": "On Lexical Aggregation and Ordering",
+        "url": "https://www.aclweb.org/anthology/W96-0508/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-70"
+    },
+    {
+        "authors": [
+            "Barbara Di Eugenio",
+            "Johanna D. Moore"
+        ],
+        "title": "Generating ‘Distributed’ Referring Expressions: an Initial Report",
+        "url": "https://www.aclweb.org/anthology/W96-0509/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-71"
+    },
+    {
+        "authors": [
+            "Beryl Hoffman"
+        ],
+        "title": "Summarization: an Application for NL Generation",
+        "url": "https://www.aclweb.org/anthology/W96-0510/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-72"
+    },
+    {
+        "authors": [
+            "Yuen Q. Lin",
+            "Robin P. Fawcett"
+        ],
+        "title": "Implementing an Integration of the Systemic Flowchart Model of Dialogue and Rhetorical Structure Theory",
+        "url": "https://www.aclweb.org/anthology/W96-0511/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-73"
+    },
+    {
+        "authors": [
+            "Dragomir R. Radev"
+        ],
+        "title": "An Architecture For Distributed Natural Language Summarization",
+        "url": "https://www.aclweb.org/anthology/W96-0512/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-74"
+    },
+    {
+        "authors": [
+            "Evelyne Viegas",
+            "Stephen Beale"
+        ],
+        "title": "Multilinguality and Reversibility in Computational Semantic Lexicons",
+        "url": "https://www.aclweb.org/anthology/W96-0513/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-75"
+    },
+    {
+        "authors": [
+            "Soenke Ziesche"
+        ],
+        "title": "The Computation of the Informational Status of Discourse Entities",
+        "url": "https://www.aclweb.org/anthology/W96-0514/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-76"
+    },
+    {
+        "authors": [],
+        "title": "Author Index",
+        "url": "https://www.aclweb.org/anthology/W96-0515/",
+        "source_type": "WS",
+        "year": "1996",
+        "source": "WS96",
+        "id": "WS96-77"
+    }
+]

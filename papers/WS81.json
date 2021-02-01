@@ -1,0 +1,301 @@
+[
+    {
+        "authors": [
+            "Eirik Lien"
+        ],
+        "title": "Proceedings of the 3rd Nordic Conference of Computational Linguistics (NODALIDA 1981)",
+        "url": "https://www.aclweb.org/anthology/W81-0100/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-0"
+    },
+    {
+        "authors": [
+            "Per Vestbøstad"
+        ],
+        "title": "Norsk tekstarkiv etter halvtanna års drift (The Norwegian text archive after eighteen years of operation) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W81-0101/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-1"
+    },
+    {
+        "authors": [
+            "Roald Skarsten"
+        ],
+        "title": "Presentasjon og kommentarer til norsk utgave av C. Mullers bok “Lingvistisk Statistikk” (Presentation and comments on the Norwegian edition of C. Muller’s book “Linguistic Statistics”) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W81-0102/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-2"
+    },
+    {
+        "authors": [
+            "Rolf Gavare"
+        ],
+        "title": "Lexikografisk alfabetisering (Lexicographic alphabetization) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W81-0103/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-3"
+    },
+    {
+        "authors": [
+            "Benny Brodda"
+        ],
+        "title": "“The TAGGER” [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W81-0104/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-4"
+    },
+    {
+        "authors": [
+            "Gunnar Thorvaldsen"
+        ],
+        "title": "Normalisering av personnavn (Normalization of personal names) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W81-0105/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-5"
+    },
+    {
+        "authors": [
+            "Eric Grinstead"
+        ],
+        "title": "A method for the study of compound words in Chinese",
+        "url": "https://www.aclweb.org/anthology/W81-0106/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-6"
+    },
+    {
+        "authors": [
+            "Milan Bílý"
+        ],
+        "title": "Experience with COMMENTATOR, a computer system simulating verbal behaviour",
+        "url": "https://www.aclweb.org/anthology/W81-0107/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-7"
+    },
+    {
+        "authors": [
+            "Gregers Koch"
+        ],
+        "title": "En problemorienteret programmeludviklingsmetode i lingvistisk databehandling (A problem oriented programming development method in linguistic data processing) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W81-0108/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-8"
+    },
+    {
+        "authors": [
+            "Tor Stålhane"
+        ],
+        "title": "Leksikalisk analyse i mjuke system (Lexical analysis in “Mjuke System”) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W81-0109/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-9"
+    },
+    {
+        "authors": [
+            "Tore Amble"
+        ],
+        "title": "Å være eller å ha, det er spørsmålet (To be or to have, that is the question) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W81-0110/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-10"
+    },
+    {
+        "authors": [
+            "Kolbjørn Heggstad"
+        ],
+        "title": "Datalingvistikken og dei språkhemma (Computational linguistics and language impairment) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W81-0111/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-11"
+    },
+    {
+        "authors": [
+            "Anna Sågvall Hein"
+        ],
+        "title": "Uppsala Chart Parser, Version 2 (UCP-2) – En översikt (Uppsala Chart Parser, Version 2 (UCP-2) – An overview) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W81-0112/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-12"
+    },
+    {
+        "authors": [
+            "Knut Hofland"
+        ],
+        "title": "Grammatisk merking av LOB-korpus (Grammatical marking of the LOB corpus) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W81-0113/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-13"
+    },
+    {
+        "authors": [
+            "Mette-Cathrine Jahr",
+            "Stig Johansson"
+        ],
+        "title": "Grammatisk merking av The Lancaster-Oslo/Bergen Corpus: ordklassebestemmelse ved hjelp av ordslutt (Grammatical marking of The Lancaster-Oslo/Bergen Corpus: Part-of-speech classification using word endings) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W81-0114/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-14"
+    },
+    {
+        "authors": [
+            "Anne Golden"
+        ],
+        "title": "Presentasjon av prosjektet lærebokspråk (Presentation of the Textbook Language Project) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W81-0115/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-15"
+    },
+    {
+        "authors": [
+            "Anne Karin Ro",
+            "Eirik Lien"
+        ],
+        "title": "Wycliffes Bibeltekster på RA2 (Wycliffe’s Bible texts in RA2) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W81-0116/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-16"
+    },
+    {
+        "authors": [
+            "Hanne Ruus"
+        ],
+        "title": "Ordbøger for fremtiden (Lexica for the future) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W81-0117/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-17"
+    },
+    {
+        "authors": [
+            "Jonas Löfström"
+        ],
+        "title": "Dolda ordbildningsmönster. Några problem inom datamaskinell lexikologi (Hidden word formation patterns. Some problems in computational lexicology) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W81-0118/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-18"
+    },
+    {
+        "authors": [
+            "Helmer Gustavson"
+        ],
+        "title": "Förarbeten till en datoriserad runordbok (Preliminary work for a computerized rune lexicon) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W81-0119/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-19"
+    },
+    {
+        "authors": [
+            "Karen Margrethe Pedersen"
+        ],
+        "title": "Om anvendelse af et teksktkorpus til supplering af ordbogsmateriale (Using a text corpus to supplement dictionary material) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W81-0120/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-20"
+    },
+    {
+        "authors": [
+            "Håvard Hjulstad"
+        ],
+        "title": "Databehandling av norsk handordbok (Data processing of the Norwegian Desk Dictionary) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W81-0121/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-21"
+    },
+    {
+        "authors": [
+            "Tove Fjeldvig"
+        ],
+        "title": "Utvikling av enkle metoder for teksktsøking med søkeargumenter i naturlig språk (Development of simple methods for text search with search arguments in natural language) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W81-0122/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-22"
+    },
+    {
+        "authors": [
+            "Knut Kleve"
+        ],
+        "title": "“Pattern Recognition” i papyrusforskning (Pattern Recognition in papyrus research) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W81-0123/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-23"
+    },
+    {
+        "authors": [
+            "Øystein Reigem"
+        ],
+        "title": "SIFT (Søking I Fri Tekst) – Et generelt informasjonssøkesystem (SIFT (Search in Free Text) – A general information retrieval system) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W81-0124/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-24"
+    },
+    {
+        "authors": [
+            "Hans Olav Egede Larsen"
+        ],
+        "title": "Sør eller syd – norsk “dobbeltform” med betydningsdifferensiering? (Sør (south) eller syd (south) – Norwegian official spelling variant with meaning differentiation?) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W81-0125/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-25"
+    },
+    {
+        "authors": [
+            "Sture Allén"
+        ],
+        "title": "Vad är datalingvistik? (What is computational linguistics?) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W81-0126/",
+        "source_type": "WS",
+        "year": "1981",
+        "source": "WS81",
+        "id": "WS81-26"
+    }
+]

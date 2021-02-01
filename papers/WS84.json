@@ -1,0 +1,229 @@
+[
+    {
+        "authors": [
+            "Anna Sågvall Hein"
+        ],
+        "title": "Proceedings of the 4th Nordic Conference of Computational Linguistics (NODALIDA 1983)",
+        "url": "https://www.aclweb.org/anthology/W83-0100/",
+        "source_type": "WS",
+        "year": "1984",
+        "source": "WS84",
+        "id": "WS84-0"
+    },
+    {
+        "authors": [
+            "Lars Ahrenberg"
+        ],
+        "title": "De grammatiska beskrivningarna i SVE.UCP (The grammatical descriptions in SVE.UCP) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W83-0101/",
+        "source_type": "WS",
+        "year": "1984",
+        "source": "WS84",
+        "id": "WS84-1"
+    },
+    {
+        "authors": [
+            "Sture Allén"
+        ],
+        "title": "Inte bara idiom (Not only idioms) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W83-0102/",
+        "source_type": "WS",
+        "year": "1984",
+        "source": "WS84",
+        "id": "WS84-2"
+    },
+    {
+        "authors": [
+            "Bengt Beckman"
+        ],
+        "title": "Utnyttjande av ordklasser for författarbestämning (Utilization of part of speech for authorship attribution) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W83-0103/",
+        "source_type": "WS",
+        "year": "1984",
+        "source": "WS84",
+        "id": "WS84-3"
+    },
+    {
+        "authors": [
+            "Arendse Bernth"
+        ],
+        "title": "Logik anvendt til oversættelse af japansk (Logic used for translation of Japanese) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W83-0104/",
+        "source_type": "WS",
+        "year": "1984",
+        "source": "WS84",
+        "id": "WS84-4"
+    },
+    {
+        "authors": [
+            "Lars Borin"
+        ],
+        "title": "Ett textdatabassystem för lingvister (A text database system for linguists) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W83-0105/",
+        "source_type": "WS",
+        "year": "1984",
+        "source": "WS84",
+        "id": "WS84-5"
+    },
+    {
+        "authors": [
+            "Benny Brodda"
+        ],
+        "title": "Rättsinformatik och lingvistik (Legal Informatics and Linguistics) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W83-0106/",
+        "source_type": "WS",
+        "year": "1984",
+        "source": "WS84",
+        "id": "WS84-6"
+    },
+    {
+        "authors": [
+            "Helge Dyvik",
+            "Knut Hofland"
+        ],
+        "title": "Parsing basert på LFG: Et MIT/Xerox-system applisert på norsk (Parsing based on LFG: A MIT/Xerox system applied on Norwegian) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W83-0107/",
+        "source_type": "WS",
+        "year": "1984",
+        "source": "WS84",
+        "id": "WS84-7"
+    },
+    {
+        "authors": [
+            "Jens Erlandsen"
+        ],
+        "title": "GESA, et GEnerelt System til Analyse af naturlige sprog, udformet som et oversætter-for-tolker system med virtuel mellem-kode (GESA, a GEneral System for Analysis of natural language, designed as a compiler system with virtual bytecode) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W83-0108/",
+        "source_type": "WS",
+        "year": "1984",
+        "source": "WS84",
+        "id": "WS84-8"
+    },
+    {
+        "authors": [
+            "Tove Fjeldvig",
+            "Anne Golden"
+        ],
+        "title": "Automatisk rotlemmatisering (Automatic Root Lemmatization) [In Norwegian]",
+        "url": "https://www.aclweb.org/anthology/W83-0109/",
+        "source_type": "WS",
+        "year": "1984",
+        "source": "WS84",
+        "id": "WS84-9"
+    },
+    {
+        "authors": [
+            "Henrik Holmboe"
+        ],
+        "title": "Konkordans over de danske runeindskrifter (Concordance of the Danish runic inscriptions) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W83-0110/",
+        "source_type": "WS",
+        "year": "1984",
+        "source": "WS84",
+        "id": "WS84-10"
+    },
+    {
+        "authors": [
+            "Harri Jäppinen",
+            "Aarno Lehtola",
+            "Esa Nelimarkka",
+            "Matti Ylilammi"
+        ],
+        "title": "Knowledge Engineering Applied to Morphological Analysis",
+        "url": "https://www.aclweb.org/anthology/W83-0111/",
+        "source_type": "WS",
+        "year": "1984",
+        "source": "WS84",
+        "id": "WS84-11"
+    },
+    {
+        "authors": [
+            "Fred Karlsson"
+        ],
+        "title": "Tagging and Parsing Finnish",
+        "url": "https://www.aclweb.org/anthology/W83-0112/",
+        "source_type": "WS",
+        "year": "1984",
+        "source": "WS84",
+        "id": "WS84-12"
+    },
+    {
+        "authors": [
+            "Gregers Koch"
+        ],
+        "title": "Natural Language Programming",
+        "url": "https://www.aclweb.org/anthology/W83-0113/",
+        "source_type": "WS",
+        "year": "1984",
+        "source": "WS84",
+        "id": "WS84-13"
+    },
+    {
+        "authors": [
+            "Kimmo Koskenniemi"
+        ],
+        "title": "A General Computational Model for Word-Form Recognition and Production",
+        "url": "https://www.aclweb.org/anthology/W83-0114/",
+        "source_type": "WS",
+        "year": "1984",
+        "source": "WS84",
+        "id": "WS84-14"
+    },
+    {
+        "authors": [
+            "Gunnel Källgren"
+        ],
+        "title": "HP – A Heuristic Finite State Parser Based on Morphology",
+        "url": "https://www.aclweb.org/anthology/W83-0115/",
+        "source_type": "WS",
+        "year": "1984",
+        "source": "WS84",
+        "id": "WS84-15"
+    },
+    {
+        "authors": [
+            "Bente Maegaard"
+        ],
+        "title": "Regelformalismer til brug ved datamatisk lingvistik (Rule formalisms for use in computational linguistics) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W83-0116/",
+        "source_type": "WS",
+        "year": "1984",
+        "source": "WS84",
+        "id": "WS84-16"
+    },
+    {
+        "authors": [
+            "Esa Nelimarkka",
+            "Harri Jäppinen",
+            "Aarno Lehtola"
+        ],
+        "title": "A Computational Model of Finnish Sentence Structure",
+        "url": "https://www.aclweb.org/anthology/W83-0117/",
+        "source_type": "WS",
+        "year": "1984",
+        "source": "WS84",
+        "id": "WS84-17"
+    },
+    {
+        "authors": [
+            "Hanne Ruus"
+        ],
+        "title": "Dansk morfologi til automatisk analyse (Danish morphology for automatic analysis) [In Danish]",
+        "url": "https://www.aclweb.org/anthology/W83-0118/",
+        "source_type": "WS",
+        "year": "1984",
+        "source": "WS84",
+        "id": "WS84-18"
+    },
+    {
+        "authors": [
+            "Anna Sågvall Hein"
+        ],
+        "title": "Regelaktivering i en parser för svenska (SVE.UCP) (Rule activation in a parser for Swedish (SVE.UCP)) [In Swedish]",
+        "url": "https://www.aclweb.org/anthology/W83-0119/",
+        "source_type": "WS",
+        "year": "1984",
+        "source": "WS84",
+        "id": "WS84-19"
+    }
+]

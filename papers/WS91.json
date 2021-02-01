@@ -1,0 +1,486 @@
+[
+    {
+        "authors": [],
+        "title": "Reversible Grammar in Natural Language Processing",
+        "url": "https://www.aclweb.org/anthology/W91-0100/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-0"
+    },
+    {
+        "authors": [
+            "Martin Kay"
+        ],
+        "title": "MONOTONICITY, HEADEDNESS, AND REVERSIBLE GRAMMAR",
+        "url": "https://www.aclweb.org/anthology/W91-0101/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-1"
+    },
+    {
+        "authors": [
+            "Palmira Marrafa",
+            "Patrick Saint-Dizier"
+        ],
+        "title": "Reversibility in a Constraint and Type based Logic Grammar: Application to Secondary Predication",
+        "url": "https://www.aclweb.org/anthology/W91-0102/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-2"
+    },
+    {
+        "authors": [
+            "Gertjan van Noord"
+        ],
+        "title": "Towards Uniform Processing of Constraint-based Categorial Grammars",
+        "url": "https://www.aclweb.org/anthology/W91-0103/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-3"
+    },
+    {
+        "authors": [
+            "Marc Dymetman"
+        ],
+        "title": "Inherently Reversible Grammars, Logic Programming and Computability",
+        "url": "https://www.aclweb.org/anthology/W91-0104/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-4"
+    },
+    {
+        "authors": [
+            "Gunter Neumann"
+        ],
+        "title": "REVERSIBILITY AND MODULARITY IN NATURAL LANGUAGE GENERATION",
+        "url": "https://www.aclweb.org/anthology/W91-0105/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-5"
+    },
+    {
+        "authors": [
+            "David D. McDonald"
+        ],
+        "title": "REVERSIBLE NLP BY DERIVING THE GRAMMARS FROM THE KNOWLEDGE BASE",
+        "url": "https://www.aclweb.org/anthology/W91-0106/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-6"
+    },
+    {
+        "authors": [
+            "Lee Fedder"
+        ],
+        "title": "SYNTACTIC CHOICE IN LANGUAGE GENERATION",
+        "url": "https://www.aclweb.org/anthology/W91-0107/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-7"
+    },
+    {
+        "authors": [
+            "Henry S. Thompson"
+        ],
+        "title": "GENERATION AND TRANSLATION TOWARDS A FORMALISM-INDEPENDENT CHARACTERISATION",
+        "url": "https://www.aclweb.org/anthology/W91-0108/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-8"
+    },
+    {
+        "authors": [
+            "James Barnett",
+            "Inderjeet Mani",
+            "Paul Martin",
+            "Elaine Rich"
+        ],
+        "title": "REVERSIBLE MACHINE TRANSLATION: WHAT TO DO WHEN THE LANGUAGES DON’T LINE UP",
+        "url": "https://www.aclweb.org/anthology/W91-0109/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-9"
+    },
+    {
+        "authors": [
+            "Remi Zajac"
+        ],
+        "title": "A Uniform Architecture for Parsing, Generation and Transfer",
+        "url": "https://www.aclweb.org/anthology/W91-0110/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-10"
+    },
+    {
+        "authors": [
+            "Koiti HASIDA"
+        ],
+        "title": "COMMON HEURISTICS FOR PARSING, GENERATION, AND WHATEVER...",
+        "url": "https://www.aclweb.org/anthology/W91-0111/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-11"
+    },
+    {
+        "authors": [
+            "Tomek Strzalkowski"
+        ],
+        "title": "A GENERAL COMPUTATIONAL METHOD FOR GRAMMAR INVERSION",
+        "url": "https://www.aclweb.org/anthology/W91-0112/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-12"
+    },
+    {
+        "authors": [
+            "Hans Ulrich Block"
+        ],
+        "title": "COMPILING TRACE & UNIFICATION GRAMMAR FOR PARSING AND GENERATION",
+        "url": "https://www.aclweb.org/anthology/W91-0113/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-13"
+    },
+    {
+        "authors": [
+            "James Barnett",
+            "Inderjeet Mani"
+        ],
+        "title": "SHARED PREFERENCES",
+        "url": "https://www.aclweb.org/anthology/W91-0114/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-14"
+    },
+    {
+        "authors": [
+            "Masato Ishizaki"
+        ],
+        "title": "Handling Pragmatic Information With A Reversible Architecture",
+        "url": "https://www.aclweb.org/anthology/W91-0115/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-15"
+    },
+    {
+        "authors": [
+            "Tim F. O’Donoghue"
+        ],
+        "title": "A SEMANTIC INTERPRETER FOR SYSTEMIC GRAMMARS",
+        "url": "https://www.aclweb.org/anthology/W91-0116/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-16"
+    },
+    {
+        "authors": [],
+        "title": "Author Index",
+        "url": "https://www.aclweb.org/anthology/W91-0117/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-17"
+    },
+    {
+        "authors": [],
+        "title": "Lexical Semantics and Knowledge Representation",
+        "url": "https://www.aclweb.org/anthology/W91-0200/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-18"
+    },
+    {
+        "authors": [
+            "Richmond H. Thomason"
+        ],
+        "title": "Knowledge representation and knowledge of words",
+        "url": "https://www.aclweb.org/anthology/W91-0201/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-19"
+    },
+    {
+        "authors": [
+            "Sergei Nirenburg",
+            "Lori Levin"
+        ],
+        "title": "Syntax-Driven and Ontology-Driven Lexical Semantics",
+        "url": "https://www.aclweb.org/anthology/W91-0202/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-20"
+    },
+    {
+        "authors": [
+            "Ingrid Meyer"
+        ],
+        "title": "KNOWLEDGE MANAGEMENT FOR TERMINOLOGY-INTENSIVE APPLICATIONS: NEEDS AND TOOLS",
+        "url": "https://www.aclweb.org/anthology/W91-0203/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-21"
+    },
+    {
+        "authors": [
+            "Stephen Helmreich"
+        ],
+        "title": "Interpretation without Semantics",
+        "url": "https://www.aclweb.org/anthology/W91-0204/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-22"
+    },
+    {
+        "authors": [
+            "John F. Sowa"
+        ],
+        "title": "Logical Structures in the Lexicon",
+        "url": "https://www.aclweb.org/anthology/W91-0205/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-23"
+    },
+    {
+        "authors": [
+            "James H. Martin"
+        ],
+        "title": "Conventional Metaphor and the Lexicon",
+        "url": "https://www.aclweb.org/anthology/W91-0206/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-24"
+    },
+    {
+        "authors": [
+            "Gerrit Burkert",
+            "Peter Forster"
+        ],
+        "title": "Representation of Semantic Knowledge with Term Subsumption Languages",
+        "url": "https://www.aclweb.org/anthology/W91-0207/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-25"
+    },
+    {
+        "authors": [
+            "Nicholas Ostler",
+            "B.T.S. Atkins"
+        ],
+        "title": "Predictable Meaning Shift: Some Linguistic Properties of Lexical Implication Rules",
+        "url": "https://www.aclweb.org/anthology/W91-0208/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-26"
+    },
+    {
+        "authors": [
+            "Ann Copestake",
+            "Ted Briscoe"
+        ],
+        "title": "Lexical Operations in a Unification-based Framework",
+        "url": "https://www.aclweb.org/anthology/W91-0209/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-27"
+    },
+    {
+        "authors": [
+            "Peter Anick",
+            "Sabine Bergler"
+        ],
+        "title": "Lexical Structures for Linguistic Inference",
+        "url": "https://www.aclweb.org/anthology/W91-0210/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-28"
+    },
+    {
+        "authors": [
+            "Willem Meijs",
+            "Piek Vossen"
+        ],
+        "title": "IN SO MANY WORDS KNOWLEDGE AS A LEXICAL PHENOMENON",
+        "url": "https://www.aclweb.org/anthology/W91-0211/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-29"
+    },
+    {
+        "authors": [
+            "Melissa Macpherson"
+        ],
+        "title": "Redefining the “Level” of the “Word”",
+        "url": "https://www.aclweb.org/anthology/W91-0212/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-30"
+    },
+    {
+        "authors": [
+            "John S. White"
+        ],
+        "title": "Lexical and World Knowledge: Theoretical and Applied Viewpoints",
+        "url": "https://www.aclweb.org/anthology/W91-0213/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-31"
+    },
+    {
+        "authors": [
+            "Michael Herweg"
+        ],
+        "title": "Aspectual Requirements of Temporal Connectives: Evidence For A Two-Level Approach to Semantics",
+        "url": "https://www.aclweb.org/anthology/W91-0214/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-32"
+    },
+    {
+        "authors": [
+            "Peter Gerstl"
+        ],
+        "title": "A model for the interaction of lexical and non-lexical knowledge in the determination of word meaning",
+        "url": "https://www.aclweb.org/anthology/W91-0215/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-33"
+    },
+    {
+        "authors": [
+            "Martha Evens",
+            "Joanne Dardaine",
+            "Yu-Fen Huang",
+            "Sun M. Li",
+            "Judith Markowitz",
+            "Frank Rinaldo",
+            "Margi Rinaldo",
+            "Robert Strutz"
+        ],
+        "title": "For the Lexicon That Has Everything",
+        "url": "https://www.aclweb.org/anthology/W91-0216/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-34"
+    },
+    {
+        "authors": [
+            "Nicoletta Calzolari"
+        ],
+        "title": "Acquiring and representing semantic information in a Lexical Knowledge Base",
+        "url": "https://www.aclweb.org/anthology/W91-0217/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-35"
+    },
+    {
+        "authors": [
+            "Martha Palmer"
+        ],
+        "title": "General Lexical Representation for an Effect Predicate",
+        "url": "https://www.aclweb.org/anthology/W91-0218/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-36"
+    },
+    {
+        "authors": [
+            "Tomoymhi MATSUKAWA",
+            "Eiji YOKOTA"
+        ],
+        "title": "Development of the Concept Dictionary Implementation of Lexical Knowledge",
+        "url": "https://www.aclweb.org/anthology/W91-0219/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-37"
+    },
+    {
+        "authors": [
+            "Robert E. Mercer"
+        ],
+        "title": "Presuppositions and Default Reasoning: A Study in Lexical Pragmatics",
+        "url": "https://www.aclweb.org/anthology/W91-0220/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-38"
+    },
+    {
+        "authors": [
+            "Boyan A. Onyshkevych"
+        ],
+        "title": "Lexicon, Ontology and Text Meaning",
+        "url": "https://www.aclweb.org/anthology/W91-0221/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-39"
+    },
+    {
+        "authors": [
+            "Bonnie J. Dorr"
+        ],
+        "title": "A Two-Level Knowledge Representation for Machine Translation: Lexical Semantics and Tense/Aspect",
+        "url": "https://www.aclweb.org/anthology/W91-0222/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-40"
+    },
+    {
+        "authors": [
+            "Kathleen Dahlgren"
+        ],
+        "title": "The Autonomy of Shallow Lexical Knowledge",
+        "url": "https://www.aclweb.org/anthology/W91-0223/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-41"
+    },
+    {
+        "authors": [],
+        "title": "Author Index",
+        "url": "https://www.aclweb.org/anthology/W91-0224/",
+        "source_type": "WS",
+        "year": "1991",
+        "source": "WS91",
+        "id": "WS91-42"
+    }
+]
